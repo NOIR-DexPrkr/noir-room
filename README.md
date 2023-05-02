@@ -1,2 +1,2 @@
-# noir-room
-[NoirRoom Website](http://NOIR-DexPrkr.github.io/noir-room)
+# Noir-Room
+# [NoirRoom Website](http://NOIR-DexPrkr.github.io/noir-room)
