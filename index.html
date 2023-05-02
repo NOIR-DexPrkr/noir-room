@@ -1,123 +1,24 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
- 	<title>Noir Room</title>
-	 <div id="editor">
-		<p>This is the editor content.</p>
-	</div>
-	<script src="./node_modules/ckeditor/ckeditor.js"></script>
-	<script>
-		CKEDITOR.replace( 'editor' );
-	</script>
-	<style>
-		/* The color palette is noir */
-		body {
-			background-color: #1b1b1b;
-			color: #fff;
-			font-family: sans-serif;
-			font-size: 16px;
-			line-height: 1.5;
-			margin: 0;
-			padding: 0;
-		}
-		
-		/* The categories at the top */
-		#categories {
-			display: flex;
-			flex-wrap: wrap;
-			justify-content: left;
-			align-items: center;
-			padding: 20px;
-		}
-		
-		/* The profile pic with information about the creator at the top right */
-		#profile {
-			display: flex;
-			justify-content: right;
-			align-items: center;
-			padding: 20px;
-		}
-		
-		#profile img {
-			border-radius: 50%;
-			margin-right: 10px;
-			width: 50px;
-			height: 50px;
-		}
-		
-		/* The list of items with sublists */
-		ul {
-			margin: 0;
-			padding: 0;
-			list-style-type: none;
-		}
-		
-		li {
-			padding: 10px;
-		}
-		
-		li:hover {
-			background-color: #333;
-			cursor: pointer;
-		}
-		
-		ul ul {
-			margin-left: 20px;
-			display: none;
-		}
-		
-		li.active > ul {
-			display: block;
-		}
-	</style>
+  <script src="https://cdn.tiny.cloud/1/oaapfk29gov6r30s30mgnm3hxqgohw4zd0wbkejx2v7w86cb/tinymce/6/tinymce.min.js" referrerpolicy="origin"></script>
 </head>
 <body>
-	<header>
-		<div id="categories">
-			<ul>
-				<li class="active">Category 1
-					<ul>
-						<li>Subcategory 1</li>
-						<li>Subcategory 2</li>
-						<li>Subcategory 3</li>
-					</ul>
-				</li>
-				<li>Category 2
-					<ul>
-						<li>Subcategory 1</li>
-						<li>Subcategory 2</li>
-						<li>Subcategory 3</li>
-					</ul>
-				</li>
-				<li>Category 3
-					<ul>
-						<li>Subcategory 1</li>
-						<li>Subcategory 2</li>
-						<li>Subcategory 3</li>
-					</ul>
-				</li>
-				<li>Category 4
-					<ul>
-						<li>Subcategory 1</li>
-						<li>Subcategory 2</li>
-						<li>Subcategory 3</li>
-					</ul>
-				</li>
-			</ul>
-		</div>
-		
-		<div id="profile">
-			<img src="https://avatars.githubusercontent.com/u/132374149?v=4" alt="Profile Pic">
-			<div>
-				<h1>Dex Parker</h1>
-				<p>Tu compa el de los aportes.</p>
-			</div>
-		</div>
-	</header>
-	
-	<main>
-		<!-- Your content goes here -->
-	</main>
+  <textarea>
+    Welcome to TinyMCE!
+  </textarea>
+  <script>
+    tinymce.init({
+      selector: 'textarea',
+      plugins: 'anchor autolink charmap codesample emoticons image link lists media searchreplace table visualblocks wordcount checklist mediaembed casechange export formatpainter pageembed linkchecker a11ychecker tinymcespellchecker permanentpen powerpaste advtable advcode editimage tinycomments tableofcontents footnotes mergetags autocorrect typography inlinecss',
+      toolbar: 'undo redo | blocks fontfamily fontsize | bold italic underline strikethrough | link image media table mergetags | addcomment showcomments | spellcheckdialog a11ycheck typography | align lineheight | checklist numlist bullist indent outdent | emoticons charmap | removeformat',
+      tinycomments_mode: 'embedded',
+      tinycomments_author: 'Author name',
+      mergetags_list: [
+        { value: 'First.Name', title: 'First Name' },
+        { value: 'Email', title: 'Email' },
+      ],
+    });
+  </script>
 </body>
+</html>
