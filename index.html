@@ -1,116 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Page Title</title>
-	<style>
-		/* The color palette is noir */
-		body {
-			background-color: #1b1b1b;
-			color: #fff;
-			font-family: sans-serif;
-			font-size: 16px;
-			line-height: 1.5;
-			margin: 0;
-			padding: 0;
-		}
-		
-		/* The categories at the top */
-		#categories {
-			display: flex;
-			flex-wrap: wrap;
-			justify-content: center;
-			align-items: center;
-			padding: 20px;
-		}
-		
-		/* The profile pic with information about the creator at the top right */
-		#profile {
-			display: flex;
-			justify-content: flex-end;
-			align-items: center;
-			padding: 20px;
-		}
-		
-		#profile img {
-			border-radius: 50%;
-			margin-right: 10px;
-			width: 50px;
-			height: 50px;
-		}
-		
-		/* The list of items with sublists */
-		ul {
-			margin: 0;
-			padding: 0;
-			list-style-type: none;
-		}
-		
-		li {
-			padding: 10px;
-		}
-		
-		li:hover {
-			background-color: #333;
-			cursor: pointer;
-		}
-		
-		ul ul {
-			margin-left: 20px;
-			display: none;
-		}
-		
-		li.active > ul {
-			display: block;
-		}
-	</style>
+    <meta charset="utf-8">
+    <title>CKEditor 5 – Classic editor</title>
+    <script src="https://cdn.ckeditor.com/ckeditor5/37.1.0/classic/ckeditor.js"></script>
 </head>
 <body>
-	<header>
-		<div id="categories">
-			<ul>
-				<li class="active">Category 1
-					<ul>
-						<li>Subcategory 1</li>
-						<li>Subcategory 2</li>
-						<li>Subcategory 3</li>
-					</ul>
-				</li>
-				<li>Category 2
-					<ul>
-						<li>Subcategory 1</li>
-						<li>Subcategory 2</li>
-						<li>Subcategory 3</li>
-					</ul>
-				</li>
-				<li>Category 3
-					<ul>
-						<li>Subcategory 1</li>
-						<li>Subcategory 2</li>
-						<li>Subcategory 3</li>
-					</ul>
-				</li>
-				<li>Category 4
-					<ul>
-						<li>Subcategory 1</li>
-						<li>Subcategory 2</li>
-						<li>Subcategory 3</li>
-					</ul>
-				</li>
-			</ul>
-		</div>
-		
-		<div id="profile">
-			<img src="profile-pic.jpg" alt="Profile Pic">
-			<div>
-				<h1>Your Name</h1>
-				<p>Your bio or information about you.</p>
-			</div>
-		</div>
-	</header>
-	
-	<main>
-		<!-- Your content goes here -->
-	</main>
+    <h1>Classic editor</h1>
+    <div id="editor">
+        <p>This is some sample content.</p>
+    </div>
+    <script>
+        ClassicEditor
+            .create( document.querySelector( '#editor' ) )
+            .catch( error => {
+                console.error( error );
+            } );
+    </script>
 </body>
+</html>
