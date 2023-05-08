@@ -7,5 +7,7 @@ branding:
 links:
   - text: Github de NOIR
     link: https://github.com/NOIR-DexPrkr/noir-room
+editor:
+  enabled: true
 footer:
   copyright: "&copy; Copyright . All rights reserved."
