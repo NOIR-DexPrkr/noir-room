@@ -23,6 +23,3 @@ jobs:
         with:
           update-branch: true
           
-- uses: retypeapp/action-build@v2
-  with:
-    config: page/retype.yml
