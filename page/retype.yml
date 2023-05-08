@@ -5,7 +5,7 @@ branding:
   title: Noir Room
   label: QR
 links:
-  - text: Getting Started
-    link: https://retype.com/guides/getting-started/
+  - text: Github de NOIR
+    link: https://github.com/NOIR-DexPrkr/noir-room
 footer:
   copyright: "&copy; Copyright . All rights reserved."
