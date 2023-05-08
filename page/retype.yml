@@ -1,6 +1,6 @@
 input: .
 output: .retype
-url: example.com # Add your website address here
+url: https://noir-dexprkr.github.io/noir-room/ # Add your website address here
 branding:
   title: Noir Room
   label: QR
