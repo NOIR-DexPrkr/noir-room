@@ -6,9 +6,12 @@ branding:
   logo: noir.png
   label: QR
 links:
-  - text: Github de NOIR
+  - text: Github de Dex
     icon: mark-github
     link: https://github.com/NOIR-DexPrkr/noir-room
+  - text: Pagina de Facebook
+    icon: people
+    link: https://fb.com
       
     
 editor:
