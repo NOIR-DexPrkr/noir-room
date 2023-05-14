@@ -11,10 +11,10 @@ links:
  nav:
  - title: Tutoriales
   url: https://noir-dexprkr.github.io/noir-room/tutoriales/
-  order: 1
+  order: 1000
 - title: Aplicaciones
   url: https://noir-dexprkr.github.io/noir-room/aplicaciones/
-  order: 2
+  order: 900
     
 
     
