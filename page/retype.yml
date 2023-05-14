@@ -7,6 +7,17 @@ branding:
 links:
   - text: Github de NOIR
     link: https://github.com/NOIR-DexPrkr/noir-room
+    
+ nav:
+ - title: Tutoriales
+  url: https://noir-dexprkr.github.io/noir-room/tutoriales/
+  order: 1
+- title: Aplicaciones
+  url: https://noir-dexprkr.github.io/noir-room/aplicaciones/
+  order: 2
+    
+
+    
 editor:
   enabled: true
 footer:
