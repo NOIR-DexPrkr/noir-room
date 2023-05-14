@@ -1,6 +1,7 @@
 ---
 label: Aplicaciones
-layout: page
-order: 100
+icon: apps
+layout: default
+order: 800
 ---
 # Aplicaciones y Programas
