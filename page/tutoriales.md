@@ -1,5 +1,6 @@
 ---
 label: Tutoriales - QRs
+icon: repo
 layout: default
 order: 900
 ---
