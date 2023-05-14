@@ -1,6 +1,6 @@
 ---
 label: Tutoriales - QRs
-layout: page
+layout: default
 order: 900
 ---
 # Tutoriales y QRs
