@@ -15,8 +15,7 @@ Agradezco ser respetuoso y leer con cuidado los pasos.
 
 ---
 
-!!!success Archivos necesarios para la guia:
-!!!
+===Archivos necesarios para la guia:
 +++ **GenP v3.0** 
   Parche para los programas de adobe que descargues.
   
@@ -27,7 +26,7 @@ Agradezco ser respetuoso y leer con cuidado los pasos.
 [!button variant="success" corners="pill" text="Descargar"](https://github.com/eaaasun/CCStopper/releases/download/v1.2.2/CCStopper.zip) 
 
 +++
-
+===
 ---
 ## Guia sin Creative cloud: Programas descargables.
 !!!warning
@@ -47,9 +46,8 @@ Versiones individuales sin parchar y originales de las CC 2019.
 
 > Si solo deseas Photoshop CC:
 > Descarga su version sin parchar y original desde las CC 2016 hasta 2023.
-
 > [!badge variant="success" corners="pill" text="Descargar"](https://windowstan.com/software/photoshop-cc-2020/)
-!!!
+
 
 
 ### **Pasos:**
