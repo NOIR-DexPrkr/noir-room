@@ -17,11 +17,11 @@ Agradezco ser respetuoso y leer con cuidado los pasos.
 
 !!!success Archivos necesarios para la guia:
 !!!
-+++ **GenP 3.0:** 
++++ **GenP v3.0** 
   Parche para los programas de adobe que descargues.
   
 [!button variant="success" corners="pill" text="Descargar"](https://www.mediafire.com/file/ipp9gj15xzty1uw/GenP_3.0_Release.zip/file) 
-+++ **CC Stopper:**
++++ **CC Stopper**
   Script que permite bloquear las ventanas de pago y actualizaciones que dejarian sin funcionar el parche.
   
 [!button variant="success" corners="pill" text="Descargar"](https://github.com/eaaasun/CCStopper/releases/download/v1.2.2/CCStopper.zip) 
@@ -45,16 +45,16 @@ Versiones individuales sin parchar y originales de las CC 2019.
 [!button variant="success" corners="pill" text="Descargar"](https://prodesigntools.com/adobe-cc-2019-direct-download-links.html) 
 +++
 
-### Si solo deseas Photoshop CC:
-Versiones individuales sin parchar y originales desde las CC 2016 hasta 2023.
+> Si solo deseas Photoshop CC:
+> Descarga su version sin parchar y original desde las CC 2016 hasta 2023.
 
-[!button variant="success" corners="pill" text="Descargar"](https://windowstan.com/software/photoshop-cc-2020/)
+[!badge variant="success" corners="pill" text="Descargar"](https://windowstan.com/software/photoshop-cc-2020/)
 !!!
 
 
-##### **Pasos:**
+### **Pasos:**
 
-
+1. 
 
 
 
