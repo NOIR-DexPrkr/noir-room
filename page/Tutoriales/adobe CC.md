@@ -48,7 +48,7 @@ Versiones individuales sin parchar y originales de las CC 2019.
 > Si solo deseas Photoshop CC:
 > Descarga su version sin parchar y original desde las CC 2016 hasta 2023.
 
-[!badge variant="success" corners="pill" text="Descargar"](https://windowstan.com/software/photoshop-cc-2020/)
+> [!badge variant="success" corners="pill" text="Descargar"](https://windowstan.com/software/photoshop-cc-2020/)
 !!!
 
 
