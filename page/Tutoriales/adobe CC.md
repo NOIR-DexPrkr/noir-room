@@ -6,16 +6,13 @@ order: 1000
 ---
 
 # Guia Completa - Adobe Creative Cloud
-
----
-
 !!!info Este es un tutorial sin animo de lucro. Los sitios y descargas aquí son de total seguridad.
 Agradezco ser respetuoso y leer con cuidado los pasos.
 !!!
 
 ---
 
-===Archivos necesarios para la guia:
+=== **Archivos necesarios para la guia:**
 +++ **GenP v3.0** 
   Parche para los programas de adobe que descargues.
   
@@ -27,7 +24,9 @@ Agradezco ser respetuoso y leer con cuidado los pasos.
 
 +++
 ===
+
 ---
+
 ## Guia sin Creative cloud: Programas descargables.
 !!!warning
 *Estos al ser programas mas antiguos corren mas rapido que las versiones mas recientes, es recomendado si tienes una pc antigua.*
