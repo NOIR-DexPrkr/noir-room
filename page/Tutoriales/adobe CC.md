@@ -34,12 +34,6 @@ Agradezco ser respetuoso y leer con cuidado los pasos.
 *Estos al ser programas mas antiguos corren mas rapido que las versiones mas recientes, es recomendado si tienes una pc antigua.*
 !!!
 
-!!!info Si solo deseas Photoshop CC:
-Versiones individuales sin parchar y originales desde las CC 2016 hasta 2023.
-
-[!button variant="success" corners="pill" text="Descargar"](https://windowstan.com/software/photoshop-cc-2020/)
-!!!
-
 +++ CC 2018 
 Versiones individuales sin parchar y originales de las CC 2018.
 
@@ -51,6 +45,11 @@ Versiones individuales sin parchar y originales de las CC 2019.
 [!button variant="success" corners="pill" text="Descargar"](https://prodesigntools.com/adobe-cc-2019-direct-download-links.html) 
 +++
 
+### Si solo deseas Photoshop CC:
+Versiones individuales sin parchar y originales desde las CC 2016 hasta 2023.
+
+[!button variant="success" corners="pill" text="Descargar"](https://windowstan.com/software/photoshop-cc-2020/)
+!!!
 
 
 ##### **Pasos:**
