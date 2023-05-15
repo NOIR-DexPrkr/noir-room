@@ -29,8 +29,8 @@ Agradezco ser respetuoso y leer con cuidado los pasos.
 +++
 
 ---
-
-!!!contrast ## Guia sin Creative cloud: Programas descargables.
+## Guia sin Creative cloud: Programas descargables.
+!!!warning
 *Estos al ser programas mas antiguos corren mas rapido que las versiones mas recientes, es recomendado si tienes una pc antigua.*
 !!!
 
