@@ -60,7 +60,7 @@ Versiones individuales sin parchar y originales de las CC 2019.
 *Esta opcion te permite descarga la ultima version disponible a traves de los sitios oficiales de Adobe usando su instalador "creative cloud".*
 !!!
 
-## **Pasos:**
+### **Pasos para la descarga:**
 
 1. Descargamos el Creative Cloud.
 
