@@ -2,7 +2,6 @@
 label: Adobe CC
 icon: cloud
 layout: default
-order: 1000
 ---
 
 # Guia Completa - Adobe Creative Cloud
