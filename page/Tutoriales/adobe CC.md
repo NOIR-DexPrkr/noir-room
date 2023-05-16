@@ -10,6 +10,54 @@ order: 1000
 Agradezco ser respetuoso y leer con cuidado los pasos.
 !!!
 
+==- **Que programas incluye?**
+
+##### Los programas mas usados son:
+
+1. Adobe Photoshop:
+
+Es uno de los programas más empleados para la edición de imágenes, pues cuenta con un amplio repertorio de herramientas que permiten una edición profesional.
+
+En Adobe Photoshop se pueden realizar distintas modificaciones de color, texturas y eliminar elementos, por eso es uno de los más solicitados.Además, puede ser una alternativa para crear ilustraciones en 2D con texturas.
+
+2.Adobe Illustrator:
+
+Es uno de los programas que trabaja con vectores más usados a nivel mundial.
+
+Con Illustrator se pueden crear distintas ilustraciones para distintos fines, como la animación o la impresión.Dentro del mundo del diseño gráfico, el modelado 2D y algunas ramas artísticas digitales es uno de los programas más utilizados.
+
+3.Adobe Premiere:
+
+Es uno de los editores de video más completos y profesionales que existen, pues cuenta con incontables herramientas que permiten crear videos de gran calidad.
+
+Adobe Premiere es uno de los programas más usados a nivel cinematográfico, debido a sus grandes cualidades que permiten resultados profesionales y de calidad.
+
+4.Adobe After Effects:
+
+Es el mejor programa para la implementación de efectos especiales.
+
+After Effects permite modificar videos o fragmentos con distintos elementos adicionales, pero con una alta calidad y de forma profesional.
+
+5.Adobe InDesign:
+
+Es uno de los programas más usados para el diseño de material impreso, pues cuenta con distintas cualidades que permiten maquetar contenido editorial de manera profesional y con gran nitidez.
+
+ 
+6.Adobe Acrobat Reader: 
+
+Es uno de los editores de PDF más equipados, pues cuenta con distintas funciones que permiten modificar archivos de manera profesional. Asimismo, es uno de los mejores programas para leer documentos, pues permite destacar partes con subrayado y tiene modificaciones de formato e iluminación.
+
+
+8.Adobe Audition:
+
+Es el programa líder para edición de audio. En su mayoría se utiliza para producción radiofónica y creación de sonido multimedia, donde se pueden entrelazar sonidos, modificarlos y recrear escenas auditivas con la mezcla de diferentes sonidos.
+
+ 
+9.Adobe Animate:
+
+ Es un programa de animación de vectores, el cual permite dar movimiento a distintos gráficos vectoriales por medio de un lenguaje de programación. Este programa es ideal para darle vida o movimiento a las ilustraciones 2D que se pueden crear en Illustrator o Photoshop. 
+ ===
+ 
 ---
 
 === **Archivos necesarios para la guia:**
@@ -27,10 +75,12 @@ Agradezco ser respetuoso y leer con cuidado los pasos.
 
 ---
 
-## Guia sin Creative cloud: Programas descargables.
+## Opcion 1: sin Creative cloud - Programas descargables.
 !!!warning
 *Estos al ser programas mas antiguos corren mas rapido que las versiones mas recientes, es recomendado si tienes una pc antigua.*
 !!!
+
+Con esta opcion puedes descargar programas antiguos sin necesidad de descargar el instalador de Adobe, el cual es un dolor de cabeza.
 
 +++ CC 2018 
 Versiones individuales sin parchar y originales de las CC 2018.
@@ -51,14 +101,18 @@ Versiones individuales sin parchar y originales de las CC 2019.
 
 ### **Instalación**
 
-- Una vez instalado el programa o programas deseados cerramos todos y nos aseguramos que no se esten ejecutando.
+1. Una vez instalado el programa o programas deseados cerramos todos y nos aseguramos que no se esten ejecutando.
+
+2. Ya puedes continuar con [la guia para parchar](#guia-para-parchar-los-programas-ya-instalados)
 
 ---
 
-## Guia sin Creative cloud: Programas descargables.
+## Opción 2: Creative cloud - Instalador de Adobe.
 !!!warning
 *Esta opcion te permite descarga la ultima version disponible a traves de los sitios oficiales de Adobe usando su instalador "creative cloud".*
 !!!
+
+Con esta opcion descargas desde el instalador oficial de Adobe. Usalo solo si sabes bien lo que haces y quieres. Con este optienes la ultima version disponible de los programas.
 
 ### **Pasos para la descarga:**
 
