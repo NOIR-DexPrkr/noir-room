@@ -33,7 +33,9 @@ Es una aplicacion de codigo abierto que te permite reproducir y descargar pelicu
 
 3. Abre el siguiente link desde tu telefono. **OJO, debe ser desde el telefono**.
 
-[Extension multilenguaje](https://raw.githubusercontent.com/MustardChef/CS3SiteArchive/master/extensions/multi.json)
+[!badge variant="success" text="Extension multilenguaje"](https://raw.githubusercontent.com/MustardChef/CS3SiteArchive/master/extensions/multi.json)
+
+> Este enlace instalara una extension en la app que te permitira agregar una gran variedad de paginas de series y peliculas.
 
 4. Lo que sigue sera ir a los ajustes de la aplicacion y configurar el idioma y resolucion de reproducción.
 
