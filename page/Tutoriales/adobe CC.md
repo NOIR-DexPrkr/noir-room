@@ -171,7 +171,7 @@ Una vez estén ambos abiertos, en el CMD nos saldrá un menú. Allí debemos esc
 
 ## Guia para parchar los programas ya instalados
 
-1. Ejecutamos GenP, si no cambiaron la ruta de descarga pueden dejar que el programa busque los programas clickeando **“Search files”**.  Tardará un rato en terminar de buscar los archivos pero una vez los encuentre les activará la opción de “curar” la cual deben seleccionar. En caso contrario, si cambiaron la ruta de descarga o GenP no los encuentra, seleccione la opción de “Custom path” y seleccione la carpeta donde están los programas o programa.
+1. Ejecutamos GenP, si no cambiaron la ruta de instalacion pueden dejar que el programa busque los programas clickeando **“Search files”**.  Tardará un rato en terminar de buscar los archivos pero una vez los encuentre les activará la opción de “curar” la cual deben seleccionar. En caso contrario, si cambiaron la ruta de descarga o GenP no los encuentra, seleccione la opción de **“Custom path”** y seleccione la carpeta donde están los programas o programa.
 
 > Una forma para asegurar que todos sus programas están siendo parchados es observando la lista, si en esta se encuentran los programas que descargaron no deberían de existir problemas.
 
@@ -179,7 +179,7 @@ Una vez estén ambos abiertos, en el CMD nos saldrá un menú. Allí debemos esc
 
 2. Por último bloqueamos el .exe de cada programa instalado por medio de firewall.
 
-Para esto primero es necesario abrir el “Firewall de Windows Defender” al entrar deben ir a Configuración avanzada y seleccionar Reglas de Salida.A la derecha tendrán la opción de **“Nueva Regla”**, deben de hacerle click, seleccionan programa y en ruta de acceso deben de buscar el .exe del programa que quieren bloquear.
+Para esto primero es necesario abrir el **“Firewall de Windows Defender”** al entrar deben ir a Configuración avanzada y seleccionar Reglas de Salida.A la derecha tendrán la opción de **“Nueva Regla”**, deben de hacerle click, seleccionan programa y en ruta de acceso deben de buscar el .exe del programa que quieren bloquear.
 
 > Ej: C:\Program Files\Adobe\Adobe Animate 2023\Animate.exe
 
@@ -189,7 +189,8 @@ Deben asegurar que en Acción este seleccionado **“Bloquear conexión”**, en
 
 Si tienen problema encontrando los .exe pueden ir a los accesos directos, darles click derecho y propiedades, y en la ventana ahora abierta solo deben de darle a **“abrir ubicación”** y ya tendrán la ubicación del .exe
 
+---
 
-Eso sería todo, si tienes alguna duda puedes preguntar en el grupo o [pagina](https://www.facebook.com/dex.noir.room) y con gusto responderé.
-
+!!!success Eso sería todo, si tienes alguna duda puedes preguntar en el grupo o [pagina](https://www.facebook.com/dex.noir.room) y con gusto responderé.
+!!!
 
