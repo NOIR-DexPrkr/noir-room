@@ -51,7 +51,14 @@ Versiones individuales sin parchar y originales de las CC 2019.
 
 ### **Pasos:**
 
-1. 
+1. Una ves instalado el programa o programas deseados cerramos todos y nos aseguramos que no se esten ejecutando,
+2. Ejecutamos GenP, si no cambiaron la ruta de descarga pueden dejar que el programa busque los programas clickeando “Search files”. Tardará un rato en terminar de buscar los archivos pero una vez los encuentre les activará la opción de “curar” la cual deben seleccionar. En caso contrario, si cambiaron la ruta de descarga o GenP no los encuentra, seleccione la opción de “Custom path” y seleccione la carpeta donde están los programas o programa.
 
+> Una forma para asegurar que todos sus programas están siendo parchados es observando la lista, si en esta se encuentran los programas que descargaron no deberían de existir problemas.
 
+3. Ejecutamos **GenP**, si no cambiaron la ruta de descarga pueden dejar que el programa busque los programas clickeando ´“Search files”´. Tardará un rato en terminar de buscar los archivos pero una vez los encuentre les activará la opción de “curar” la cual deben seleccionar. En caso contrario, si cambiaron la ruta de descarga o GenP no los encuentra, seleccione la opción de “Custom path” y seleccione la carpeta donde están los programas o programa.
+
+ Una forma para asegurar que todos sus programas están siendo parchados es observando la lista, si en esta se encuentran los programas que descargaron no deberían de existir problemas.
+
+<center> ![](https://i.postimg.cc/BQWs2Shx/Imagen1.png) ![](https://i.postimg.cc/BQWs2Shx/Imagen2.png) </center>
 
