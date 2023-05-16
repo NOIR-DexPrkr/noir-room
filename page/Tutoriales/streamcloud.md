@@ -15,9 +15,9 @@ Es una aplicacion de codigo abierto que te permite reproducir y descargar pelicu
 
 **Características:**
 - AdFree, Sin anuncios
-- Sin seguimiento/análisis
+- Sin seguimiento/rastreo
 - Marcadores
-- Descarga y transmite películas, series y anime
+- Descarga y reproduce películas, series y anime
 - Chromecast
 ===
 
@@ -40,3 +40,4 @@ Es una aplicacion de codigo abierto que te permite reproducir y descargar pelicu
 !!!success Si tienes dudas de como usar la app, puedes preguntar en el grupo o en la [pagina](https://www.facebook.com/dex.noir.room) y con gusto te respondere.
 
 
+[!badge Creditos al desarrollador](https://github.com/recloudstream/cloudstream)
