@@ -21,6 +21,8 @@ Es una aplicacion de codigo abierto que te permite reproducir y descargar pelicu
 - Chromecast
 ===
 
+¡[](https://i.postimg.cc/kXm6zkbB/Screenshot-20230516-154150-Cloud-Stream.png) ![](https://i.postimg.cc/gcRLMYrC/Screenshot-20230516-154221-Cloud-Stream.png)
+
 ### **Pasos para la configuración:**
 
 1. Descargamos la aplicacion desde el siguiente link: 
@@ -37,7 +39,18 @@ Es una aplicacion de codigo abierto que te permite reproducir y descargar pelicu
 
 > Este enlace te llevará a una página de repositorios, selecciona "install" en donde dice "Multilingual". Se instalará una extension en la app que te permitira agregar una gran variedad de paginas de series y peliculas.
 
+*Si en ajustes>extensiones te sale vacío como en la siguiente captura, es que no hiciste bien los pasos.Debes repetir la instalación.*
+
+![](https://i.postimg.cc/cCQK6cVx/Screenshot-20230516-155918-Cloud-Stream.png)
+
 4. Lo que sigue sera ir a los ajustes de la aplicacion y configurar el idioma y resolucion de reproducción.
+
+
+5. En la página de inicio dale al botón "none" o "ninguno" y selecciona un proveedor de películas para que te cargue el contenido.
+Puedes también buscar y seleccionar los resultados que te saldrán en las pequeñas píldoras de categorías que salen arriba o debajo en la app.
+
+![](https://i.postimg.cc/GmSpLNHP/Screenshot-20230516-160952-Cloud-Stream.png)
+
 
 !!!success Si tienes dudas de como usar la app, puedes preguntar en el grupo o en la [pagina](https://www.facebook.com/dex.noir.room) y con gusto te respondere.
 !!!
