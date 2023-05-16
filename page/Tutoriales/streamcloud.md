@@ -38,6 +38,6 @@ Es una aplicacion de codigo abierto que te permite reproducir y descargar pelicu
 4. Lo que sigue sera ir a los ajustes de la aplicacion y configurar el idioma y resolucion de reproducción.
 
 !!!success Si tienes dudas de como usar la app, puedes preguntar en el grupo o en la [pagina](https://www.facebook.com/dex.noir.room) y con gusto te respondere.
-
+!!!
 
 [!badge Creditos al desarrollador](https://github.com/recloudstream/cloudstream)
