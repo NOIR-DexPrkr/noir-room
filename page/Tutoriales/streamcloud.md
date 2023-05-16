@@ -21,7 +21,8 @@ Es una aplicacion de codigo abierto que te permite reproducir y descargar pelicu
 - Chromecast
 ===
 
-¡[](https://i.postimg.cc/kXm6zkbB/Screenshot-20230516-154150-Cloud-Stream.png) ![](https://i.postimg.cc/gcRLMYrC/Screenshot-20230516-154221-Cloud-Stream.png)
+¡[](https://i.postimg.cc/kXm6zkbB/Screenshot-20230516-154150-Cloud-Stream.png) 
+![](https://i.postimg.cc/gcRLMYrC/Screenshot-20230516-154221-Cloud-Stream.png)
 
 ### **Pasos para la configuración:**
 
