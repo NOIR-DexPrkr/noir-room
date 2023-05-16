@@ -70,12 +70,14 @@ Versiones individuales sin parchar y originales de las CC 2019.
 > - **Desactivar ejecución de inicio de windows**
 > 
 > Configuración>Aplicaciones>Inicio , Buscar y desactivar Adobe Creative Cloud.
+> 
 > ![](https://i.postimg.cc/BvkdTNqm/Imagen4.png)
 
 ---
 
 > **Desactivar Actualizaciones automáticas**
 > Archivo>Preferencias>General, en configuración se desactiva la segunda opción
+> 
 > ![](https://i.postimg.cc/pLXbRpGJ/Imagen5.png)
 > ![](https://i.postimg.cc/XvpRBt0Z/Imagen6.png)
 
@@ -83,6 +85,7 @@ Versiones individuales sin parchar y originales de las CC 2019.
 
 > **Desactivar Actualizaciones automáticas**
 > En esta parte supuestamente debería estar la opción para desactivar las actualizaciones, aunque en mi caso no aparece.
+>
 > ![](https://i.postimg.cc/wjfKvgn8/Imagen7.png)
 
 ---
