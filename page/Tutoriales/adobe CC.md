@@ -67,7 +67,8 @@ Versiones individuales sin parchar y originales de las CC 2019.
 [!badge variant="success" corners="pill" text="Descargar"](https://creativecloud.adobe.com/apps/download/creative-cloud) 
 
 2. Instalar el programa y **cuando aparezca la opción de instalar Adobe Genuine Service den NO, o quiten la opción**. También desactiven la ejecución al inicio de windows y las actualizaciones automáticas.
-> - **Desactivar ejecución de inicio de windows**
+
+> - **Desactivar ejecución de inicio de windows:**
 > 
 > Configuración>Aplicaciones>Inicio , Buscar y desactivar Adobe Creative Cloud.
 > 
@@ -75,7 +76,8 @@ Versiones individuales sin parchar y originales de las CC 2019.
 
 ---
 
-> **Desactivar Actualizaciones automáticas**
+> **Desactivar Actualizaciones automáticas:**
+> 
 > Archivo>Preferencias>General, en configuración se desactiva la segunda opción
 > 
 > ![](https://i.postimg.cc/pLXbRpGJ/Imagen5.png)
@@ -83,7 +85,8 @@ Versiones individuales sin parchar y originales de las CC 2019.
 
 ---
 
-> **Desactivar Actualizaciones automáticas**
+> **Desactivar Actualizaciones automáticas:**
+> 
 > En esta parte supuestamente debería estar la opción para desactivar las actualizaciones, aunque en mi caso no aparece.
 >
 > ![](https://i.postimg.cc/wjfKvgn8/Imagen7.png)
@@ -92,10 +95,9 @@ Versiones individuales sin parchar y originales de las CC 2019.
 
 3.	Al iniciar el programa se recomienda que entren con una cuenta que no tenga vencida la prueba gratuita. **Una vez iniciada sesión, cierran el programa y cierran todos sus procesos completamente** (para esto pueden hacerlo desde el administrador de tareas o ejecutar en administrador el CCstopper y elegir la opción (1) seguida de otro (1), para salir solo deben de usar la “Q”).
 
-
 > (Si por alguna razón usaste una cuenta que ya tenia período de prueba vencido puedes probar este paso, si no, obviar y seguir con el tutorial.
 
-=== Si no te aparece para probar/descargar
+=== **Si no te aparece para probar/descargar**
 Descompriman GenP 3.0 y dentro de la carpeta “Utilities> restore install buttons [beta]” copiar los dos .dll que ahí se encuentran, se pega y se reemplazan en la ruta: 
 > C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\AppsPanel  
 > o tambien
@@ -105,7 +107,9 @@ Descompriman GenP 3.0 y dentro de la carpeta “Utilities> restore install butto
 4.	Ejecutamos el Creative Cloud y ejecutamos el CC stopper como administrador luego de descomprimir **(el archivo .bat)**.
 Una vez estén ambos abiertos, en el CMD nos saldrá un menú. Allí debemos escoger:
 > (2) for Internet Patch
+> 
 > (1) for Firewall Block.
+> 
 > En ese orden. Luego presionamos la letra Q para salir.
 *(Esto crea una regla en el firewall de windows que bloquea el Creative Cloud, si algún programa en algún momento necesita conexión solo debes desactivar y activarla cuando sea necesario)*
 
@@ -113,13 +117,13 @@ Una vez estén ambos abiertos, en el CMD nos saldrá un menú. Allí debemos esc
 
 ## Guia para parchar los programas ya instalados
 
-2. Ejecutamos GenP, si no cambiaron la ruta de descarga pueden dejar que el programa busque los programas clickeando **“Search files”**.  Tardará un rato en terminar de buscar los archivos pero una vez los encuentre les activará la opción de “curar” la cual deben seleccionar. En caso contrario, si cambiaron la ruta de descarga o GenP no los encuentra, seleccione la opción de “Custom path” y seleccione la carpeta donde están los programas o programa.
+1. Ejecutamos GenP, si no cambiaron la ruta de descarga pueden dejar que el programa busque los programas clickeando **“Search files”**.  Tardará un rato en terminar de buscar los archivos pero una vez los encuentre les activará la opción de “curar” la cual deben seleccionar. En caso contrario, si cambiaron la ruta de descarga o GenP no los encuentra, seleccione la opción de “Custom path” y seleccione la carpeta donde están los programas o programa.
 
 > Una forma para asegurar que todos sus programas están siendo parchados es observando la lista, si en esta se encuentran los programas que descargaron no deberían de existir problemas.
 
 ![](https://i.postimg.cc/BQWs2Shx/Imagen1.png) ![](https://i.postimg.cc/T25fyLcd/Imagen2.png) 
 
-3. Por último bloqueamos el .exe de cada programa instalado por medio de firewall.
+2. Por último bloqueamos el .exe de cada programa instalado por medio de firewall.
 
 Para esto primero es necesario abrir el “Firewall de Windows Defender” al entrar deben ir a Configuración avanzada y seleccionar Reglas de Salida.A la derecha tendrán la opción de **“Nueva Regla”**, deben de hacerle click, seleccionan programa y en ruta de acceso deben de buscar el .exe del programa que quieren bloquear.
 
