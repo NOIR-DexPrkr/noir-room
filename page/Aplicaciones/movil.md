@@ -7,5 +7,6 @@ order: 898
 
 # Aplicaciones para moviles
 
-==- Para ver peliculas
-- [!ref HDO BOX](https://hdo.app/)
+## Para ver peliculas y Series
+
+### [!button 🔵 HDO BOX](https://hdo.app/) En ingles con subtitulos
