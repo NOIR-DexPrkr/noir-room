@@ -2,7 +2,7 @@
 label: QRs - Noir Homer
 icon: key-asterisk
 layout: default
-order: 800
+order: 700
 ---
 
 # Codigos de Noir Homer
