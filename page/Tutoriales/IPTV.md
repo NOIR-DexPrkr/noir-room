@@ -17,13 +17,13 @@ La IPTV es la televisión por protocolo de Internet. Esto significa que los usua
 
 ## Opciones
 
-### Usando aplicaciones con TV incluida
+### 1. Usando aplicaciones con TV incluida
 
 ==- **Programas y Apps**
 xxxxx
 ===
 
-## Usando aplicaciones para reproducir listas M3U
+### 2. Usando aplicaciones para reproducir listas M3U
 
 ==- **Listas M3U**
 > Descarga aqui los M3U mas reciente actualizado por Dex   
@@ -45,7 +45,7 @@ xxxxx
 
 ===
 
-### Usando paginas WEB para reproducir listas M3U
+### 3. Usando paginas WEB para reproducir listas M3U
 
 ==- **Paginas WEB**
 
@@ -56,7 +56,7 @@ xxxxx
 !!! IMPORTANTE: Algunos navegadores no funcionaran con esta forma de reproducción.
 ===
 
-### **Programas para reproducir M3U**
+### 4. UsandopProgramas para reproducir M3U
 
 ==- **Programas o apps multiplataforma**
 
@@ -70,7 +70,7 @@ xxxxx
 
 ===
 
-### Usando paginas WEB para ver TV sin configuración
+### 5. Usando paginas WEB para ver TV sin configuración
 
 ==- **Paginas con canales categorizados por país y region**
 
