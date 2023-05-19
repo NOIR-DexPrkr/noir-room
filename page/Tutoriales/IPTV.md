@@ -26,42 +26,53 @@ xxxxx
 ## Usando aplicaciones para reproducir listas M3U
 
 ==- **Listas M3U**
-- ✔ Descarga aqui los M3U mas reciente actualizado por Dex
-[!badge size="xs" variant="contrast" text="Lista mas completa"](https://noir-dexprkr.github.io/dexco-files/Dexco-IPTV.m3u)
+> Descarga aqui los M3U mas reciente actualizado por Dex   
+1. [!button size="xs" variant="contrast" text="Lista Latina Full"](https://noir-dexprkr.github.io/dexco-files/Dexco-IPTV.m3u)   
 
-Tambien puedes copiarla y usarla en los reproductores M3U
+2. [!button size="xs" variant="contrast" text="Lista Ciudad de Mexico"](http://sdmx.us:25461/get.php?username=belfast&password=belfast&type=m3u)   
 
-`https://noir-dexprkr.github.io/dexco-files/Dexco-IPTV.m3u´
+3. [!button size="xs" variant="contrast" text="Lista Lima/Peru"](http://31.42.185.216:8000/get.php?username=FFGRUD8Y6N&password=BDE3BE3DI3&type=m3u)  
 
-***
-> Puedes usar el siguiente enlace para ver gratis desde cualquier navegador: Chrome, Firefox, etc.
+4.  [!button size="xs" variant="contrast" text="Lista Chile/Santiago"](http://tvla.xyz/get.php?username=vrhqyawo&password=87e0n2pQcM&type=m3u)
 
 
-***
+> Tambien puedes copiarla y usarla en los reproductores M3U   
+
+1. ```https://noir-dexprkr.github.io/dexco-files/Dexco-IPTV.m3u```
+2. ```http://sdmx.us:25461/get.php?username=belfast&password=belfast&type=m3u```
+3. ```http://31.42.185.216:8000/get.php?username=FFGRUD8Y6N&password=BDE3BE3DI3&type=m3u```
+4. ```http://tvla.xyz/get.php?username=vrhqyawo&password=87e0n2pQcM&type=m3u```
+
+===
 
 ### Usando paginas WEB para reproducir listas M3U
+
+==- **Paginas WEB**
 
 - [What's Up TV](https://www.whatsuptv.app/)
 
 - [IPTVnator](https://iptvnator.vercel.app/playlists/17g4n1o55nkj)
 
-!!! IMPORTANTE
-	Usa el URL proporcionado en la sección anterior [M3U](https://rentry.co/dexco-iptv/edit#descargar-de-listas-m3u)
-	Algunos navegadores no funcionaran con esta forma de reproducción.
-***
+!!! IMPORTANTE: Algunos navegadores no funcionaran con esta forma de reproducción.
+===
+
 ### **Programas para reproducir M3U**
-Programas o apps multiplataforma: 
-!!! Ya no funciona esta seccion sin la M3U anterior.
 
-- [ ] [VLC Player](https://www.videolan.org/vlc/)
+==- **Programas o apps multiplataforma**
 
-- [ ] [KODI Player](https://kodi.tv/)
+> Usa las listas anteriores aqui:
 
-- [ ] [IPTVnator](https://github.com/4gray/iptvnator/releases/)
+- [VLC Player](https://www.videolan.org/vlc/)
 
-***
+- [KODI Player](https://kodi.tv/)
+
+- [IPTVnator](https://github.com/4gray/iptvnator/releases/)
+
+===
+
 ### Usando paginas WEB para ver TV sin configuración
-Paginas con canales categorizados por país y region
+
+==- **Paginas con canales categorizados por país y region**
 
 -[PLUTO TV](https://pluto.tv/)
 
@@ -74,3 +85,7 @@ Paginas con canales categorizados por país y region
 -[IPTV List](https://iptvlist.ml/)
 
 -[Latino M3U](https://m3u.cl/)
+
+===
+
+
