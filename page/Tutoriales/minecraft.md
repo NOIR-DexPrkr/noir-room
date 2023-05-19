@@ -24,7 +24,7 @@ Usala si no eres muy tecnologico.
 [!badge variant="sucess" text="Descargalo aqui!"](https://drive.google.com/file/d/1i_CIEAA5jdScfsDHWTgODamOCPWep5ax/view?usp=share_link)
 +++
 
-## Descarga la version desde la tienda oficial
+## Instala la version desde la tienda oficial
 
 1. Descargate la version de prueba en la tienda de Microsoft.
 
@@ -37,6 +37,7 @@ Usala si no eres muy tecnologico.
 
 ![](https://i.postimg.cc/xThCbWQz/2023-05-19-16-40-26.png)
 
+## Instala el Winaero Tweaker
 
 2. Descargate el programa Winaero Tweaker:
 
@@ -47,6 +48,8 @@ Usala si no eres muy tecnologico.
 
 ![](https://i.postimg.cc/QCMtpDVp/2023-05-19-16-45-15.png)
 ![](https://i.postimg.cc/769hGhPH/2023-05-19-16-46-05.png)
+
+## Parche al juego
 
 4. Ve a tu carpeta *"Windows/Sytem32/". Si tu windows es de 64bits tambien en "Winsows/SysWOW64".
 Estando ahi busca el archivo: *Windows.ApplicationModel.Store.dll*
