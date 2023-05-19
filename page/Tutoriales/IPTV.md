@@ -30,10 +30,11 @@ xxxxx
 [!badge size="xs" variant="contrast" text="Lista mas completa"](https://noir-dexprkr.github.io/dexco-files/Dexco-IPTV.m3u)
 
 Tambien puedes copiarla y usarla en los reproductores M3U
-https://noir-dexprkr.github.io/dexco-files/Dexco-IPTV.m3u
+
+`https://noir-dexprkr.github.io/dexco-files/Dexco-IPTV.m3u´
 
 ***
->Puedes usar el siguiente enlace para ver gratis desde cualquier navegador: Chrome, Firefox, etc.
+> Puedes usar el siguiente enlace para ver gratis desde cualquier navegador: Chrome, Firefox, etc.
 
 
 ***
