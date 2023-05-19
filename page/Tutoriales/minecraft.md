@@ -6,19 +6,40 @@ layout: default
 
 # Minecraft Windows 10 - Full
 
+---
+!!!info Este es un tutorial sin animo de lucro. Los sitios y descargas aquí son de total seguridad.
+Agradezco ser respetuoso y leer con cuidado los pasos.
+!!!
+---
+
+## Archivos necesarios
+
++++ Parche Dll
+Requerido para el tutorial
+[!badge variant="sucess" text="Descargalo aqui!"](https://drive.google.com/file/d/1ZCtW0RH4VkCab3QmECa4-FqB4O8cRFVY/view?usp=share_link)
+
++++ Launcher X
+Si usas esta opcion no necesitas hacer el resto del tutorial despues de descargar Minecraft. Pero no es 100% estable.
+Usala si no eres muy tecnologico.
+[!badge variant="sucess" text="Descargalo aqui!"](https://drive.google.com/file/d/1i_CIEAA5jdScfsDHWTgODamOCPWep5ax/view?usp=share_link)
+
 ## Descarga la version desde la tienda oficial
 
 1. Descargate la version de prueba en la tienda de Microsoft.
 
+[!badge variant="sucess" text="Descargalo aqui!"](https://www.xbox.com/es-EC/games/store/minecraft-for-windows/9nblggh2jhxj)
+
 ![](https://i.postimg.cc/RZt01XCb/2023-05-19-16-38-40.png)
 ![](https://i.postimg.cc/Zqh5wpCY/2023-05-19-16-34-08.png)
 
-> Si entras abres notaras que no puedes iniciar sesion o abrir tienda.
+> Si entras a la app notaras que no puedes iniciar sesion o abrir tienda.
 
 ![](https://i.postimg.cc/xThCbWQz/2023-05-19-16-40-26.png)
 
 
 2. Descargate el programa Winaero Tweaker:
+
+[!badge variant="sucess" text="Descargalo aqui!"](https://winaero.com/downloads/winaerotweaker.zip)
 
 
 3.  Abrelo y busca la opcion de "take ownership" o "tomar permisos" en la opcion de menu contextual que hay en el programa.
