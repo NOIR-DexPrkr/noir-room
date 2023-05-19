@@ -22,6 +22,7 @@ Requerido para el tutorial
 Si usas esta opcion no necesitas hacer el resto del tutorial despues de descargar Minecraft. Pero no es 100% estable.
 Usala si no eres muy tecnologico.
 [!badge variant="sucess" text="Descargalo aqui!"](https://drive.google.com/file/d/1i_CIEAA5jdScfsDHWTgODamOCPWep5ax/view?usp=share_link)
++++
 
 ## Descarga la version desde la tienda oficial
 
