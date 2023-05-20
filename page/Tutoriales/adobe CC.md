@@ -71,7 +71,7 @@ Es un programa de animación de vectores, el cual permite dar movimiento a disti
 *Estos al ser programas mas antiguos corren mas rapido que las versiones mas recientes, es recomendado si tienes una pc antigua.*
 !!!
 
-Con esta opcion puedes descargar programas antiguos sin necesidad de descargar el instalador de Adobe, el cual es un dolor de cabeza.
+Con esta opcion puedes descargar programas antiguos sin necesidad de descargar el instalador de Adobe, el cual es un dolor de cabeza. Desconectate del internet cuando vayas a instalarlos.
 
 +++ CC 2018 
 Versiones individuales sin parchar y originales de las CC 2018.
@@ -85,7 +85,8 @@ Versiones individuales sin parchar y originales de las CC 2019.
 +++
 
 > Si solo deseas Photoshop CC:
-> Descarga su version sin parchar y original desde las CC 2016 hasta 2023.
+> Descarga su version sin parchar y original desde las CC 2016 hasta 2023. Recuerda desconectarte de internet al instalar estás versiones.
+
 === Versiones
 [!badge variant="success" corners="pill" text="2016 32/64bits"](https://windowstan.com/download/photoshop-cs6/)
 [!badge variant="success" corners="pill" text="2017 32bits"](https://windowstan.com/download/photoshop-cc-2017-x86/)
