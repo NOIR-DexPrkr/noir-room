@@ -21,7 +21,7 @@ La IPTV es la televisión por protocolo de Internet. Esto significa que los usua
 
 ==- **Programas y Apps**
 1. [!button variant="contrast" size="xs" text="MagisTV"](https://www.magistv.top/)    
-*TV en vivo concanales premium. Ordenados por paises*
+*TV en vivo con canales premium. Ordenados por paises*
 ===
 
 ### 2. Usando aplicaciones para reproducir listas M3U
