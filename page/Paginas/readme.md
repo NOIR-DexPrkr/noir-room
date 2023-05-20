@@ -6,4 +6,4 @@ order: 800
 ---
 
 # Paginas utiles
-![](https://i.postimg.cc/fWVv373H/Tutoriales.png)
+![](https://i.postimg.cc/0QBbRwPj/paginas-web.png)
