@@ -51,7 +51,7 @@ Usala si no eres muy tecnologico.
 
 ## Parche al juego
 
-4. Ve a tu carpeta *"Windows/Sytem32/". Si tu windows es de 64bits tambien en "Winsows/SysWOW64".
+4. Ve a tu carpeta *"Windows/Sytem32/". Si tu windows es de 64bits tambien en "Windows/SysWOW64".
 Estando ahi busca el archivo: *Windows.ApplicationModel.Store.dll*
 
 ![](https://i.postimg.cc/6q1QcPGF/2023-05-19-16-46-06.png)
