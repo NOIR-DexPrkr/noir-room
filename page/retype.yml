@@ -3,8 +3,8 @@ output: .retype
 url: https://noir-dexprkr.github.io/noir-room/ # Add your website address here
 branding:
   title: Noir Room
-  logo: "main/page/_recs/icon-white.png"
-  logoDark: "main/page/_recs/icon-dark.png"
+  logo: icon-white.png
+  logoDark: icon-dark.png
   label: QR
 links:
   - text: Github de Dex
