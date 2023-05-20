@@ -38,11 +38,24 @@ xxxxx
 
 > Tambien puedes copiarla y usarla en los reproductores M3U   
 
-1. ```https://noir-dexprkr.github.io/dexco-files/Dexco-IPTV.m3u```
-2. ```http://sdmx.us:25461/get.php?username=belfast&password=belfast&type=m3u```
-3. ```http://31.42.185.216:8000/get.php?username=FFGRUD8Y6N&password=BDE3BE3DI3&type=m3u```
-4. ```http://tvla.xyz/get.php?username=vrhqyawo&password=87e0n2pQcM&type=m3u```
+1. 
+```
+https://noir-dexprkr.github.io/dexco-files/Dexco-IPTV.m3u
+```
+2. 
+```
+http://sdmx.us:25461/get.php?username=belfast&password=belfast&type=m3u
+```
 
+3. 
+```
+http://31.42.185.216:8000/get.php?username=FFGRUD8Y6N&password=BDE3BE3DI3&type=m3u
+```
+
+4. 
+```
+http://tvla.xyz/get.php?username=vrhqyawo&password=87e0n2pQcM&type=m3u
+```
 ===
 
 ### 3. Usando paginas WEB para reproducir listas M3U
