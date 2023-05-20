@@ -86,8 +86,18 @@ Versiones individuales sin parchar y originales de las CC 2019.
 
 > Si solo deseas Photoshop CC:
 > Descarga su version sin parchar y original desde las CC 2016 hasta 2023.
-> [!badge variant="success" corners="pill" text="Descargar"](https://windowstan.com/software/photoshop-cc-2020/)
-
+=== Versiones
+[!badge variant="success" corners="pill" text="2016 32/64bits"](https://windowstan.com/download/photoshop-cs6/)
+[!badge variant="success" corners="pill" text="2017 32bits"](https://windowstan.com/download/photoshop-cc-2017-x86/)
+[!badge variant="success" corners="pill" text="2017 64bits"](https://windowstan.com/download/photoshop-cc-2017-x64/)
+[!badge variant="success" corners="pill" text="2018 32bits"](https://windowstan.com/download/photoshop-cc-2018-x86/)
+[!badge variant="success" corners="pill" text="2018 64bits"](https://windowstan.com/download/photoshop-cc-2018-x64/)
+[!badge variant="success" corners="pill" text="2019 Solo 64bits"](https://windowstan.com/download/photoshop-cc-2019-x64/)
+[!badge variant="success" corners="pill" text="2020 Solo 64bits"](https://windowstan.com/download/photoshop-cc-2020-x64/)
+[!badge variant="success" corners="pill" text="2021 Solo 64bits"](https://windowstan.com/download/photoshop-cc-2021-x64/)
+[!badge variant="success" corners="pill" text="2022 Solo 64bits"](https://windowstan.com/download/photoshop-cc-2022-x64/)
+[!badge variant="success" corners="pill" text="2023 Solo 64bits"](https://windowstan.com/download/photoshop-cc-2023-x64/)
+===
 
 
 ### **Instalación**
