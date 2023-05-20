@@ -39,7 +39,7 @@ Usala si no eres muy tecnologico.
 ![](https://i.postimg.cc/xThCbWQz/2023-05-19-16-40-26.png)
 
 !!!warning 
-Si no eres muy tecnologico, de nuevo, te recomiendo usar este metodo de [Launcher X](https://noir-dexprkr.github.io/noir-room/tutoriales/minecraft/#launcher-x) que parcha el minecraft oficial a traves de un ejecutador que aplica una configuracion al juego para desbloquearlo al jugar.
+Si no eres muy tecnologico, de nuevo, te recomiendo usar este metodo de [Launcher X](https://noir-dexprkr.github.io/noir-room/tutoriales/minecraft/#archivos-necesarios) que parcha el minecraft oficial a traves de un ejecutador que aplica una configuracion al juego para desbloquearlo al jugar.
 !!!
 
 ## Instala el Winaero Tweaker
@@ -73,7 +73,7 @@ Una vez descomprimas los archivos reemplazalos en la carpetas correspondientes:
 - Windows 32bits: ´Windows/Sytem32/´
 - Windows 64bits: ´Windows/Sytem32´ y ´Windows/SysWOW64´
 
-> Los archivos recuerda que dependeran de si tu sistema es de 32 o 64bits. Si no sabes lo que es eso, recomiendo usar la opcion de [launcher X](https://noir-dexprkr.github.io/noir-room/tutoriales/minecraft/#launcher-x).
+> Los archivos recuerda que dependeran de si tu sistema es de 32 o 64bits. Si no sabes lo que es eso, recomiendo usar la opcion de [launcher X](https://noir-dexprkr.github.io/noir-room/tutoriales/minecraft/#archivos-necesarios).
 
 6. Listo, ya esta full tu Minecraft.
 
