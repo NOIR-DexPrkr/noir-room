@@ -67,7 +67,7 @@ Dale click derecho y dale en tomar permisos o "take ownership"
 
 > Se abrira una ventana de powershell y luego un cmd que te pedira presionar cualquier tecla para continuar.
 
-5. Descomprime los archivos del [Parche Dll](https://noir-dexprkr.github.io/noir-room/tutoriales/minecraft/#parche-dll).    
+5. Descomprime los archivos del [Parche Dll](https://noir-dexprkr.github.io/noir-room/tutoriales/minecraft/#archivos-necesarios).    
 Una vez descomprimas los archivos reemplazalos en la carpetas correspondientes:
 
 - Windows 32bits: ´Windows/Sytem32/´
