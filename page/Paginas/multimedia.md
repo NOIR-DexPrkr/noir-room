@@ -24,10 +24,10 @@ order: 690
 - 🟢 [!button variant="success" size="xs" text="VidCorn"](https://ww1.vidcorn.to/series/)   
 *Audio en español e ingles con subtitulos*
 
-- 🔵 [!button size="xs" text="BingeWatch"](https://bingewatch.to/home) 
-   *En ingles con subtitulos*
+- 🔵 [!button size="xs" text="BingeWatch"](https://bingewatch.to/home)    
+*En ingles con subtitulos en ingles y español*
    
- - 🔵 [!button size="xs" text=""]() 
-   *-*
+- 🔵 [!button size="xs" text=""]()    
+*-*
    
 
