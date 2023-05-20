@@ -7,6 +7,8 @@ order: 898
 
 # Aplicaciones para moviles
 
+![](https://i.postimg.cc/DmV0m3WK/moviles.png)
+
 ## Entretenimiento
 
 ### Para ver peliculas y Series
