@@ -21,7 +21,8 @@ Requerido para el tutorial
 +++ Launcher X
 Si usas esta opcion no necesitas hacer el resto del tutorial despues de descargar Minecraft. Pero no es 100% estable.
 Usala si no eres muy tecnologico.
-[!badge variant="sucess" text="Descargalo aqui!"](https://drive.google.com/file/d/1i_CIEAA5jdScfsDHWTgODamOCPWep5ax/view?usp=share_link)
+> Lo unico que debes hacer es descomprimir el archivo donde desees, ejecutar el launcher y se abrira Minecraft oficial parchado.
+[!badge variant="sucess" text="Launcher X aqui!"](https://drive.google.com/file/d/1i_CIEAA5jdScfsDHWTgODamOCPWep5ax/view?usp=share_link)
 +++
 
 ## Instala la version desde la tienda oficial
@@ -36,6 +37,10 @@ Usala si no eres muy tecnologico.
 > Si entras a la app notaras que no puedes iniciar sesion o abrir tienda.
 
 ![](https://i.postimg.cc/xThCbWQz/2023-05-19-16-40-26.png)
+
+!!!warning 
+Si no eres muy tecnologico, de nuevo, te recomiendo usar este metodo de [Launcher X](https://noir-dexprkr.github.io/noir-room/tutoriales/minecraft/#launcher-x) que parcha el minecraft oficial a traves de un ejecutador que aplica una configuracion al juego para desbloquearlo al jugar.
+!!!
 
 ## Instala el Winaero Tweaker
 
@@ -62,8 +67,13 @@ Dale click derecho y dale en tomar permisos o "take ownership"
 
 > Se abrira una ventana de powershell y luego un cmd que te pedira presionar cualquier tecla para continuar.
 
-5. Reemplaza los archivos del Parche Dll en las carpetas mencionadas y es todo.
-> Los archivos recuerda que dependeran de si tu sistema es de 32 o 64bits. Si no sabes lo que es eso, recomiendo usar la opcion de launcher X.
+5. Descomprime los archivos del [Parche Dll](https://noir-dexprkr.github.io/noir-room/tutoriales/minecraft/#parche-dll).    
+Una vez descomprimas los archivos reemplazalos en la carpetas correspondientes:
+
+- Windows 32bits: ´Windows/Sytem32/´
+- Windows 64bits: ´Windows/Sytem32´ y ´Windows/SysWOW64´
+
+> Los archivos recuerda que dependeran de si tu sistema es de 32 o 64bits. Si no sabes lo que es eso, recomiendo usar la opcion de [launcher X](https://noir-dexprkr.github.io/noir-room/tutoriales/minecraft/#launcher-x).
 
 6. Listo, ya esta full tu Minecraft.
 
