@@ -62,8 +62,9 @@ Dale click derecho y dale en tomar permisos o "take ownership"
 
 > Se abrira una ventana de powershell y luego un cmd que te pedira presionar cualquier tecla para continuar.
 
-5. Reemplaza los archivos en las carpetas mencionadas y es todo.
+5. Reemplaza los archivos del Parche Dll en las carpetas mencionadas y es todo.
+> Los archivos recuerda que dependeran de si tu sistema es de 32 o 64bits. Si no sabes lo que es eso, recomiendo usar la opcion de launcher X.
 
-6- Listo, ya esta full tu Minecraft.
+6. Listo, ya esta full tu Minecraft.
 
 ![](https://i.postimg.cc/zXVvvqsN/2023-05-19-16-55-09.png)
