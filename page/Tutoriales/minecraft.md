@@ -46,7 +46,7 @@ Si no eres muy tecnologico, de nuevo, te recomiendo usar este metodo de [Launche
 
 2. Descargate el programa Winaero Tweaker:
 
-[!badge variant="sucess" text="Descargalo aqui!"](https://winaero.com/downloads/)
+[!badge variant="sucess" text="Descargalo aqui!"](https://winaerotweaker.com/)
 
 
 3.  Abrelo y busca la opcion de "take ownership" o "tomar permisos" en la opcion de menu contextual que hay en el programa.
