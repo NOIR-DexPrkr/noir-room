@@ -7,10 +7,7 @@ branding:
   logoDark: icon-white.png
   label: QR
 links:
-  - text: Github de Dex
-    icon: mark-github
-    link: https://github.com/NOIR-DexPrkr/noir-room
-  - text: Página de Facebook
+  - text: Página de Facebook - Noir Room
     icon: people
     link: https://www.facebook.com/dex.noir.room
       
@@ -18,4 +15,4 @@ links:
 editor:
   enabled: true
 footer:
-  copyright: "&copy; Copyright . All rights reserved."
+  copyright: "&copy; Este sitio es una recopilacion de tutoriales. No estoy ligado a lo que en ellos se encuentra."
