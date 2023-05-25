@@ -11,15 +11,15 @@ order: 691
 ## Generacion de imagenes
 
 - 🟢 [!badge variant"contrast" text="Dreamstudio"](https://dreamstudio.ai/generate)    
-*Sitio oficial de Stable Diffusion, gratis y con algunas limitaciones*
+*Sitio oficial de Stable Diffusion, gratis y con algunas limitaciones.*
 
 
 - 🟢 [!badge variant"contrast" text="Midjourney"](https://discord.gg/midjourney)    
-*Discord oficial de MidJourney, gratis y con algunas limitaciones.  Para empezar debes entrar a los canales "newbies" y usar el comando /imagine*
+*Discord oficial de MidJourney, gratis y con algunas limitaciones.  Para empezar debes entrar a los canales "newbies" y usar el comando /imagine.*
 
 
 - 🟢 [!badge variant"contrast" text="Lexicart"](https://lexica.art/aperture)    
-*Sitio con gran variedad de ejemplos para modificar y generar imagenes o crear tus nuevas. Gratis y con algunas limitaciones*
+*Sitio con gran variedad de ejemplos para modificar y generar imagenes o crear tus nuevas. Gratis y con algunas limitaciones.*
 
 
 - 🟢 [!badge variant"contrast" text="Zoo AI"](https://zoo.replicate.dev/)   
@@ -27,15 +27,15 @@ order: 691
 
 
 - 🟢 [!badge variant"contrast" text="Bing image AI"](https://www.bing.com/images/create)    
-*Sitio oficial del generador de imagenes de Bing, gratis y con algunas limitaciones*    
+*Sitio oficial del generador de imagenes de Bing, gratis y con algunas limitaciones.*    
 
 
 - 🟢 [!badge variant"contrast" text="Fusion Brain"](https://fusionbrain.ai/)    
-*Genera imagenes rapido y facil, gratis y con algunas limitaciones*  
+*Genera imagenes rapido y facil, gratis y con algunas limitaciones.*  
 
 
 - 🟢 [!badge variant"contrast" text="Stable Diffusion 18+"](https://unstability.party/)    
-*Sitio creado por la comunidad para creacion de imagenes sin restriccion, gratis y debes iniciar sesion con discord para poder crear tus imagenes*   
+*Sitio creado por la comunidad para creacion de imagenes sin restriccion, gratis y debes iniciar sesion con discord para poder crear tus imagenes.*   
 
 - 🟢 [!badge variant"contrast" text="Stable Diffusion 18+"](https://playgroundai.com/)    
-*Sitio para creacion de imagenes en buena calidad, gratis y con algunas limitaciones.
+*Sitio para creacion de imagenes en buena calidad, gratis y con algunas limitaciones.*
