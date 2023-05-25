@@ -10,7 +10,7 @@ order: 691
 
 ## Generacion de imagenes
 
-- 🟢 [!badge variant"contrast" text="Dreamstudio"](https://dreamstudio.ai/generate)    
+- 🟢 [!badge variant="contrast" text="Dreamstudio"](https://dreamstudio.ai/generate)    
 *Sitio oficial de Stable Diffusion, gratis y con algunas limitaciones.*
 
 
