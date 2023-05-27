@@ -39,18 +39,18 @@ Agradezco ser respetuoso y leer con cuidado los pasos.
 
 
 - [!button variant="success" corners="pill" text="Decentraleyes - Extension"](https://decentraleyes.org/)     
-*Extension que te proteje del seguimiento de paginas y servicios*
+*Extension que te proteje del seguimiento de paginas y servicios.*
 
 
 - [!button variant="contrast" corners="pill" text="Decentraleyes - Extension"](https://github.com/ClearURLs/Addon)    
-*Similar a Decentraleyes*
+*Similar a Decentraleyes.*
  
 - [!button variant="warning" corners="pill" text="Safe to Open - Extension"](https://safetoopen.com/)     
 *Esta extension te protege de ataques de pishing o mas conocidos como ataques de robo de información.*
 
 
 - [!button variant="success" corners="pill" text="Firewall - Extension](https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall/)     
-*Extension exclusiva para Firefox*
+*Extension exclusiva para Firefox.*
 
 
 
