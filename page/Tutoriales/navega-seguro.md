@@ -49,7 +49,7 @@ Agradezco ser respetuoso y leer con cuidado los pasos.
 *Esta extension te protege de ataques de pishing o mas conocidos como ataques de robo de información.*
 
 
-- [!button variant="success" corners="pill" text="Firewall - Extension](https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall/)     
+- [!button variant="success" corners="pill" text="Firewall - Extension"](https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall/)     
 *Extension exclusiva para Firefox.*
 
 
