@@ -2,7 +2,6 @@
 label: Navegacion segura
 icon: globe
 layout: default
-order: 690
 ---
 
 # Navegacion segura - WIN-Android-IOS
