@@ -4,7 +4,7 @@ icon: globe
 layout: default
 ---
 
-# Navegacion segura - WIN-Android-IOS
+# Navegacion segura - Windows
 
 ---
 !!!info Este es un tutorial sin animo de lucro. Los sitios y descargas aquí son de total seguridad.
