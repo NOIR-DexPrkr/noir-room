@@ -20,7 +20,7 @@ Agradezco ser respetuoso y leer con cuidado los pasos.
 > Puedes empezar por instalar uno de los siguientes navegadores:
 
 - [!button variant="danger" corners="pill" text="Yandex - Navegador"](https://browser.yandex.com/)    
-*(Recomendado) Yandex es el google de rusia con mucha personalizacion, ajustes, caracteristicas y bastante seguro contra amenazas.*
+*(Recomendado) Yandex es el google de rusia con mucha personalizacion, ajustes, caracteristicas y bastante seguro contra amenazas. Viene con DNS, proxy y proteccion contra pishing y archivos maliciosos.*
 
 - [!button variant="warning" corners="pill" text="Firefox - Navegador"](https://www.mozilla.org/es-ES/firefox/new/)    
 *Firefox es el navegador preferido por muchos cuando se trata de privacidad, aunque es dificil acostumbrarse si vienes de chromium.*
