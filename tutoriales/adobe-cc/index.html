@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="turbo-root" content="/noir-room">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="2.4.0.738693530922">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="2.4.0.738693768188">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 2.4.0">
@@ -34,11 +34,11 @@
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("/noir-room/doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../../favicon.ico" rel="icon" />
-    <link href="../../resources/css/retype.css?v=2.4.0.738693530922" rel="stylesheet" />
+    <link href="../../resources/css/retype.css?v=2.4.0.738693768188" rel="stylesheet" />
 
-    <script type="text/javascript" src="../../resources/js/config.js?v=2.4.0.738693530922" data-turbo-eval="false" defer></script>
+    <script type="text/javascript" src="../../resources/js/config.js?v=2.4.0.738693768188" data-turbo-eval="false" defer></script>
     <script type="text/javascript" src="../../resources/js/retype.js?v=2.4.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" type="text/javascript" src="../../resources/js/lunr.js?v=2.4.0.738693530922" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" type="text/javascript" src="../../resources/js/lunr.js?v=2.4.0.738693768188" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -463,36 +463,10 @@ Una vez estén ambos abiertos, en el CMD nos saldrá un menú. Allí debemos esc
 <p>(2) for Internet Patch</p>
 <p>(1) for Firewall Block.</p>
 <p>En ese orden. Luego presionamos la letra Q para salir.
-<em>(Esto crea una regla en el firewall de windows que bloquea el Creative Cloud, si algún programa en algún momento necesita conexión solo debes desactivar y activarla cuando sea necesario)</em></p>
+<em>(Esto crea una regla en el firewall de windows que bloquea el Creative Cloud, si algún programa en algún momento necesita conexión solo debes desactivar y activarla cuando sea necesario)</em>
+Una vez instalados o actualizados los programas puedes continuar con <doc-anchor-trigger to="#guia-para-parchar-los-programas-ya-instalados">la guia para parchar</doc-anchor-trigger></p>
 </blockquote>
 <hr />
-<doc-anchor-target id="guia-para-parchar-los-programas-ya-instalados">
-    <h2>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#guia-para-parchar-los-programas-ya-instalados">#</doc-anchor-trigger>
-        <span>Guia para parchar los programas ya instalados</span>
-    </h2>
-</doc-anchor-target>
-<ol>
-<li>Ejecutamos GenP, si no cambiaron la ruta de instalacion pueden dejar que el programa busque los programas clickeando <strong>“Search files”</strong>.  Tardará un rato en terminar de buscar los archivos pero una vez los encuentre les activará la opción de “curar” la cual deben seleccionar. En caso contrario, si cambiaron la ruta de descarga o GenP no los encuentra, seleccione la opción de <strong>“Custom path”</strong> y seleccione la carpeta donde están los programas o programa.</li>
-</ol>
-<blockquote>
-<p>Una forma para asegurar que todos sus programas están siendo parchados es observando la lista, si en esta se encuentran los programas que descargaron no deberían de existir problemas.</p>
-</blockquote>
-<p><img src="https://i.postimg.cc/BQWs2Shx/Imagen1.png" alt="" /> <img src="https://i.postimg.cc/T25fyLcd/Imagen2.png" alt="" /></p>
-<ol start="2">
-<li>Por último bloqueamos el .exe de cada programa instalado por medio de firewall.</li>
-</ol>
-<p>Para esto primero es necesario abrir el <strong>“Firewall de Windows Defender”</strong> al entrar deben ir a Configuración avanzada y seleccionar Reglas de Salida.A la derecha tendrán la opción de <strong>“Nueva Regla”</strong>, deben de hacerle click, seleccionan programa y en ruta de acceso deben de buscar el .exe del programa que quieren bloquear.</p>
-<blockquote>
-<p>Ej: C:\Program Files\Adobe\Adobe Animate 2023\Animate.exe</p>
-</blockquote>
-<p>Deben asegurar que en Acción este seleccionado <strong>“Bloquear conexión”</strong>, en perfil todo debe de estar tickeado y por último deben de asignar un nombre a la regla. Este procedimiento deben de hacerlo con el .exe de cada programa y al final debería de quedar algo asi:</p>
-<p><figure class="content-center">
-    <img src="https://i.postimg.cc/7LY8Vf8W/Imagen3.png" alt="" />
-    <figcaption class="caption"></figcaption>
-</figure>
-</p>
-<p>Si tienen problema encontrando los .exe pueden ir a los accesos directos, darles click derecho y propiedades, y en la ventana ahora abierta solo deben de darle a <strong>“abrir ubicación”</strong> y ya tendrán la ubicación del .exe</p>
 <doc-anchor-target id="opcion-3-programas-parchados-para-doomies">
     <h2>
         <doc-anchor-trigger class="header-anchor-trigger" to="#opcion-3-programas-parchados-para-doomies">#</doc-anchor-trigger>
@@ -549,6 +523,34 @@ Una vez estén ambos abiertos, en el CMD nos saldrá un menú. Allí debemos esc
 <p>Otros programas encuentralos en <a href="https://www.artistapirata.com/">Artista Pirata</a></p>
 </doc-tab>
 </doc-tabs>
+<hr />
+<doc-anchor-target id="guia-para-parchar-los-programas-ya-instalados">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#guia-para-parchar-los-programas-ya-instalados">#</doc-anchor-trigger>
+        <span>Guia para parchar los programas ya instalados</span>
+    </h2>
+</doc-anchor-target>
+<ol>
+<li>Ejecutamos GenP, si no cambiaron la ruta de instalacion pueden dejar que el programa busque los programas clickeando <strong>“Search files”</strong>.  Tardará un rato en terminar de buscar los archivos pero una vez los encuentre les activará la opción de “curar” la cual deben seleccionar. En caso contrario, si cambiaron la ruta de descarga o GenP no los encuentra, seleccione la opción de <strong>“Custom path”</strong> y seleccione la carpeta donde están los programas o programa.</li>
+</ol>
+<blockquote>
+<p>Una forma para asegurar que todos sus programas están siendo parchados es observando la lista, si en esta se encuentran los programas que descargaron no deberían de existir problemas.</p>
+</blockquote>
+<p><img src="https://i.postimg.cc/BQWs2Shx/Imagen1.png" alt="" /> <img src="https://i.postimg.cc/T25fyLcd/Imagen2.png" alt="" /></p>
+<ol start="2">
+<li>Por último bloqueamos el .exe de cada programa instalado por medio de firewall.</li>
+</ol>
+<p>Para esto primero es necesario abrir el <strong>“Firewall de Windows Defender”</strong> al entrar deben ir a Configuración avanzada y seleccionar Reglas de Salida.A la derecha tendrán la opción de <strong>“Nueva Regla”</strong>, deben de hacerle click, seleccionan programa y en ruta de acceso deben de buscar el .exe del programa que quieren bloquear.</p>
+<blockquote>
+<p>Ej: C:\Program Files\Adobe\Adobe Animate 2023\Animate.exe</p>
+</blockquote>
+<p>Deben asegurar que en Acción este seleccionado <strong>“Bloquear conexión”</strong>, en perfil todo debe de estar tickeado y por último deben de asignar un nombre a la regla. Este procedimiento deben de hacerlo con el .exe de cada programa y al final debería de quedar algo asi:</p>
+<p><figure class="content-center">
+    <img src="https://i.postimg.cc/7LY8Vf8W/Imagen3.png" alt="" />
+    <figcaption class="caption"></figcaption>
+</figure>
+</p>
+<p>Si tienen problema encontrando los .exe pueden ir a los accesos directos, darles click derecho y propiedades, y en la ventana ahora abierta solo deben de darle a <strong>“abrir ubicación”</strong> y ya tendrán la ubicación del .exe</p>
 <hr />
 <div class="flex mb-6">
     <div class="shrink-0 w-1 rounded-tl rounded-bl bg-green-500"></div>
