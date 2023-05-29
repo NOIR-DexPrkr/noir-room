@@ -42,7 +42,7 @@ Agradezco ser respetuoso y leer con cuidado los pasos.
 *Extension que te proteje del seguimiento de paginas y servicios.*
 
 
-- [!button variant="contrast" corners="pill" text="Decentraleyes - Extension"](https://github.com/ClearURLs/Addon)    
+- [!button variant="contrast" corners="pill" text="Clear URLs - Extension"](https://github.com/ClearURLs/Addon)    
 *Similar a Decentraleyes.*
  
 - [!button variant="warning" corners="pill" text="Safe to Open - Extension"](https://safetoopen.com/)     
