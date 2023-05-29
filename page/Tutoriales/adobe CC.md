@@ -168,28 +168,8 @@ Una vez estén ambos abiertos, en el CMD nos saldrá un menú. Allí debemos esc
 > 
 > En ese orden. Luego presionamos la letra Q para salir.
 *(Esto crea una regla en el firewall de windows que bloquea el Creative Cloud, si algún programa en algún momento necesita conexión solo debes desactivar y activarla cuando sea necesario)*
-
+> Una vez instalados o actualizados los programas puedes continuar con [la guia para parchar](#guia-para-parchar-los-programas-ya-instalados)
 ---
-
-## Guia para parchar los programas ya instalados
-
-1. Ejecutamos GenP, si no cambiaron la ruta de instalacion pueden dejar que el programa busque los programas clickeando **“Search files”**.  Tardará un rato en terminar de buscar los archivos pero una vez los encuentre les activará la opción de “curar” la cual deben seleccionar. En caso contrario, si cambiaron la ruta de descarga o GenP no los encuentra, seleccione la opción de **“Custom path”** y seleccione la carpeta donde están los programas o programa.
-
-> Una forma para asegurar que todos sus programas están siendo parchados es observando la lista, si en esta se encuentran los programas que descargaron no deberían de existir problemas.
-
-![](https://i.postimg.cc/BQWs2Shx/Imagen1.png) ![](https://i.postimg.cc/T25fyLcd/Imagen2.png) 
-
-2. Por último bloqueamos el .exe de cada programa instalado por medio de firewall.
-
-Para esto primero es necesario abrir el **“Firewall de Windows Defender”** al entrar deben ir a Configuración avanzada y seleccionar Reglas de Salida.A la derecha tendrán la opción de **“Nueva Regla”**, deben de hacerle click, seleccionan programa y en ruta de acceso deben de buscar el .exe del programa que quieren bloquear.
-
-> Ej: C:\Program Files\Adobe\Adobe Animate 2023\Animate.exe
-
-Deben asegurar que en Acción este seleccionado **“Bloquear conexión”**, en perfil todo debe de estar tickeado y por último deben de asignar un nombre a la regla. Este procedimiento deben de hacerlo con el .exe de cada programa y al final debería de quedar algo asi:
-
-![](https://i.postimg.cc/7LY8Vf8W/Imagen3.png) 
-
-Si tienen problema encontrando los .exe pueden ir a los accesos directos, darles click derecho y propiedades, y en la ventana ahora abierta solo deben de darle a **“abrir ubicación”** y ya tendrán la ubicación del .exe
 
 ## Opcion 3: Programas parchados para doomies.
 > Escoge cualquiera de las siguientes opciones para instalar, no necesita configuracion. Solo instalas y listo.
@@ -214,6 +194,28 @@ Para las versiones la contraseña de todos es: `www.artistapirata.com`
 +++ 🟢Otros
 Otros programas encuentralos en [Artista Pirata](https://www.artistapirata.com/)
 +++
+
+---
+
+## Guia para parchar los programas ya instalados
+
+1. Ejecutamos GenP, si no cambiaron la ruta de instalacion pueden dejar que el programa busque los programas clickeando **“Search files”**.  Tardará un rato en terminar de buscar los archivos pero una vez los encuentre les activará la opción de “curar” la cual deben seleccionar. En caso contrario, si cambiaron la ruta de descarga o GenP no los encuentra, seleccione la opción de **“Custom path”** y seleccione la carpeta donde están los programas o programa.
+
+> Una forma para asegurar que todos sus programas están siendo parchados es observando la lista, si en esta se encuentran los programas que descargaron no deberían de existir problemas.
+
+![](https://i.postimg.cc/BQWs2Shx/Imagen1.png) ![](https://i.postimg.cc/T25fyLcd/Imagen2.png) 
+
+2. Por último bloqueamos el .exe de cada programa instalado por medio de firewall.
+
+Para esto primero es necesario abrir el **“Firewall de Windows Defender”** al entrar deben ir a Configuración avanzada y seleccionar Reglas de Salida.A la derecha tendrán la opción de **“Nueva Regla”**, deben de hacerle click, seleccionan programa y en ruta de acceso deben de buscar el .exe del programa que quieren bloquear.
+
+> Ej: C:\Program Files\Adobe\Adobe Animate 2023\Animate.exe
+
+Deben asegurar que en Acción este seleccionado **“Bloquear conexión”**, en perfil todo debe de estar tickeado y por último deben de asignar un nombre a la regla. Este procedimiento deben de hacerlo con el .exe de cada programa y al final debería de quedar algo asi:
+
+![](https://i.postimg.cc/7LY8Vf8W/Imagen3.png) 
+
+Si tienen problema encontrando los .exe pueden ir a los accesos directos, darles click derecho y propiedades, y en la ventana ahora abierta solo deben de darle a **“abrir ubicación”** y ya tendrán la ubicación del .exe
 
 
 ---
