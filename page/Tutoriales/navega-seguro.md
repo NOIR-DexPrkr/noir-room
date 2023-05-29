@@ -13,7 +13,7 @@ Agradezco ser respetuoso y leer con cuidado los pasos.
 ---
 
 ## ¿Como se empieza?    
-> Esa guia es basica y no muy extensa en cuanto a privacidad. Si eres un enfermo con este tema, de seguro que ya sabes donde buscar y esta guia no es para ti.
+> Esta guia es basica y no muy extensa en cuanto a seguridad. Si eres un enfermo con este tema, de seguro que ya sabes donde buscar y esta guia no es para ti. Una vez completes la guia e instales lo necesario, podrias descargar cosas desde internet con menos miedo a un virus que antes.
 
 ### instala los navegadores
 
@@ -52,5 +52,7 @@ Agradezco ser respetuoso y leer con cuidado los pasos.
 - [!button variant="success" corners="pill" text="Firewall - Extension"](https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall/)     
 *Extension exclusiva para Firefox.*
 
+
+***Eso es todo, cualquier duda recuerda que puedes contactarme en el grupo, mi pagina o mi discord***
 
 
