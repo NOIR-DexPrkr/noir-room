@@ -7,7 +7,7 @@ branding:
   logoDark: icon-white.png
   label: QR
 links:
-  - text: Página de Facebook - Noir Room
+  - text: Noir Room - Pagina
     icon: people
     link: https://www.facebook.com/dex.noir.room
       
@@ -16,3 +16,7 @@ editor:
   enabled: true
 footer:
   copyright: "&copy; Este sitio es una recopilacion de tutoriales. No estoy ligado a lo que en ellos se encuentra."
+  links: 
+    - text: Visita mi pagina de Facebook
+    - icon: people
+    - link: https://www.facebook.com/dex.noir.room
