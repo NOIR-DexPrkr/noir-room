@@ -207,9 +207,9 @@ Para las versiones la contraseña de todos es: `www.artistapirata.com`
 Para las versiones la contraseña de todos es: `www.artistapirata.com`      
 [!badge corners="pill" text="CC 2023"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2F5rl1r0jq3yxqa8n%2FWIN_AAI_V27.1.0.189_AP_ZNT.rar%2Ffile%3ACeK6gVRz3AAB-9xzySKqvv1IYrs&cuid=4208103)     
 [!badge corners="pill" text="CC 2022"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2Fr4pb4iocxtmkapm%2FWIN_AAI_V26.5.0.223_AP_ZNT.rar%2Ffile%3AtybK_260rmaooXQoz93gntZBRY8&cuid=4208103)       
-[!badge corners="pill" text="CC 2023"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2Fmma6fhd8bcbmbkw%2FWIN_AAI_V25.4.1.498_AP_ZNT.rar%2Ffile%3A4Cxz7nNNTniZonVn6oz1Edklp9A&cuid=4208103)       
-[!badge corners="pill" text="CC 2023"](http://disq.us/url?url=http%3A%2F%2Fwww.mediafire.com%2Ffile%2Fg7sgg5fmjamqjrl%2FAI24.3.0.WIN.AP.ZNT.rar%2Ffile%3AkmpvK5tWrbBH7fSVniMMpT5ojSU&cuid=4208103)        
-[!badge corners="pill" text="CC 2023"](http://disq.us/url?url=http%3A%2F%2Fwww.mediafire.com%2Ffile%2F2dl03gyj62tknn8%2FWIN_AI_2K19_V23.1_AP_ZNT.rar%2Ffile%3A38QUK9JDZ7dXDpZ-zsqGTYYhnlE&cuid=4208103)       
+[!badge corners="pill" text="CC 2021"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2Fmma6fhd8bcbmbkw%2FWIN_AAI_V25.4.1.498_AP_ZNT.rar%2Ffile%3A4Cxz7nNNTniZonVn6oz1Edklp9A&cuid=4208103)       
+[!badge corners="pill" text="CC 2020"](http://disq.us/url?url=http%3A%2F%2Fwww.mediafire.com%2Ffile%2Fg7sgg5fmjamqjrl%2FAI24.3.0.WIN.AP.ZNT.rar%2Ffile%3AkmpvK5tWrbBH7fSVniMMpT5ojSU&cuid=4208103)        
+[!badge corners="pill" text="CC 2019"](http://disq.us/url?url=http%3A%2F%2Fwww.mediafire.com%2Ffile%2F2dl03gyj62tknn8%2FWIN_AI_2K19_V23.1_AP_ZNT.rar%2Ffile%3A38QUK9JDZ7dXDpZ-zsqGTYYhnlE&cuid=4208103)       
 
 +++ 🟢Otros
 Otros programas encuentralos en [Artista Pirata](https://www.artistapirata.com/)
