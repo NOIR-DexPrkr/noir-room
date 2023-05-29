@@ -14,7 +14,7 @@ order: 691
 *Sitio oficial de Stable Diffusion, gratis y con algunas limitaciones.*
 
 !!!info Prueba por tiempo limitado la ultima version de Stable diffusion.    
-[!badge Dreamstudio](https://discord.gg/stablediffusion)
+[!badge SD discord](https://discord.gg/stablediffusion)
 Usa la seccion de bot para probar la AI y usa el comando /dream en los chats llamados Bot-1, 2, 3, etc.
 !!!
 
