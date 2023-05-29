@@ -13,6 +13,10 @@ order: 691
 - 🟢 [!badge variant="contrast" text="Dreamstudio"](https://dreamstudio.ai/generate)    
 *Sitio oficial de Stable Diffusion, gratis y con algunas limitaciones.*
 
+!!!info Prueba por tiempo limitado la ultima version de Stable diffusion.    
+[!badge Dreamstudio](https://discord.gg/stablediffusion)
+Usa la seccion de bot para probar la AI y usa el comando /dream en los chats llamados Bot-1, 2, 3, etc.
+!!!
 
 - 🟢 [!badge variant="contrast" text="Midjourney"](https://discord.gg/midjourney)    
 *Discord oficial de MidJourney, gratis y con algunas limitaciones.  Para empezar debes entrar a los canales "newbies" y usar el comando /imagine.*
