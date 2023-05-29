@@ -33,9 +33,9 @@ order: 691
 - 🟢 [!badge variant="contrast" text="Fusion Brain"](https://fusionbrain.ai/)    
 *Genera imagenes rapido y facil, gratis y con algunas limitaciones.*  
 
+- 🟢 [!badge variant="contrast" text="Playground AI"](https://playgroundai.com/)    
+*Sitio para creacion de imagenes en buena calidad, gratis y con algunas limitaciones.*
 
-- 🟢 [!badge variant="contrast" text="Stable Diffusion 18+"](https://unstability.party/)    
+- 🔴 [!badge variant="contrast" text="Stable Diffusion 18+"](https://unstability.party/)    
 *Sitio creado por la comunidad para creacion de imagenes sin restriccion, gratis y debes iniciar sesion con discord para poder crear tus imagenes.*   
 
-- 🟢 [!badge variant="contrast" text="Stable Diffusion 18+"](https://playgroundai.com/)    
-*Sitio para creacion de imagenes en buena calidad, gratis y con algunas limitaciones.*
