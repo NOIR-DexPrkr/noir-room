@@ -191,6 +191,31 @@ Deben asegurar que en Acción este seleccionado **“Bloquear conexión”**, en
 
 Si tienen problema encontrando los .exe pueden ir a los accesos directos, darles click derecho y propiedades, y en la ventana ahora abierta solo deben de darle a **“abrir ubicación”** y ya tendrán la ubicación del .exe
 
+## Opcion 3: Programas parchados para doomies.
+> Escoge cualquiera de las siguientes opciones para instalar, no necesita configuracion. Solo instalas y listo.
+
++++ 🔵Photoshop     
+Para las versiones la contraseña de todos es: `www.artistapirata.com`     
+[!badge corners="pill" text="CC 2023"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2F54uwt3n3wbpxemu%2FWIN_APS_V24.4.1.449_AP_ZNT.rar%2Ffile%3ATdBIrm3LadK9BITUhon7o55bpH8&cuid=4208103)       
+[!badge corners="pill" text="CC 2022"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2Fyp0f1r4j0d6r21b%2FWIN_APS_V23.5.0.669_AP_ZNT.rar%2Ffile%3Asa9zMJb198iceDCybhEHp-TnIXw&cuid=4208103)       
+[!badge corners="pill" text="CC 2021"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2Fkew510adp462kyy%2FWIN_APS_V22.5.8.998_AP_ZNT.rar%2Ffile%3AGU54grbZPWIMzy-XsSUD0g0pWho&cuid=4208103)      
+[!badge corners="pill" text="CC 2020"](http://disq.us/url?url=http%3A%2F%2Fwww.mediafire.com%2Ffile%2F732cz8arne5nlda%2FPSCC2K21.21.2.4.WIN.AP.ZNT.rar%3AKFIXEo7XoBONQly5Bs_BOWP-CAE&cuid=4208103)      
+[!badge corners="pill" text="CC 2019"](http://disq.us/url?url=http%3A%2F%2Fwww.mediafire.com%2Ffile%2Fos10tbcyzp1khd3%2FWIN_APS_2K19_V20_AP_ZNT.rar%2Ffile%3ACIztKcBJmhs6bA_bgUfqev_zNs0&cuid=4208103)        
+[!badge corners="pill" text="CC 2018"](http://disq.us/url?url=http%3A%2F%2Fbit.ly%2F2DsSPcR%3A__bJC5iOIXVUl3VXXU9WwDrCUUI&cuid=4208103)
+
++++ 🟠Illustrator
+Para las versiones la contraseña de todos es: `www.artistapirata.com`      
+[!badge corners="pill" text="CC 2023"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2F5rl1r0jq3yxqa8n%2FWIN_AAI_V27.1.0.189_AP_ZNT.rar%2Ffile%3ACeK6gVRz3AAB-9xzySKqvv1IYrs&cuid=4208103)     
+[!badge corners="pill" text="CC 2022"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2Fr4pb4iocxtmkapm%2FWIN_AAI_V26.5.0.223_AP_ZNT.rar%2Ffile%3AtybK_260rmaooXQoz93gntZBRY8&cuid=4208103)       
+[!badge corners="pill" text="CC 2023"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2Fmma6fhd8bcbmbkw%2FWIN_AAI_V25.4.1.498_AP_ZNT.rar%2Ffile%3A4Cxz7nNNTniZonVn6oz1Edklp9A&cuid=4208103)       
+[!badge corners="pill" text="CC 2023"](http://disq.us/url?url=http%3A%2F%2Fwww.mediafire.com%2Ffile%2Fg7sgg5fmjamqjrl%2FAI24.3.0.WIN.AP.ZNT.rar%2Ffile%3AkmpvK5tWrbBH7fSVniMMpT5ojSU&cuid=4208103)        
+[!badge corners="pill" text="CC 2023"](http://disq.us/url?url=http%3A%2F%2Fwww.mediafire.com%2Ffile%2F2dl03gyj62tknn8%2FWIN_AI_2K19_V23.1_AP_ZNT.rar%2Ffile%3A38QUK9JDZ7dXDpZ-zsqGTYYhnlE&cuid=4208103)       
+
++++ 🟢Otros
+Otros programas encuentralos en [Artista Pirata](https://www.artistapirata.com/)
++++
+
+
 ---
 
 !!!success Eso sería todo, si tienes alguna duda puedes preguntar en el grupo o [pagina](https://www.facebook.com/dex.noir.room) y con gusto responderé.
