@@ -10,6 +10,10 @@ links:
   - text: Noir Room - Pagina
     icon: people
     link: https://www.facebook.com/dex.noir.room
+  - text: Discord - Noir Room
+    icon: feed-rocket
+    link: https://discord.gg/hVKeY3uEru
+    target: blank
       
     
 editor:
@@ -17,6 +21,11 @@ editor:
 footer:
   copyright: "&copy; Este sitio es una recopilacion de tutoriales. No estoy ligado a lo que en ellos se encuentra."
   links: 
-    - text: Visita mi pagina de Facebook
+    - text: Pagina de Facebook
       icon: people
       link: https://www.facebook.com/dex.noir.room
+      target: blank
+    - text: Discord - Noir Room
+      icon: feed-rocket
+      link: https://discord.gg/hVKeY3uEru
+      target: blank
