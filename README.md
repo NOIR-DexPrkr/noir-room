@@ -1,5 +1,3 @@
-# [Sitio Web](https://noir-dexprkr.github.io/noir-room/)
+# [Sitio Web](https://noiroom.dexspidey.workers.dev/)
 
-**Sitio oficial de Dex Parker**
-
-*Tutoriales y aportes en QR*
+![](https://i.postimg.cc/NFmRf4NL/page-header.png)
