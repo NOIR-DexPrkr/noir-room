@@ -20,7 +20,7 @@ Hazlo desde [!badge icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3
 ![Escaneame](https://imgur.com/VMSXDBV.png)
 
 ### **Adobe CC - Tutorial**
-![Escaneame](https://i.postimg.cc/cH57BGwn/Adobe-CC.png)
+![Escaneame](https://i.postimg.cc/tJpp7MCn/Adobe-CC.png)
 
 ### **Adobe Apps - Android**
 ![Escaneame](https://imgur.com/wmiGN5h.png)
@@ -56,5 +56,5 @@ Hazlo desde [!badge icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3
 ![Escaneame](https://i.imgur.com/ka5lWpM.png)
 
 ### **Mantente seguro con tutorial para navegaren la WEB**
-![Escaneame](https://i.postimg.cc/05Fd6x8g/Navega-seguro.png)
+![Escaneame](https://i.postimg.cc/tRN98p23/Navega-seguro.png)
 
