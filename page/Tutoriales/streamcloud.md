@@ -27,7 +27,7 @@ Es una aplicacion de codigo abierto que te permite reproducir y descargar pelicu
 
 1. Descargamos la aplicacion desde el siguiente link: 
 
-[!badge variant="success" text="Descarga"](https://mustardchef.github.io/CS3SiteArchive/install/)
+[!badge variant="success" text="Descarga"](https://mustardchef.github.io/CS3SiteArchive/install/){target="blank"}
 
 > Aqui busca el apartado de **Assets**, expandelo y descarga el archivo **.APK**.
 
@@ -35,7 +35,7 @@ Es una aplicacion de codigo abierto que te permite reproducir y descargar pelicu
 
 3. Abre el siguiente link desde tu telefono. **OJO, debe ser desde el telefono**.
 
-[!badge variant="success" text="Extension multilenguaje"](https://mustardchef.github.io/CS3SiteArchive/repos/)
+[!badge variant="success" text="Extension multilenguaje"](https://mustardchef.github.io/CS3SiteArchive/repos/){target="blank"}
 
 > Este enlace te llevará a una página de repositorios, selecciona "install" en donde dice "Multilingual". Se instalará una extension en la app que te permitira agregar una gran variedad de paginas de series y peliculas.
 
@@ -52,7 +52,7 @@ Puedes también buscar y seleccionar los resultados que te saldrán en las peque
 ![](https://i.postimg.cc/GmSpLNHP/Screenshot-20230516-160952-Cloud-Stream.png)
 
 
-!!!success Si tienes dudas de como usar la app, puedes preguntar en el grupo o en la [pagina](https://www.facebook.com/dex.noir.room) y con gusto te respondere.
+!!!success Si tienes dudas de como usar la app, puedes preguntar en el grupo o en la [pagina](https://www.facebook.com/dex.noir.room){target="blank"} y con gusto te respondere.
 !!!
 
-[!badge Creditos al desarrollador](https://github.com/recloudstream/cloudstream)
+[!badge Creditos al desarrollador](https://github.com/recloudstream/cloudstream){target="blank"}
