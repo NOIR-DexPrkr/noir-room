@@ -59,11 +59,11 @@ Puedes seleccionar:
 
 ![opciones](https://imag.malavida.com/mvimgbig/download-fs/xmanager-31055-2.jpg)
 
-4. Eso es todo, forza el cierre de tu spotify y listo. Si no sabes hacerlo, reinicia tu telefono.     
+4. Eso es todo, fuerza el cierre de tu spotify y listo. Si no sabes hacerlo, reinicia tu telefono.     
 Con eso tendras spotify premium.
 
 ---
 
-***Eso es todo, cualquier duda/petición recuerda que puedes contactarme en el grupo, mi pagina o mi discord***
+> ***Eso es todo, cualquier duda/petición recuerda que puedes contactarme en el grupo, mi pagina o mi discord***
 
 
