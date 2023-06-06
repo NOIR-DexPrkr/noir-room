@@ -47,7 +47,9 @@ Usa la seccion de bot para probar la AI y usa el comando /dream en los chats lla
 *Sitio creado por la comunidad para creacion de imagenes sin restriccion, gratis y debes iniciar sesion con discord para poder crear tus imagenes.*   
 
 
-## Conversación por texto
+## Generación de texto
+
+### Conversaciones 
 
 - 🟢 [!badge variant="contrast" text="Chat GPT"](https://chat.openai.com/)    
 *Chatea y pide lo que desees a GPT. Este chat es hasta ahora el mas avanzado cuando hablamos de la forma en que responde. Esta desactualizado y solo da informacion hasta el 2021. Para acceder a la version reciente debes pagar.*
@@ -66,17 +68,17 @@ Usa la seccion de bot para probar la AI y usa el comando /dream en los chats lla
 - 🟢 [!badge variant="contrast" text="Hugging Chat"](https://huggingface.co/chat/)          
 *Similar a GPT pero con acceso a internet y sin restricciones (mientras sea legal). Es mejor para hacer trabajos o investigar pues fue entrenado con informacion seleccionada. La desventaja es que A veces debes ser muy preciso con lo que pides y como lo pides.*
 
-## Conversacion texto con respuesta de voz
+### Conversacion texto con respuesta de voz
 
 - 🟢 [!badge variant="contrast" text="Hey PI"](https://heypi.com/talk)    
 *Este sitio tiene un GPT el cual puede responderte con 4 tipos de voces. Dos masculinas y dos femeninas. Suenan muy naturales las voces y su forma de hablar.*
 
-## Conversacion de Voz a Voz
+### Conversacion de Voz a Voz
 
 - 🟢 [!badge variant="contrast" text="Call Annie/Samantha"](https://callannie.ai/)    
 *Este te permite hablar desde la web o llamar por telefono o video llamada. Puedes registrarte y hablar en español o ingles. Y para la video llamada se necesita iPhone. Tambien puedes cambiar de voz a hombre o mujer y suena algo robotica.*
 
-## Buscadores con AI/IA
+### Buscadores con AI/IA
 
 - 🟢 [!badge variant="contrast" text="Phind"](https://www.phind.com/)    
 *Buscador similar a Google o Bing pero integrado con la ultima version de GPT-4. Con un enfoque en el desarrollo y tecnolgia. Si eres programador o similares, este es para ti.*
