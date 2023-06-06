@@ -59,10 +59,13 @@ Usa la seccion de bot para probar la AI y usa el comando /dream en los chats lla
 - [!badge variant="contrast" text="ORA chat"](https://ora.sh/openai/chatgpt)    
 - [!badge variant="contrast" text="POE chat"](https://poe.com/)    
 ==- Usalos en Whatsapp
+Generales:     
 - [!badge variant="contrast" text="ChatBling"](https://chatbling.net/)        
-- [!badge variant="contrast" text="Jinni chat"](https://www.askjinni.ai/)        
-- [!badge variant="contrast" text="LuzIA chat"](https://soyluzia.com/)        
-- [!badge variant="contrast" text="PI chat"](wa.me/+13143331111)        
+- [!badge variant="contrast" text="Jinni chat"](https://www.askjinni.ai/)   
+- [!badge variant="contrast" text="PI chat"](wa.me/+13143331111)    
+Aceptan notas de voz:    
+- [!badge variant="contrast" text="LuzIA chat"](https://soyluzia.com/)    
+- [!badge variant="contrast" text="EVA chat"](https://wa.me/51961212715?text=Hola+EVA%21)  
 ===    
 
 - 🟢 [!badge variant="contrast" text="Hugging Chat"](https://huggingface.co/chat/)          
