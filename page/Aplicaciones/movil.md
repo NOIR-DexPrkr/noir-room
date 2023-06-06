@@ -9,6 +9,9 @@ order: 898
 
 ![](https://i.postimg.cc/DmV0m3WK/moviles.png)
 
+> **¿Tienes una petición?**       
+> *Hazlo desde* [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) - [!badge variant="contrast" icon="people" text="Facebook"](https://www.facebook.com/dex.noir.room)
+
 ## Entretenimiento
 
 ### Para ver peliculas y Series
