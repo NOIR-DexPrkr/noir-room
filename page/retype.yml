@@ -21,11 +21,11 @@ editor:
 footer:
   copyright: "&copy; Este sitio es una recopilacion de tutoriales. No estoy ligado a lo que en ellos se encuentra."
   links: 
-    - text: Pagina de Facebook
+    - text: Facebook
       icon: people
       link: https://www.facebook.com/dex.noir.room
       target: blank
-    - text: Discord - Noir Room
+    - text: Discord
       icon: feed-rocket
       link: https://discord.gg/hVKeY3uEru
       target: blank
