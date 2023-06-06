@@ -68,7 +68,7 @@ Usa la seccion de bot para probar la AI y usa el comando /dream en los chats lla
 
 ## Conversacion texto con respuesta de voz
 
-- 🟢 [!badge variant="contrast" text="Playground AI"](https://heypi.com/talk)    
+- 🟢 [!badge variant="contrast" text="Hey PI"](https://heypi.com/talk)    
 *Este sitio tiene un GPT el cual puede responderte con 4 tipos de voces. Dos masculinas y dos femeninas. Suenan muy naturales las voces y su forma de hablar.*
 
 ## Conversacion de Voz a Voz
