@@ -35,7 +35,7 @@ order: 690
 - 🔵 [!button size="xs" text="SFlix Movies/Series"](https://sflix.to/home)    
 *Audio en ingles con subtitulos en ingles y español*
 
-- 🟡 [!button size="xs" text="SFlix Movies/Series"](https://yesmovies.ag/)    
+- 🟡 [!button variant="warning" size="xs" text="SFlix Movies/Series"](https://yesmovies.ag/)    
 *Audio en ingles con subtitulos en ingles*
   
 ---
@@ -54,10 +54,10 @@ order: 690
 - 🟢 [!button variant="success" size="xs" text="Song Lover"](https://songslover.vip/)      
 *Descarga albumes completos en HQ y FLAC.*
 
-- 🔵 [!button variant="success" size="xs" text="Free Music Archive"](https://freemusicarchive.org/)       
+- 🔵 [!button size="xs" text="Free Music Archive"](https://freemusicarchive.org/)       
 *Descarga de musica sin copyright para videos y trabajo.*
 
-- 🔵 [!button variant="success" size="xs" text="Grand theft Auto Music"](https://two66.com/mirrors/?dir=GTA-Radio-Stations)      
+- 🔵 [!button size="xs" text="Grand theft Auto Music"](https://two66.com/mirrors/?dir=GTA-Radio-Stations)      
 *Descarga todas las emisoras de todos los GTA.*
 
 ---
