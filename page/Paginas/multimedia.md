@@ -41,6 +41,8 @@ order: 690
 ---
 
 ## Musica 
+- 🌟 [!button variant="success" size="xs" text="Free MP3 Download"](https://free-mp3-download.net/)     
+*Busca y descarga musica con metadatos y en calidad Mp3 y FLAC.*
 
 - 🟢 [!button variant="success" size="xs" text="YTMDL"](https://ytmdl.deepjyoti30.dev/)      
 *Busca y descarga desde Youtube - mp3/m4a/OPUS.*   
