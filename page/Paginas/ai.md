@@ -7,7 +7,7 @@ order: 691
 
 # Inteligencia artificial
 
-![Si lees esto, te amo](https://i.postimg.cc/C54t5X53/Header-AI.png)
+![](https://i.postimg.cc/C54t5X53/Header-AI.png)
 
 > **¿Tienes una petición?**       
 > *Hazlo desde* [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) - [!badge variant="contrast" icon="people" text="Facebook"](https://www.facebook.com/dex.noir.room)
