@@ -7,6 +7,10 @@ order: 690
 
 # Paginas multimedia
 
+![](https://i.postimg.cc/yNJn7qHp/Header-Multimedia.png)
+
+**Peliculas. Series, Musica, y mas.**
+
 > **¿Tienes una petición?**       
 > *Hazlo desde* [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) - [!badge variant="contrast" icon="people" text="Facebook"](https://www.facebook.com/dex.noir.room)
 
