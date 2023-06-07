@@ -9,6 +9,8 @@ order: 691
 
 ![](https://i.postimg.cc/C54t5X53/Header-AI.png)
 
+**Todas las inteligencias artificiales en un mismo lugar.**
+
 > **¿Tienes una petición?**       
 > *Hazlo desde* [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) - [!badge variant="contrast" icon="people" text="Facebook"](https://www.facebook.com/dex.noir.room)
 
