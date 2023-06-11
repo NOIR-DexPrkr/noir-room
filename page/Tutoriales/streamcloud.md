@@ -27,7 +27,7 @@ Es una aplicacion de codigo abierto que te permite reproducir y descargar pelicu
 
 1. Descargamos la aplicacion desde el siguiente link: 
 
-[!badge variant="success" text="Descarga"](https://mustardchef.github.io/CS3SiteArchive/install/){target="blank"}
+[!badge variant="success" text="Descarga"](https://github.com/recloudstream/cloudstream/releases){target="blank"}
 
 > Aqui busca el apartado de **Assets**, expandelo y descarga el archivo **.APK**.
 
