@@ -62,10 +62,10 @@ order: 690
 - 🟢 [!button variant="success" size="xs" text="Pluvior"](https://noises.online/){target="blank"}      
 *Usa una gran variedad de sonidos ambiente para configurar un espacio a tu gusto. Puedes personalizar el volumen, color y hasta compartir tu configuracion por un link a quien desees.* 
 
----
-
 - 🌟 [!button variant="success" size="xs" text="Mynoise"](https://mynoise.net/){target="blank"}     
 *Escucha ruido blanco para diferentes tipos de situacion: para dormir, para calmar ansiedad, para sueños lucidos o terapias, etc.*
+
+---
 
 ### Descarga musica
 
