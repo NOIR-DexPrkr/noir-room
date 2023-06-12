@@ -54,13 +54,18 @@ order: 690
 *Reproduce variedad de sonidos de ambiente en diferentes estaciones del año.* 
 
 - 🟢 [!button variant="success" size="xs" text="RainbowHunt"](https://rainbowhunt.com/){target="blank"}      
-*Selecciona una variedad de sonidos de ambiente para reproducir y relajate.*   
+*Selecciona una variedad de sonidos de ambiente para reproducir y relajarte.*   
 
 - 🟢 [!button variant="success" size="xs" text="Pluvior"](https://pluvior.com/){target="blank"}      
 *Similar a la anterior, pero con sonidos e interfaz distinta.*   
   
+- 🟢 [!button variant="success" size="xs" text="Pluvior"](https://noises.online/){target="blank"}      
+*Usa una gran variedad de sonidos ambiente para configurar un espacio a tu gusto. Puedes personalizar el volumen, color y hasta compartir tu configuracion por un link a quien desees.* 
 
+---
 
+- 🌟 [!button variant="success" size="xs" text="Mynoise"](https://mynoise.net/){target="blank"}     
+*Escucha ruido blanco para diferentes tipos de situacion: para dormir, para calmar ansiedad, para sueños lucidos o terapias, etc.*
 
 ### Descarga musica
 
