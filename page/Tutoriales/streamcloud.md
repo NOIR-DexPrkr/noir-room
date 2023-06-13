@@ -27,7 +27,7 @@ Es una aplicacion de codigo abierto que te permite reproducir y descargar pelicu
 
 1. Descargamos la aplicacion desde el siguiente link: 
 
-[!badge variant="success" text="Descarga"](https://github.com/recloudstream/cloudstream/releases){target="blank"}
+[!badge variant="success" target="blank" text="Descarga"](https://cloudstream-on-fleek-co.ipns.dweb.link/install/)
 
 > Aqui busca el apartado de **Assets**, expandelo y descarga el archivo **.APK**.
 
@@ -35,7 +35,7 @@ Es una aplicacion de codigo abierto que te permite reproducir y descargar pelicu
 
 3. Abre el siguiente link desde tu telefono. **OJO, debe ser desde el telefono**.
 
-[!badge variant="success" text="Extension multilenguaje"](https://mustardchef.github.io/CS3SiteArchive/repos/){target="blank"}
+[!badge variant="success" target="blank" text="Extension multilenguaje"](https://cloudstream-on-fleek-co.ipns.dweb.link/repos/)
 
 > Este enlace te llevará a una página de repositorios, selecciona "install" en donde dice "Multilingual". Se instalará una extension en la app que te permitira agregar una gran variedad de paginas de series y peliculas.
 
