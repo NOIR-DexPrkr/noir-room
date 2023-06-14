@@ -22,16 +22,16 @@ order: 899
 - [!button variant="contrast" target="blank" size="xs" text="⭐  Foobar2000"](https://www.foobar2000.org/)  
 *Multiplataforma, altamente personalizable y con una gran cantidad de temas y extensiones.* 
 
-- [!button variant="contrast" target="blank" size="xs" text="🕷  MusicBee"](https://www.getmusicbee.com/)   
+- [!button variant="contrast" target="blank" size="xs" text="🔷  MusicBee"](https://www.getmusicbee.com/)   
 *Multiplataforma, altamente personalizable y con una gran cantidad de temas y extensiones.* 
 
-- [!button variant="contrast" target="blank" size="xs" text="🕷  Harmonoid"](https://harmonoid.com/)   
+- [!button variant="contrast" target="blank" size="xs" text="🔷  Harmonoid"](https://harmonoid.com/)   
 *Multiplataforma, interfaz personalizable e integrada a el tema de tu sistema, con letras, edita tus metadatos, reproduce urls de youtub y mas.* 
 
-- [!button variant="contrast" target="blank" size="xs" text="🕷  Melodie"](https://feugy.github.io/melodie)   
+- [!button variant="contrast" target="blank" size="xs" text="🔷  Melodie"](https://feugy.github.io/melodie)   
 *Multiplataforma, simple y con una interfaz agradable.* 
 
-- [!button variant="contrast" target="blank" size="xs" text="🕷  Hyperchroma"](https://hyperchroma.app/)   
+- [!button variant="contrast" target="blank" size="xs" text="🔷  Hyperchroma"](https://hyperchroma.app/)   
 *Simple, rapido, y con un visualizador por defecto.* 
 
 ---
