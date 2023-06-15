@@ -7,7 +7,7 @@ order: 898
 
 # Aplicaciones para moviles
 
-![](https://i.postimg.cc/DmV0m3WK/moviles.png)
+![](https://i.postimg.cc/Zn5Pq7tT/Header-Movil.png)
 
 > **¿Tienes una petición?**       
 > *Hazlo desde* [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) - [!badge variant="contrast" icon="people" text="Facebook"](https://www.facebook.com/dex.noir.room)
