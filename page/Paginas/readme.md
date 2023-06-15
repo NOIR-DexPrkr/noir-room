@@ -6,7 +6,7 @@ order: 800
 ---
 
 # Paginas Web
-![](https://i.postimg.cc/0QBbRwPj/paginas-web.png)
+![](https://i.postimg.cc/D0hC2d56/Header-WEB.png)
 
 
 > **¿Tienes una petición?**       
