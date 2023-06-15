@@ -7,7 +7,7 @@ order: 691
 
 # Inteligencia artificial
 
-![](https://i.postimg.cc/C54t5X53/Header-AI.png)
+![](https://i.postimg.cc/CKnDfsDC/Header-AI-1.png)
 
 **Todas las inteligencias artificiales en un mismo lugar.**
 
