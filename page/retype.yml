@@ -3,14 +3,15 @@ output: .retype
 url: https://noir-dexprkr.github.io/noir-room/ # Add your website address here
 branding:
   title: Noir Room
-  logo: icon-dark.png
-  logoDark: icon-white.png
-  label: QR
+  logo: Dark.png
+  logoDark: White.png
+  label: Dex Parker
 links:
-  - text: Noir Room - Pagina
+  - text: Facebook 
     icon: people
     link: https://www.facebook.com/dex.noir.room
-  - text: Discord - Noir Room
+    target: blank
+  - text: Discord
     icon: feed-rocket
     link: https://discord.gg/hVKeY3uEru
     target: blank
