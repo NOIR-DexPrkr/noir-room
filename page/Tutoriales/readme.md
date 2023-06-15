@@ -7,7 +7,7 @@ order: 1000
 
 # Tutoriales
 
-![](https://i.postimg.cc/fWVv373H/Tutoriales.png)
+![](https://i.postimg.cc/KzL1PCBG/Header-Tutos.png)
 
 ---
 
