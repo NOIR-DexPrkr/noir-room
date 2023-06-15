@@ -7,7 +7,7 @@ order: 899
 
 # Aplicaciones para escritorio
 
-![](https://i.postimg.cc/Kj34Z88N/PC.png)
+![](https://i.postimg.cc/nhtTt1RP/Header-PC.png)
 
 
 > **¿Tienes una petición?**       
