@@ -7,7 +7,7 @@ order: 690
 
 # Paginas multimedia
 
-![](https://i.postimg.cc/JhNh9M1C/Header-Multimedia.png)
+![](https://i.postimg.cc/sf8p32LG/Header-Multimedia-1.png)
 
 **Peliculas, series, musica y mas.**
 
