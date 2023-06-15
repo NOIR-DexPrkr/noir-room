@@ -8,7 +8,7 @@ meta:
 ---
 # Bienvenido a la Habitación de Noir
 
-![](https://i.postimg.cc/NFmRf4NL/page-header.png)
+![](https://i.postimg.cc/sfLxZ3BC/NOIR-ROOM.png)
 
 ---
 
