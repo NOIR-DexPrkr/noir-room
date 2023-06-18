@@ -61,7 +61,7 @@ order: 691
 Generales:     
 - [!badge variant="contrast" text="🔷  ChatBling"](https://chatbling.net/)        
 - [!badge variant="contrast" text="🔷  Jinni chat"](https://www.askjinni.ai/)   
-- [!badge variant="contrast" text="🔷  PI chat"](wa.me/+13143331111)    
+- [!badge variant="contrast" text="🔷  PI chat"](https://wa.me/+13143331111)    
 Aceptan notas de voz:    
 - [!badge variant="contrast" text="⭐  LuzIA chat"](https://soyluzia.com/)    
 - [!badge variant="contrast" text="🔷  EVA chat"](https://wa.me/51961212715?text=Hola+EVA%21)  
