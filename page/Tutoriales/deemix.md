@@ -60,7 +60,7 @@ Agradezco ser respetuoso y leer con cuidado los pasos.
 
 1. Vamos a conseguir nuestra ARL para poder iniciar sesion y bajar la musica.
 
-"[](https://i.postimg.cc/YSznPZ01/Devtol.png)
+![](https://i.postimg.cc/YSznPZ01/Devtol.png)
 
 +++ Chromium
 1. Abrir Chrome
