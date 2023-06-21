@@ -65,7 +65,7 @@ Agradezco ser respetuoso y leer con cuidado los pasos.
 
 +++ 🌐 Chromium
 1. Abre Chrome
-2. Ve a www.deezer.com e inicie sesión en su cuenta
+2. Ve a www.deezer.com e inicia sesión en tu cuenta
 3. Después de iniciar sesión, pulsa F12 para abrir las Herramientas para desarrolladores.
 4. Ve a la pestaña Aplicación (si no la ves, haz clic en la flecha doble)
 5. Abre el menú desplegable de cookies
