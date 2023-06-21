@@ -17,7 +17,7 @@ Agradezco ser respetuoso y leer con cuidado los pasos.
 
 ---
 
-!!!sucess Archivos necesarios
+**Archivos necesarios**
 
 > Debo aclarar que necesitas una cuenta de Deezer para poder usar la app y que la musica ademas se baja en 128Kbs.
 > La aplicacion es una gran opcion por las etiquetas, la facilidad de descarga y porque te descarga incluso las letras de las canciones que tengan.
@@ -43,7 +43,6 @@ Agradezco ser respetuoso y leer con cuidado los pasos.
 *Descarga aqui la version instalable de 64Bits para Linux.*
 
 +++
-!!!
 
 ---
 
