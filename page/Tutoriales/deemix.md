@@ -62,25 +62,26 @@ Agradezco ser respetuoso y leer con cuidado los pasos.
 
 ![](https://i.postimg.cc/YSznPZ01/Devtol.png)
 
-+++ Chromium
-1. Abrir Chrome
-2. Vaya a www.deezer.com e inicie sesión en su cuenta
++++ 🌐 Chromium
+1. Abre Chrome
+2. Ve a www.deezer.com e inicie sesión en su cuenta
 3. Después de iniciar sesión, pulsa F12 para abrir las Herramientas para desarrolladores.
 4. Ve a la pestaña Aplicación (si no la ves, haz clic en la flecha doble)
 5. Abre el menú desplegable de cookies
-6. Seleccione www.deezer.com
-7. Busca la cookie ARL (debe tener 192 caracteres)
+6. Selecciona www.deezer.com
+7. Busca la cookie `ARL` (debe tener 192 caracteres)
+8. Pegala en Deemix
    
-+++ Firefox
++++ 🦊 Firefox
 1. Abre Firefox
-2. Vaya a www.deezer.com e inicie sesión en su cuenta
+2. Ve a www.deezer.com e inicia sesión en tu cuenta
 3. Después de iniciar sesión, pulsa F12 para abrir las Herramientas de desarrollo.
 4. Ve a la pestaña Almacenamiento (si no la ves, haz clic en la flecha doble)
 5. Abre el menú desplegable de cookies
-6. Seleccione www.deezer.com
-7. Busca la cookie `arl` (debe tener 192 caracteres)
-8. Asegúrese de copiar sólo el valor y no toda la cookie
-9. Esa es tu ARL, ahora puedes usarla en la aplicación
+6. Selecciona www.deezer.com
+7. Busca la cookie `ARL` (debe tener 192 caracteres)
+8. Copia sólo el valor y no toda la cookie
+9. Pegala en Deemix
 
 +++
 
