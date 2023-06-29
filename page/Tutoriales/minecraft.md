@@ -8,12 +8,14 @@ layout: default
 # Minecraft: Todas las versiones y plataformas
 
 ---
+
 !!!info Este es un tutorial sin animo de lucro. Los sitios y descargas aquí son de total seguridad.
 Agradezco ser respetuoso y leer con cuidado los pasos.
 !!!
+
 ---
 
-=== 🟢 Minecraft Windows 10 & 11
+==- **🟢 Minecraft Bedrock - Windows 10 & 11**
 
 ## Instala la version desde la tienda oficial
 
@@ -28,7 +30,7 @@ Agradezco ser respetuoso y leer con cuidado los pasos.
 
 ![](https://i.postimg.cc/xThCbWQz/2023-05-19-16-40-26.png)
 
-!!!warning 
+!!!warning
 Si no eres muy tecnologico, de nuevo, te recomiendo usar este metodo de [Launcher X](https://noir-dexprkr.github.io/noir-room/tutoriales/minecraft/#archivos-necesarios) que parcha el minecraft oficial a traves de un ejecutador que aplica una configuracion al juego para desbloquearlo al jugar.
 !!!
 
@@ -86,3 +88,52 @@ Una vez descomprimas los archivos reemplazalos en la carpetas correspondientes:
 
 ---
 
+==- **☕ Minecraft Java - Win/Mac/Linux**
+
+## Minecraft Java:
+
+> Recomendado que instales [esta version de java](https://download.oracle.com/java/17/archive/jdk-17.0.7_windows-x64_bin.exe) si planeas jugar las ultimas versiones del juego.
+
+### Instalación
+
+1. Descargamos el siguiente launcher: [!button variant="contrast" target="blank" size="xs" text="🔷PRISM Launcher"](https://prismlauncher.org/download/)   
+  *Launcher liviano y super personalizable. Ademas de tener la opcion de descargar packs y mods directamente en tus versiones del juego.*
+
+2. Lo instalamos *(Escoge el idioma español de españa, el de latinoamerica no esta del todo traducido)* y no lo ejecutamos. Solo lo dejamos asi para seguir con el siguiente paso.
+> Este launcher es para minecraft premium. Pero con el siguiente truco podremos jugar cuentas crackeadas.
+
+### Crack del launcher.
+
+1. Descargamos el siguiente archivo:     
+[!button variant="contrast" target="blank" size="xs" text="account.json"](https://raw.githubusercontent.com/NOIR-DexPrkr/dexco-files/9fe923dd203c401e32a28b8a591492a5e581fb49/uploads/accounts.json)   
+  *Dale click derecho y guardar como en caso de que no descargue directamente. Si no, crea un documento de texto nuevo pega el codigo que te muestra el enlace y guardalo con el nombre "accounts.json".*
+
+2. Ahora tomamos el archivo y lo pegamos en la siguiente ruta:    
+  *AppData/Roaming/PrismLauncher*
+
+> Para ello presiona la tecla inicio + R rapidamente y pega     
+ ```
+ %AppData%/PrismLauncher
+ ```
+
+3. Ahora, solo nos queda abrir PrismLauncher, seguir los pasos que nos da el Launcher y añadir una instancia. Ahi escogemos la version deseada.
+> Recomiendo que si quieres jugar una version optimizada,en la parte izquierda nos vamos donde dice Modrinth y seleccionamos "Fabulously Optimized". Le damos ok.
+
+### Agregar Cuenta
+
+1. Para esto vamos a la esquina superior derecha y seleccionamos la foto de perfil que se encuentra ahi, escogemos "gestionar cuentas" luego en "añadir sin conexión" y eso seria todo.
+Ya puedes iniciar el juego donde dice "lanzar".
+
+===
+
+---
+
+==- 🗺 Minecraft Bedrock - Android
+
+## Minecraft Bedrock - Android
+
+Descarga, instala e inicia sesion desde esta pagina:
+
+[MCPE](https://mcpedl.org/minecraft-pe-1-20-20-20-apk/)
+
+===
