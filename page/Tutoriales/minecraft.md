@@ -86,5 +86,3 @@ Una vez descomprimas los archivos reemplazalos en la carpetas correspondientes:
 
 ---
 
-a
-
