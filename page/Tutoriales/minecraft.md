@@ -17,7 +17,9 @@ Agradezco ser respetuoso y leer con cuidado los pasos.
 
 ==- **🟢 Minecraft Bedrock - Windows 10 & 11**
 
-## Instala la version desde la tienda oficial
+## Minecraft Windows 10 & 11
+
+### Instala la version desde la tienda oficial
 
 1. Descargate la version de prueba en la tienda de Microsoft.
 
@@ -34,7 +36,7 @@ Agradezco ser respetuoso y leer con cuidado los pasos.
 Si no eres muy tecnologico, de nuevo, te recomiendo usar este metodo de [Launcher X](https://noir-dexprkr.github.io/noir-room/tutoriales/minecraft/#archivos-necesarios) que parcha el minecraft oficial a traves de un ejecutador que aplica una configuracion al juego para desbloquearlo al jugar.
 !!!
 
-## Instala el Winaero Tweaker
+### Instala el Winaero Tweaker
 
 2. Descargate el programa Winaero Tweaker:
 
@@ -46,7 +48,7 @@ Si no eres muy tecnologico, de nuevo, te recomiendo usar este metodo de [Launche
 ![](https://i.postimg.cc/QCMtpDVp/2023-05-19-16-45-15.png)
 ![](https://i.postimg.cc/769hGhPH/2023-05-19-16-46-05.png)
 
-## Archivos Necesarios
+#### Archivos Necesarios
 +++ Parche Dll
 Requerido para el tutorial
 [!badge variant="sucess" text="Descargalo aqui!"](https://drive.google.com/file/d/1ZCtW0RH4VkCab3QmECa4-FqB4O8cRFVY/view?usp=share_link)
