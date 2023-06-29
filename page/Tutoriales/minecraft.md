@@ -1,10 +1,11 @@
 ---
-label: Minecraft W10
+label: Minecraft Completo
 icon: stack
+title: Minecraft +
 layout: default
 ---
 
-# Minecraft Windows 10 - Full
+# Minecraft: Todas las versiones y plataformas
 
 ---
 !!!info Este es un tutorial sin animo de lucro. Los sitios y descargas aquí son de total seguridad.
@@ -12,18 +13,7 @@ Agradezco ser respetuoso y leer con cuidado los pasos.
 !!!
 ---
 
-## Archivos necesarios
-
-+++ Parche Dll
-Requerido para el tutorial
-[!badge variant="sucess" text="Descargalo aqui!"](https://drive.google.com/file/d/1ZCtW0RH4VkCab3QmECa4-FqB4O8cRFVY/view?usp=share_link)
-
-+++ Launcher X
-Si usas esta opcion no necesitas hacer el resto del tutorial despues de descargar Minecraft. Pero no es 100% estable.
-Usala si no eres muy tecnologico.
-> Lo unico que debes hacer es descomprimir el archivo donde desees, ejecutar el launcher y se abrira Minecraft oficial parchado.
-[!badge variant="sucess" text="Launcher X aqui!"](https://drive.google.com/file/d/1i_CIEAA5jdScfsDHWTgODamOCPWep5ax/view?usp=share_link)
-+++
+=== 🟢 Minecraft Windows 10 & 11
 
 ## Instala la version desde la tienda oficial
 
@@ -54,7 +44,19 @@ Si no eres muy tecnologico, de nuevo, te recomiendo usar este metodo de [Launche
 ![](https://i.postimg.cc/QCMtpDVp/2023-05-19-16-45-15.png)
 ![](https://i.postimg.cc/769hGhPH/2023-05-19-16-46-05.png)
 
-## Parche al juego
+## Archivos Necesarios
++++ Parche Dll
+Requerido para el tutorial
+[!badge variant="sucess" text="Descargalo aqui!"](https://drive.google.com/file/d/1ZCtW0RH4VkCab3QmECa4-FqB4O8cRFVY/view?usp=share_link)
+
++++ Launcher X (Vuelate el resto del tuto)
+Si usas esta opcion no necesitas hacer el resto del tutorial despues de descargar Minecraft. Pero no es 100% estable.
+Usala si no eres muy tecnologico.
+> Lo unico que debes hacer es descomprimir el archivo donde desees, ejecutar el launcher y se abrira Minecraft oficial parchado.
+[!badge variant="sucess" text="Launcher X aqui!"](https://drive.google.com/file/d/1i_CIEAA5jdScfsDHWTgODamOCPWep5ax/view?usp=share_link)
++++
+
+### Parche al juego con Dll
 
 4. Ve a tu carpeta *"Windows/Sytem32/". Si tu windows es de 64bits tambien en "Windows/SysWOW64".
 Estando ahi busca el archivo: *Windows.ApplicationModel.Store.dll*
@@ -78,3 +80,11 @@ Una vez descomprimas los archivos reemplazalos en la carpetas correspondientes:
 6. Listo, ya esta full tu Minecraft.
 
 ![](https://i.postimg.cc/zXVvvqsN/2023-05-19-16-55-09.png)
+
+
+===
+
+---
+
+
+
