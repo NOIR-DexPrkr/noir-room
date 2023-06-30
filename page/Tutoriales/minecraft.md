@@ -17,7 +17,7 @@ Agradezco ser respetuoso y leer con cuidado los pasos.
 
 **Selecciona la version que deseas instalar:**
 
-[!badge variant="contrast" target="blank" text="🖼 Bedrock - Win 10 & 11"](#minecraft-windows-10--11) [!badge variant="contrast" target="blank" text="🗺 Bedrock - Android"](#minecraft-bedrock---android) [!badge variant="contrast" target="blank" text="☕ Java - Win/Mac/linux"](#minecraft-java) 
+[!badge variant="contrast" target="blank" text="🖼 Bedrock - Win 10 & 11"](#minecraft-windows-10--11) [!badge variant="contrast" target="blank" text="🗺 Bedrock - Android"](#minecraft-bedrock---android) [!badge variant="contrast" target="blank" text="☕ Java - Windows"](#minecraft-java) [!badge variant="contrast" target="blank" text="☕ Java - MAC"](#mac-java) [!badge variant="contrast" target="blank" text="☕ Java - Linux"](#linux-java)
 
 ---
 
@@ -112,7 +112,7 @@ Descarga, instala e inicia sesion desde la pagina debajo
 
 > Recomendado que instales [esta version de java](https://download.oracle.com/java/17/archive/jdk-17.0.7_windows-x64_bin.exe){ target="_blank" } si planeas jugar las ultimas versiones del juego.
 
-### Instalación      
+### Instalación Windows      
 
 1. Descargamos el siguiente launcher: [!button variant="contrast" target="blank" size="xs" text="🔷PRISM Launcher"](https://prismlauncher.org/download/)   
   *Launcher liviano y super personalizable. Ademas de tener la opcion de descargar packs y mods directamente en tus versiones del juego.*
@@ -120,10 +120,10 @@ Descarga, instala e inicia sesion desde la pagina debajo
 2. Lo instalamos *(Escoge el idioma español de españa, el de latinoamerica no esta del todo traducido)* y no lo ejecutamos. Solo lo dejamos asi para seguir con el siguiente paso.
 > Este launcher es para minecraft premium. Pero con el siguiente truco podremos jugar cuentas crackeadas.
 
-### Crack del launcher     
+#### Crack del launcher     
 
 1. Cerramos PrismLauncher y descargamos el siguiente archivo:     
-[!button variant="contrast" target="blank" size="xs" text="account.json"](https://raw.githubusercontent.com/NOIR-DexPrkr/dexco-files/9fe923dd203c401e32a28b8a591492a5e581fb49/uploads/accounts.json){ target="_blank" }   
+[!button variant="contrast" target="blank" size="xs" text="account.json"](https://raw.githubusercontent.com/NOIR-DexPrkr/dexco-files/9fe923dd203c401e32a28b8a591492a5e581fb49/uploads/accounts.json)   
   *Dale click derecho y guardar como en caso de que no descargue directamente. Si no, crea un documento de texto nuevo pega el codigo que te muestra el enlace y guardalo con el nombre "accounts.json".*
 
 2. Ahora tomamos el archivo y lo pegamos en la siguiente ruta:    
@@ -133,8 +133,8 @@ Descarga, instala e inicia sesion desde la pagina debajo
  ```
  %AppData%/PrismLauncher
  ```
-
-### Agregar Cuenta      
+ 
+ #### Agregar Cuenta      
 
 
 1. Abrimos uns vez mas el launcher.
@@ -143,11 +143,26 @@ Descarga, instala e inicia sesion desde la pagina debajo
 2. Vamos a la esquina superior derecha y seleccionamos la foto de perfil que se encuentra ahi, escogemos "gestionar cuentas" luego en "añadir sin conexión" y eso seria todo.
 Ya puedes iniciar el juego donde dice "lanzar".
 
->Si estas teniendo problemas al agregar la cuenta, [usa este tutorial mas detallado](https://rentry.co/prismgratis){ target="_blank" } 
+> Si estas teniendo problemas al agregar la cuenta, [usa este tutorial mas detallado](https://rentry.co/prismgratis){ target="_blank" }
+> Tambien pudes usar esta version de [Prism Launcher Precrackeado](https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/7.1/PrismLauncher-Windows-MSVC-Setup-7.1.exe)
 
-## Instalar version de Java deseada
+#### Instalar version de Java deseada
 
 1. Ahora, solo nos queda abrir PrismLauncher, seguir los pasos que nos da el Launcher y añadir una instancia. Ahi escogemos la version deseada.
 > Recomiendo que si quieres jugar una version optimizada,en la parte izquierda nos vamos donde dice Modrinth y seleccionamos "Fabulously Optimized". Le damos ok.
 
 ![](https://i.postimg.cc/159MhYP4/prism.png)
+
+---
+ 
+### MAC Java
+Para el caso de MAC usa esta version ya crackeada. Se encuentra comprimida.       
+[!button variant="contrast" target="blank" size="xs" text="PrismLauncher MAC"](https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/7.1/PrismLauncher-macOS-7.1.tar.gz)
+
+---
+
+### Linux Java
+Para el caso de Linux usa esta version ya crackeada. Se encuentra comprimida.       
+[!button variant="contrast" target="blank" size="xs" text="PrismLauncher MAC"](https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/7.1/PrismLauncher-Linux-7.1.tar.gz)
+
+---
