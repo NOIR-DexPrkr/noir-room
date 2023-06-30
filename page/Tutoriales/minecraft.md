@@ -114,6 +114,8 @@ Una vez descomprimas los archivos reemplazalos en la carpetas correspondientes:
 [!button variant="contrast" target="blank" size="xs" text="account.json"](https://raw.githubusercontent.com/NOIR-DexPrkr/dexco-files/9fe923dd203c401e32a28b8a591492a5e581fb49/uploads/accounts.json){ target="_blank" }   
   *Dale click derecho y guardar como en caso de que no descargue directamente. Si no, crea un documento de texto nuevo pega el codigo que te muestra el enlace y guardalo con el nombre "accounts.json".*
 
+>Si estas teniendo problemas, [usa este tutorial](https://rentry.co/prismgratis)
+
 2. Ahora tomamos el archivo y lo pegamos en la siguiente ruta:    
   *AppData/Roaming/PrismLauncher*
 
