@@ -15,7 +15,11 @@ Agradezco ser respetuoso y leer con cuidado los pasos.
 
 ---
 
-+++ **🟢 Bedrock - Win 10 & 11**
+**Selecciona la version que deseas instalar:**
+
+[!badge variant="contrast" target="blank" text="🟢 Bedrock - Win 10 & 11"](#minecraft-windows-10--11) [!badge variant="contrast" target="blank" text="🟢 Bedrock - Win 10 & 11"](#minecraft-java) [!badge variant="contrast" target="blank" text="🟢 Bedrock - Win 10 & 11"](#minecraft-bedrock---android)
+
+---
 
 ## Minecraft Windows 10 & 11    
 
@@ -52,11 +56,11 @@ Si no eres muy tecnologico, de nuevo, te recomiendo usar este metodo de [Launche
 
 ### Archivos Necesarios    
 
-=== Parche Dll
+==- Parche Dll
 Requerido para el tutorial
 [!badge variant="sucess" target="blank" text="Descargalo aqui!"](https://drive.google.com/file/d/1ZCtW0RH4VkCab3QmECa4-FqB4O8cRFVY/view?usp=share_link)
 
-=== Launcher X (Vuelate el resto del tuto)
+==- Launcher X (Vuelate el resto del tuto)
 Si usas esta opcion no necesitas hacer el resto del tutorial despues de descargar Minecraft. Pero no es 100% estable.
 Usala si no eres muy tecnologico.
 > Lo unico que debes hacer es descomprimir el archivo donde desees, ejecutar el launcher y se abrira Minecraft oficial parchado.
@@ -93,7 +97,16 @@ Una vez descomprimas los archivos reemplazalos en la carpetas correspondientes:
 
 ---
 
-+++ **☕ Java - Win/Mac/Linux**
+
+## Minecraft Bedrock - Android     
+
+Descarga, instala e inicia sesion desde esta pagina:
+
+> Debes seleccionar la version mas reciente o la que desees. Si alguna version no funciona en tu telefono, es porque simplemente no es compatible y no hay mucho que hacer.
+
+[MCPE](https://mcpedl.org/minecraft-pe-1-20-20-20-apk/){ target="_blank" }
+
+---
 
 ## Minecraft Java      
 
@@ -113,8 +126,6 @@ Una vez descomprimas los archivos reemplazalos en la carpetas correspondientes:
 [!button variant="contrast" target="blank" size="xs" text="account.json"](https://raw.githubusercontent.com/NOIR-DexPrkr/dexco-files/9fe923dd203c401e32a28b8a591492a5e581fb49/uploads/accounts.json){ target="_blank" }   
   *Dale click derecho y guardar como en caso de que no descargue directamente. Si no, crea un documento de texto nuevo pega el codigo que te muestra el enlace y guardalo con el nombre "accounts.json".*
 
->Si estas teniendo problemas, [usa este tutorial](https://rentry.co/prismgratis)
-
 2. Ahora tomamos el archivo y lo pegamos en la siguiente ruta:    
   *AppData/Roaming/PrismLauncher*
 
@@ -132,15 +143,4 @@ Una vez descomprimas los archivos reemplazalos en la carpetas correspondientes:
 1. Para esto vamos a la esquina superior derecha y seleccionamos la foto de perfil que se encuentra ahi, escogemos "gestionar cuentas" luego en "añadir sin conexión" y eso seria todo.
 Ya puedes iniciar el juego donde dice "lanzar".
 
-
----
-
-+++ 🗺 Minecraft Bedrock - Android
-
-## Minecraft Bedrock - Android     
-
-Descarga, instala e inicia sesion desde esta pagina:
-
-[MCPE](https://mcpedl.org/minecraft-pe-1-20-20-20-apk/){ target="_blank" }
-
-+++
+>Si estas teniendo problemas al agregar la cuenta, [usa este tutorial mas detallado](https://rentry.co/prismgratis){ target="_blank" } 
