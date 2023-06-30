@@ -17,7 +17,8 @@ Agradezco ser respetuoso y leer con cuidado los pasos.
 
 ==- **🟢 Minecraft Bedrock - Windows 10 & 11**
 
-## Minecraft Windows 10 & 11
+## Minecraft Windows 10 & 11    
+
 
 ### Instala la version desde la tienda oficial
 
@@ -36,7 +37,8 @@ Agradezco ser respetuoso y leer con cuidado los pasos.
 Si no eres muy tecnologico, de nuevo, te recomiendo usar este metodo de [Launcher X](#archivos-necesarios) que parcha el minecraft oficial a traves de un ejecutador que aplica una configuracion al juego para desbloquearlo al jugar.
 !!!
 
-### Instala el Winaero Tweaker
+### Instala el Winaero Tweaker     
+
 
 2. Descargate el programa Winaero Tweaker:
 
@@ -48,7 +50,8 @@ Si no eres muy tecnologico, de nuevo, te recomiendo usar este metodo de [Launche
 ![](https://i.postimg.cc/QCMtpDVp/2023-05-19-16-45-15.png)
 ![](https://i.postimg.cc/769hGhPH/2023-05-19-16-46-05.png)
 
-#### Archivos Necesarios
+### Archivos Necesarios    
+
 +++ Parche Dll
 Requerido para el tutorial
 [!badge variant="sucess" target="blank" text="Descargalo aqui!"](https://drive.google.com/file/d/1ZCtW0RH4VkCab3QmECa4-FqB4O8cRFVY/view?usp=share_link)
@@ -60,7 +63,8 @@ Usala si no eres muy tecnologico.
 [!badge variant="sucess" target="blank" text="Launcher X aqui!"](https://drive.google.com/file/d/1i_CIEAA5jdScfsDHWTgODamOCPWep5ax/view?usp=share_link)
 +++
 
-### Parche al juego con Dll
+### Parche al juego con Dll   
+
 
 4. Ve a tu carpeta *"Windows/Sytem32/". Si tu windows es de 64bits tambien en "Windows/SysWOW64".
 Estando ahi busca el archivo: *Windows.ApplicationModel.Store.dll*
@@ -92,11 +96,11 @@ Una vez descomprimas los archivos reemplazalos en la carpetas correspondientes:
 
 ==- **☕ Minecraft Java - Win/Mac/Linux**
 
-## Minecraft Java:
+## Minecraft Java      
 
 > Recomendado que instales [esta version de java](https://download.oracle.com/java/17/archive/jdk-17.0.7_windows-x64_bin.exe){ target="_blank" } si planeas jugar las ultimas versiones del juego.
 
-### Instalación
+### Instalación      
 
 1. Descargamos el siguiente launcher: [!button variant="contrast" target="blank" size="xs" text="🔷PRISM Launcher"](https://prismlauncher.org/download/)   
   *Launcher liviano y super personalizable. Ademas de tener la opcion de descargar packs y mods directamente en tus versiones del juego.*
@@ -104,7 +108,7 @@ Una vez descomprimas los archivos reemplazalos en la carpetas correspondientes:
 2. Lo instalamos *(Escoge el idioma español de españa, el de latinoamerica no esta del todo traducido)* y no lo ejecutamos. Solo lo dejamos asi para seguir con el siguiente paso.
 > Este launcher es para minecraft premium. Pero con el siguiente truco podremos jugar cuentas crackeadas.
 
-### Crack del launcher.
+### Crack del launcher     
 
 1. Descargamos el siguiente archivo:     
 [!button variant="contrast" target="blank" size="xs" text="account.json"](https://raw.githubusercontent.com/NOIR-DexPrkr/dexco-files/9fe923dd203c401e32a28b8a591492a5e581fb49/uploads/accounts.json){ target="_blank" }   
@@ -121,7 +125,8 @@ Una vez descomprimas los archivos reemplazalos en la carpetas correspondientes:
 3. Ahora, solo nos queda abrir PrismLauncher, seguir los pasos que nos da el Launcher y añadir una instancia. Ahi escogemos la version deseada.
 > Recomiendo que si quieres jugar una version optimizada,en la parte izquierda nos vamos donde dice Modrinth y seleccionamos "Fabulously Optimized". Le damos ok.
 
-### Agregar Cuenta
+### Agregar Cuenta      
+
 
 1. Para esto vamos a la esquina superior derecha y seleccionamos la foto de perfil que se encuentra ahi, escogemos "gestionar cuentas" luego en "añadir sin conexión" y eso seria todo.
 Ya puedes iniciar el juego donde dice "lanzar".
@@ -132,7 +137,7 @@ Ya puedes iniciar el juego donde dice "lanzar".
 
 ==- 🗺 Minecraft Bedrock - Android
 
-## Minecraft Bedrock - Android
+## Minecraft Bedrock - Android     
 
 Descarga, instala e inicia sesion desde esta pagina:
 
