@@ -17,7 +17,7 @@ Agradezco ser respetuoso y leer con cuidado los pasos.
 
 **Selecciona la version que deseas instalar:**
 
-[!badge variant="contrast" target="blank" text="🟢 Bedrock - Win 10 & 11"](#minecraft-windows-10--11) [!badge variant="contrast" target="blank" text="🟢 Bedrock - Win 10 & 11"](#minecraft-java) [!badge variant="contrast" target="blank" text="🟢 Bedrock - Win 10 & 11"](#minecraft-bedrock---android)
+[!badge variant="contrast" target="blank" text="🖼 Bedrock - Win 10 & 11"](#minecraft-windows-10--11) [!badge variant="contrast" target="blank" text="🗺 Bedrock - Android"](#minecraft-bedrock---android) [!badge variant="contrast" target="blank" text="☕ Java - Win/Mac/linux"](#minecraft-java) 
 
 ---
 
