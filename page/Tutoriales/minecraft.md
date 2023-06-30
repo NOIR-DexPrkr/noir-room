@@ -15,7 +15,7 @@ Agradezco ser respetuoso y leer con cuidado los pasos.
 
 ---
 
-==- **🟢 Minecraft Bedrock - Windows 10 & 11**
++++ **🟢 Bedrock - Win 10 & 11**
 
 ## Minecraft Windows 10 & 11    
 
@@ -52,16 +52,16 @@ Si no eres muy tecnologico, de nuevo, te recomiendo usar este metodo de [Launche
 
 ### Archivos Necesarios    
 
-+++ Parche Dll
+=== Parche Dll
 Requerido para el tutorial
 [!badge variant="sucess" target="blank" text="Descargalo aqui!"](https://drive.google.com/file/d/1ZCtW0RH4VkCab3QmECa4-FqB4O8cRFVY/view?usp=share_link)
 
-+++ Launcher X (Vuelate el resto del tuto)
+=== Launcher X (Vuelate el resto del tuto)
 Si usas esta opcion no necesitas hacer el resto del tutorial despues de descargar Minecraft. Pero no es 100% estable.
 Usala si no eres muy tecnologico.
 > Lo unico que debes hacer es descomprimir el archivo donde desees, ejecutar el launcher y se abrira Minecraft oficial parchado.
 [!badge variant="sucess" target="blank" text="Launcher X aqui!"](https://drive.google.com/file/d/1i_CIEAA5jdScfsDHWTgODamOCPWep5ax/view?usp=share_link)
-+++
+===
 
 ### Parche al juego con Dll   
 
@@ -90,11 +90,10 @@ Una vez descomprimas los archivos reemplazalos en la carpetas correspondientes:
 ![](https://i.postimg.cc/zXVvvqsN/2023-05-19-16-55-09.png)
 
 
-===
 
 ---
 
-==- **☕ Minecraft Java - Win/Mac/Linux**
++++ **☕ Java - Win/Mac/Linux**
 
 ## Minecraft Java      
 
@@ -133,11 +132,10 @@ Una vez descomprimas los archivos reemplazalos en la carpetas correspondientes:
 1. Para esto vamos a la esquina superior derecha y seleccionamos la foto de perfil que se encuentra ahi, escogemos "gestionar cuentas" luego en "añadir sin conexión" y eso seria todo.
 Ya puedes iniciar el juego donde dice "lanzar".
 
-===
 
 ---
 
-==- 🗺 Minecraft Bedrock - Android
++++ 🗺 Minecraft Bedrock - Android
 
 ## Minecraft Bedrock - Android     
 
@@ -145,4 +143,4 @@ Descarga, instala e inicia sesion desde esta pagina:
 
 [MCPE](https://mcpedl.org/minecraft-pe-1-20-20-20-apk/){ target="_blank" }
 
-===
++++
