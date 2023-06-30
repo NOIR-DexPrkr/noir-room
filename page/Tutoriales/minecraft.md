@@ -100,11 +100,11 @@ Una vez descomprimas los archivos reemplazalos en la carpetas correspondientes:
 
 ## Minecraft Bedrock - Android     
 
-Descarga, instala e inicia sesion desde esta pagina:
+Descarga, instala e inicia sesion desde la pagina debajo
 
 > Debes seleccionar la version mas reciente o la que desees. Si alguna version no funciona en tu telefono, es porque simplemente no es compatible y no hay mucho que hacer.
 
-[MCPE](https://mcpedl.org/minecraft-pe-1-20-20-20-apk/){ target="_blank" }
+[MCPE - Todos los Bedrock](https://mcpedl.org/minecraft-pe-1-20-20-20-apk/){ target="_blank" }
 
 ---
 
@@ -122,7 +122,7 @@ Descarga, instala e inicia sesion desde esta pagina:
 
 ### Crack del launcher     
 
-1. Descargamos el siguiente archivo:     
+1. Cerramos PrismLauncher y descargamos el siguiente archivo:     
 [!button variant="contrast" target="blank" size="xs" text="account.json"](https://raw.githubusercontent.com/NOIR-DexPrkr/dexco-files/9fe923dd203c401e32a28b8a591492a5e581fb49/uploads/accounts.json){ target="_blank" }   
   *Dale click derecho y guardar como en caso de que no descargue directamente. Si no, crea un documento de texto nuevo pega el codigo que te muestra el enlace y guardalo con el nombre "accounts.json".*
 
@@ -134,13 +134,20 @@ Descarga, instala e inicia sesion desde esta pagina:
  %AppData%/PrismLauncher
  ```
 
-3. Ahora, solo nos queda abrir PrismLauncher, seguir los pasos que nos da el Launcher y añadir una instancia. Ahi escogemos la version deseada.
-> Recomiendo que si quieres jugar una version optimizada,en la parte izquierda nos vamos donde dice Modrinth y seleccionamos "Fabulously Optimized". Le damos ok.
-
 ### Agregar Cuenta      
 
 
-1. Para esto vamos a la esquina superior derecha y seleccionamos la foto de perfil que se encuentra ahi, escogemos "gestionar cuentas" luego en "añadir sin conexión" y eso seria todo.
+1. Abrimos uns vez mas el launcher.
+
+
+2. Vamos a la esquina superior derecha y seleccionamos la foto de perfil que se encuentra ahi, escogemos "gestionar cuentas" luego en "añadir sin conexión" y eso seria todo.
 Ya puedes iniciar el juego donde dice "lanzar".
 
 >Si estas teniendo problemas al agregar la cuenta, [usa este tutorial mas detallado](https://rentry.co/prismgratis){ target="_blank" } 
+
+## Instalar version de Java deseada
+
+1. Ahora, solo nos queda abrir PrismLauncher, seguir los pasos que nos da el Launcher y añadir una instancia. Ahi escogemos la version deseada.
+> Recomiendo que si quieres jugar una version optimizada,en la parte izquierda nos vamos donde dice Modrinth y seleccionamos "Fabulously Optimized". Le damos ok.
+
+![](https://i.postimg.cc/159MhYP4/prism.png)
