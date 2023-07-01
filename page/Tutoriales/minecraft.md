@@ -110,7 +110,7 @@ Descarga, instala e inicia sesion desde la pagina debajo
 
 ## Minecraft Java      
 
-> Recomendado que instales [esta version de java](https://download.oracle.com/java/17/archive/jdk-17.0.7_windows-x64_bin.exe){ target="_blank" } si planeas jugar las ultimas versiones del juego.
+> Recomendado que instales esta version de java desde [Azul](https://www.azul.com/downloads/?version=java-17-lts&os=windows&package=jdk#zulu){ target="_blank" } si planeas jugar las ultimas versiones del juego.
 
 ### Instalación Windows      
 
