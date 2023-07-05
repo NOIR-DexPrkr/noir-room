@@ -56,6 +56,20 @@ Es un programa de animación de vectores, el cual permite dar movimiento a disti
 - [!badge variant="warning" text="**Nivel Intermedio:** Usando el Instalador Offline de cada programa."](#sin-creative-cloud--programas-descargables)
 - [!badge variant="success" text="**Nivel Facil:** Usando instaladores ya parchados y listos para ejecutar."](#programas-parchados-para-doomies)
 
+
+=== **Archivos necesarios para las opciones Experto e Intermedio:**
++++ **GenP v3.0** 
+  Parche para los programas de adobe que descargues.
+  
+[!button variant="success" corners="pill" text="Descargar"](https://www.mediafire.com/file/ipp9gj15xzty1uw/GenP_3.0_Release.zip/file) 
++++ **CC Stopper**
+  Script que permite bloquear las ventanas de pago y actualizaciones que dejarian sin funcionar el parche.
+  
+[!button variant="success" corners="pill" text="Descargar"](https://github.com/eaaasun/CCStopper/releases/download/v1.2.2/CCStopper.zip) 
+
++++
+===
+
 ---
 
 ## Creative cloud - Instalador de Adobe.
@@ -212,7 +226,7 @@ Si tienen problema encontrando los .exe pueden ir a los accesos directos, darles
 
 +++ 🔵Photoshop     
 Para las versiones la contraseña de todos es: `www.artistapirata.com`     
-[!badge corners="pill" text="CC 2023"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2F54uwt3n3wbpxemu%2FWIN_APS_V24.4.1.449_AP_ZNT.rar%2Ffile%3ATdBIrm3LadK9BITUhon7o55bpH8&cuid=4208103)       
+[!badge corners="pill" text="CC 2023"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile_premium%2Fdl9is90zq8jblzk%2FWIN_APS_V24.5.0.500_AP_ZNT.rar%2Ffile%3Ay_9QJ5gdi4kNmqWKN0sZ-W8PYAo&cuid=4208103)       
 [!badge corners="pill" text="CC 2022"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2Fyp0f1r4j0d6r21b%2FWIN_APS_V23.5.0.669_AP_ZNT.rar%2Ffile%3Asa9zMJb198iceDCybhEHp-TnIXw&cuid=4208103)       
 [!badge corners="pill" text="CC 2021"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2Fkew510adp462kyy%2FWIN_APS_V22.5.8.998_AP_ZNT.rar%2Ffile%3AGU54grbZPWIMzy-XsSUD0g0pWho&cuid=4208103)      
 [!badge corners="pill" text="CC 2020"](http://disq.us/url?url=http%3A%2F%2Fwww.mediafire.com%2Ffile%2F732cz8arne5nlda%2FPSCC2K21.21.2.4.WIN.AP.ZNT.rar%3AKFIXEo7XoBONQly5Bs_BOWP-CAE&cuid=4208103)      
