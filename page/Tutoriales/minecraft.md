@@ -104,7 +104,7 @@ Descarga, instala e inicia sesion desde la pagina debajo.
 
 > Debes seleccionar la version mas reciente o la que desees. Si alguna version no funciona en tu telefono, es porque simplemente no es compatible y no hay mucho que hacer.
 
-[MCPE - Todos los Bedrock](https://mcpedl.org/minecraft-pe-1-20-20-20-apk/){ target="_blank" }
+[MCPE - Todos los Bedrock](https://mcpedl.org/minecraft-pe-1-20-20-20-apk/){ target="_blank" }     
 *Recomendado acceder a la pagina con un bloqueador de anuncios o con un navegador como Brave, ya que puedes terminar descargando algo que no es Minecraft.*
 
 ---
@@ -136,7 +136,7 @@ Descarga, instala e inicia sesion desde la pagina debajo.
  ```
  %AppData%/PrismLauncher
  ```
- 
+
  #### Agregar Cuenta      
 
 
@@ -166,7 +166,7 @@ Sigue los pasos tal cual, pero estos son los tips:
 
 - Desinstala cualquier versión de Java que ya tengas instalada (Java 8 da problemas si piensas jugar versiones recientes de Minecraft).
 - Descarga Java 17 desde Azul, que se encuentra dentro de los pasos. (El archivo debe terminar en .msi).
-- Al descargar el archivo account.json, asegúrate de que este correctamente escrito. 
+- Al descargar el archivo account.json, asegúrate de que este correctamente escrito.
 - Asegúrate de seleccionar "añadir sin conexión" y siempre usar tu nombre. Luego, crea una instancia "vanilla" con la versión que desees y haz clic derecho en ella > editar > configuración > Misceláneo > Marcar la opción de sobrescribir cuenta por defecto > selecciona tu nombre creado recientemente y cierra la ventana.
 - A un lado de "Añadir instancia" verás la opción de "ajustes". Haz clic en ella y selecciona "java Autodetectar" en la opción que tiene una estrella 🌟. Luego, haz clic en "probar".
 - Para descargar el juego en sí, debes descargar la demo, ya que intentar lanzarlo sin más no genera la descarga. En el lado derecho de "LANZAR", verás algunas opciones. Selecciona "LANZAR DEMO" y comenzará la descarga. Si llega al 99% y no carga, ve al Administrador de tareas, finaliza la tarea y luego reanuda la descarga lanzando la demo nuevamente. Repite esto hasta que se descargue por completo.
@@ -178,7 +178,7 @@ Ahora, ponte a jugar como cuando eras niño. ¡Diviértete!
 ===
 
 ---
- 
+
 ### MAC Java
 Para el caso de MAC usa esta version ya crackeada. Se encuentra comprimida.       
 [!button variant="contrast" target="blank" size="xs" text="PrismLauncher MAC"](https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/7.1/PrismLauncher-macOS-7.1.tar.gz)
