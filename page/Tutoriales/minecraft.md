@@ -100,11 +100,12 @@ Una vez descomprimas los archivos reemplazalos en la carpetas correspondientes:
 
 ## Minecraft Bedrock - Android     
 
-Descarga, instala e inicia sesion desde la pagina debajo
+Descarga, instala e inicia sesion desde la pagina debajo.
 
 > Debes seleccionar la version mas reciente o la que desees. Si alguna version no funciona en tu telefono, es porque simplemente no es compatible y no hay mucho que hacer.
 
 [MCPE - Todos los Bedrock](https://mcpedl.org/minecraft-pe-1-20-20-20-apk/){ target="_blank" }
+*Recomendado acceder a la pagina con un bloqueador de anuncios o con un navegador como Brave, ya que puedes terminar descargando algo que no es Minecraft.*
 
 ---
 
