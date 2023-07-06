@@ -153,6 +153,24 @@ Ya puedes iniciar el juego donde dice "lanzar".
 
 ![](https://i.postimg.cc/159MhYP4/prism.png)
 
+
+==- 💊 *Solución a que no abre el juego.*
+
+Sigue los pasos tal cual, pero estos son los tips:
+
+- Desinstala cualquier versión de Java que ya tengas instalada (tuve problemas con Java 8).
+- Descarga Java 17 desde Azul, que se encuentra dentro de los pasos. (Descarga el archivo .msi en lugar del .zip).
+- Al descargar el archivo accounts.json, asegúrate de escribir la "S" correctamente. 
+- Asegúrate de seleccionar "añadir sin conexión" y siempre usar tu nombre. Luego, crea una instancia "vanilla" con la versión que desees y haz clic derecho en ella > editar > configuración > Misceláneo > Marcar la opción de sobrescribir cuenta por defecto > selecciona tu nombre creado recientemente y cierra la ventana.
+- A un lado de "Añadir instancia" verás la opción de "ajustes". Haz clic en ella y selecciona "java Autodetectar" en la opción que tiene una estrella 🌟. Luego, haz clic en "probar".
+- Para descargar el juego en sí, debes descargar la demo, ya que intentar lanzarlo sin más no genera la descarga. En el lado derecho de "LANZAR", verás algunas opciones. Selecciona "LANZAR DEMO" y comenzará la descarga. Si llega al 99% y no carga, ve al Administrador de tareas, finaliza la tarea y luego reanuda la descarga lanzando la demo nuevamente. Repite esto hasta que se descargue por completo.
+
+> Una vez dentro del juego, no podrás jugar de inmediato, tendrás que salir y cerrar todo. Abre nuevamente el lanzador y, esta vez, selecciona "LANZAR".
+
+Ahora, ponte a jugar como cuando eras niño. ¡Diviértete!
+
+===
+
 ---
  
 ### MAC Java
