@@ -114,7 +114,8 @@ Descarga, instala e inicia sesion desde la pagina debajo
 
 ### Instalación Windows      
 
-1. Descargamos el siguiente launcher: [!button variant="contrast" target="blank" size="xs" text="🔷PRISM Launcher"](https://prismlauncher.org/download/)   
+1. Descargamos el siguiente launcher     
+	[!button variant="contrast" target="blank" size="xs" text="🔷PRISM Launcher"](https://prismlauncher.org/download/)   
   *Launcher liviano y super personalizable. Ademas de tener la opcion de descargar packs y mods directamente en tus versiones del juego.*
 
 2. Lo instalamos *(Escoge el idioma español de españa, el de latinoamerica no esta del todo traducido)* y no lo ejecutamos. Solo lo dejamos asi para seguir con el siguiente paso.
@@ -123,8 +124,9 @@ Descarga, instala e inicia sesion desde la pagina debajo
 #### Crack del launcher     
 
 1. Cerramos PrismLauncher y descargamos el siguiente archivo:     
-[!button variant="contrast" target="blank" size="xs" text="account.json"](https://raw.githubusercontent.com/NOIR-DexPrkr/dexco-files/9fe923dd203c401e32a28b8a591492a5e581fb49/uploads/accounts.json)   
-  *Dale click derecho y guardar como en caso de que no descargue directamente. Si no, crea un documento de texto nuevo pega el codigo que te muestra el enlace y guardalo con el nombre "accounts.json".*
+[!button variant="contrast" target="blank" size="xs" text="accounts.json"](https://raw.githubusercontent.com/NOIR-DexPrkr/dexco-files/9fe923dd203c401e32a28b8a591492a5e581fb49/uploads/accounts.json)   
+  *Dale click derecho y selecciona ´guardar link como´ en caso de que no descargue directamente.*
+  *Si no, crea un documento de texto nuevo pega el codigo que te muestra el enlace y guardalo con el nombre "accounts.json".*
 
 2. Ahora tomamos el archivo y lo pegamos en la siguiente ruta:    
   *AppData/Roaming/PrismLauncher*
@@ -137,7 +139,7 @@ Descarga, instala e inicia sesion desde la pagina debajo
  #### Agregar Cuenta      
 
 
-1. Abrimos uns vez mas el launcher.
+1. Abrimos una vez mas el launcher.
 
 
 2. Vamos a la esquina superior derecha y seleccionamos la foto de perfil que se encuentra ahi, escogemos "gestionar cuentas" luego en "añadir sin conexión" y eso seria todo.
@@ -158,9 +160,9 @@ Ya puedes iniciar el juego donde dice "lanzar".
 
 Sigue los pasos tal cual, pero estos son los tips:
 
-- Desinstala cualquier versión de Java que ya tengas instalada (tuve problemas con Java 8).
-- Descarga Java 17 desde Azul, que se encuentra dentro de los pasos. (Descarga el archivo .msi en lugar del .zip).
-- Al descargar el archivo accounts.json, asegúrate de escribir la "S" correctamente. 
+- Desinstala cualquier versión de Java que ya tengas instalada (Java 8 da problemas si piensas jugar versiones recientes de Minecraft).
+- Descarga Java 17 desde Azul, que se encuentra dentro de los pasos. (El archivo debe terminar en .msi).
+- Al descargar el archivo account.json, asegúrate de que este correctamente escrito. 
 - Asegúrate de seleccionar "añadir sin conexión" y siempre usar tu nombre. Luego, crea una instancia "vanilla" con la versión que desees y haz clic derecho en ella > editar > configuración > Misceláneo > Marcar la opción de sobrescribir cuenta por defecto > selecciona tu nombre creado recientemente y cierra la ventana.
 - A un lado de "Añadir instancia" verás la opción de "ajustes". Haz clic en ella y selecciona "java Autodetectar" en la opción que tiene una estrella 🌟. Luego, haz clic en "probar".
 - Para descargar el juego en sí, debes descargar la demo, ya que intentar lanzarlo sin más no genera la descarga. En el lado derecho de "LANZAR", verás algunas opciones. Selecciona "LANZAR DEMO" y comenzará la descarga. Si llega al 99% y no carga, ve al Administrador de tareas, finaliza la tarea y luego reanuda la descarga lanzando la demo nuevamente. Repite esto hasta que se descargue por completo.
