@@ -151,6 +151,9 @@ Ya puedes iniciar el juego donde dice "lanzar".
 #### Instalar version de Java deseada
 
 1. Ahora, solo nos queda abrir PrismLauncher, seguir los pasos que nos da el Launcher y añadir una instancia. Ahi escogemos la version deseada.
+
+2. Selecciona primero la version **Vanilla** que deseas jugar, iniciala/lanzala y luego si lee lo que sigue.
+
 > Recomiendo que si quieres jugar una version optimizada,en la parte izquierda nos vamos donde dice Modrinth y seleccionamos "Fabulously Optimized". Le damos ok.
 
 ![](https://i.postimg.cc/159MhYP4/prism.png)
