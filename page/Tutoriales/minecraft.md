@@ -145,10 +145,13 @@ Descarga, instala e inicia sesion desde la pagina debajo.
 
 
 2. Vamos a la esquina superior derecha y seleccionamos la foto de perfil que se encuentra ahi, escogemos "gestionar cuentas" luego en "añadir sin conexión" y eso seria todo.
-Ya puedes iniciar el juego donde dice "lanzar".
+
+> Los nombres de usuario no deben tener espacios y simbolos raros. Si lo escribes asi, te va a dar error cuando intentes jugar.
 
 > Si estas teniendo problemas al agregar la cuenta, [usa este tutorial mas detallado](https://rentry.co/prismgratis){ target="_blank" }
-> Tambien pudes usar esta version de [Prism Launcher Precrackeado](https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/7.1/PrismLauncher-Windows-MSVC-Setup-7.1.exe)
+
+> *Si estas teniendo problema con la cuenta offline, tambien pudes usar esta version de* [*Prism Launcher Precrackeado*](https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/7.1/PrismLauncher-Windows-MSVC-Setup-7.1.exe)
+
 
 #### Instalar version de Java deseada
 
@@ -177,6 +180,7 @@ Sigue los pasos tal cual, pero estos son los tips:
 Ahora, ponte a jugar como cuando eras niño. ¡Diviértete!
 
 ===
+
 
 ---
 
