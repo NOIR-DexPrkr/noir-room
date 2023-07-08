@@ -1,5 +1,6 @@
 ---
-label: NeoStore
+label: Neo Store
+title: Neo Store
 icon: webhook
 layout: default
 ---
@@ -12,7 +13,7 @@ Agradezco ser respetuoso y leer con cuidado los pasos.
 !!!
 ---
 
-=== Que es NeoStore?
+=== Que es Neo Store?
 Es un cliente de F-droid con repositorios extra. Es decir,una tienda de apps de código abierto (que no ocultan el cómo están hechas, por lo tanto puedes confiar en tu seguridad y datos)
 ===
 

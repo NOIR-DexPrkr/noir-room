@@ -1,5 +1,6 @@
 ---
 label: Minecraft Completo
+title: Minecraft Completo (gratis)
 icon: stack
 title: Minecraft +
 layout: default

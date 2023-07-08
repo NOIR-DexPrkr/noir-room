@@ -1,5 +1,6 @@
 ---
 label: Deemix
+Title: Deemix
 icon: goal
 Title: Deemix - Descarga musica 
 layout: default

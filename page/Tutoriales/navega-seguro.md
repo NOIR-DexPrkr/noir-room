@@ -1,5 +1,6 @@
 ---
 label: Navegacion segura
+title: Navegacion segura
 icon: globe
 layout: default
 ---

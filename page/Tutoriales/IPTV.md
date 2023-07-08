@@ -1,5 +1,6 @@
 ---
 label: IPTV
+title: IPTV
 icon: broadcast
 layout: default
 ---

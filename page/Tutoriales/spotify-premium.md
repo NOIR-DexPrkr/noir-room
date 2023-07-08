@@ -1,5 +1,6 @@
 ---
 label: Spotify Premium
+title: Spotify Premium
 icon: meter
 layout: default
 ---

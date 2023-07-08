@@ -1,8 +1,9 @@
 ---
-label: Multimedia
+label: Streaming
+title: Streaming
 icon: video
 layout: default
-order: 690
+order: 1590
 ---
 
 # Paginas multimedia
@@ -48,7 +49,7 @@ order: 690
 
 ## Musica 
 
-### Musica para relajarte
+### Musica para relajarte/dormir
 - [!button variant="contrast" size="xs" target="blank" text="⭐ Rainy Mood"](https://www.rainymood.com/)       
   *Solo pulsa un boton y relajate con sonidos de lluvia.*
 
@@ -68,38 +69,3 @@ order: 690
   *Escucha ruido blanco para diferentes tipos de situacion: para dormir, para calmar ansiedad, para sueños lucidos o terapias, etc.*
 
 ---
-
-### Para descargar
-
-- [!button variant="contrast" size="xs" target="blank" text="⭐ Free MP3 Download"](https://free-mp3-download.net/)     
-  *Busca y descarga musica con metadatos y en calidad Mp3 y FLAC.*
-
-- [!button variant="contrast" size="xs" target="blank" text="🔷 YTMDL"](https://ytmdl.deepjyoti30.dev/)      
-  *Busca y descarga desde Youtube - mp3/m4a/OPUS.*   
-
-- [!button variant="contrast" size="xs" target="blank" text="🔷 VK Music"](https://denr01.com/vkm/)     
-  *Busca y descarga desde VK Music: mp3 FLAC HQ.* **usuario: anon - contraseña: 12345**    
-
-- [!button variant="contrast" size="xs" target="blank" text="🔷 Free MP3"](https://freemp3cloud.com/)     
-  *Descarga MP3 en alta calidad.*
-
-- [!button variant="contrast" size="xs" target="blank" text="🔷 Song Lover"](https://songslover.vip/)     
-  *Descarga albumes completos en HQ y FLAC.*
-
-- [!button variant="contrast" size="xs" target="blank" text="🔷 Free Music Archive"](https://freemusicarchive.org/)     
-  *Descarga de musica sin copyright para videos y trabajo.*
-
-- [!button variant="contrast" size="xs" target="blank" text="🔷 Grand theft Auto Music"](https://two66.com/mirrors/?dir=GTA-Radio-Stations)      
-  *Descarga todas las emisoras de todos los GTA.*
-
----
-
-## Video
-
-### Para descargar
-
-- [!button variant="contrast" size="xs" target="blank" text="⭐ YMP4"](https://ymp4.cc/)     
-  *Descarga videos desde youtube en todos los formatos y calidades posibles. Incluye buscador.*    
-
-- [!button variant="contrast" size="xs" target="blank" text="🔷 LoaderTo"](https://en.loader.to/4/)       
-  *Descarga playlist de youtube enteras en varias calidades y formatos. Debes pegar URL/Link.*

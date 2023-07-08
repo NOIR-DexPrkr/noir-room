@@ -1,20 +1,18 @@
 ---
-label: Moviles
-icon: device-mobile
+label: Streaming
+icon: video
 layout: default
-order: 898
+order: 1789
 ---
 
-# Aplicaciones para moviles
+# Aplicaciones para streaming
 
 ![](https://i.postimg.cc/wBJYW2rT/Header-Movil.png)
 
 > **¿Tienes una petición?**       
 > *Hazlo desde* [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) - [!badge variant="contrast" icon="people" text="Facebook"](https://www.facebook.com/dex.noir.room)
 
-## Entretenimiento
-
-### Peliculas y Series
+## Peliculas y series
 
 - [!button variant="contrast" target="blank" size="xs" text="⭐  MagisTV"](https://www.magistv.top/)     
 *Audio en español e ingles, tambien con subtitulos.*
