@@ -20,7 +20,8 @@ order: 1789
 
 ### Esenciales
 
-1. **Ⓜ MiXplorer** 
+#### 1. **Ⓜ MiXplorer**     
+
 MiXplorer es un administrador de archivos de Android rápido, suave y confiable con una interfaz de usuario intuitiva.
 No tiene anuncios y es completamente gratuito, ademas tiene una gran personalización de colores y opciones de tema.
 
