@@ -24,7 +24,7 @@ order: 1789
 MiXplorer es un administrador de archivos de Android rápido, suave y confiable con una interfaz de usuario intuitiva.
 No tiene anuncios y es completamente gratuito, ademas tiene una gran personalización de colores y opciones de tema.
 
-=== 📃 Caracteristicas
+==- 📃 Caracteristicas
 - Ordena y personaliza el menú y los botones de acción.
 - Navegación con pestañas y panel dual en modo apaisado.
 - Arrastrar y soltar entre paneles.
