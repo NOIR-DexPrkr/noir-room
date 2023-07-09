@@ -1,8 +1,9 @@
 ---
 label: Streaming
+title: Streaming
 icon: video
 layout: default
-order: 1789
+order: 1788
 ---
 
 # Aplicaciones para streaming
