@@ -16,12 +16,12 @@ order: 2000
 
 ### Lista de tutoriales:
 
-1. [Adobe CC](https://noiroom.dexspidey.workers.dev/tutoriales/adobe-cc/)
-2. [CloudStream](https://noiroom.dexspidey.workers.dev/tutoriales/streamcloud/)
-3. [Deemix](https://noiroom.dexspidey.workers.dev/tutoriales/deemix/)
-4. [IPTV](https://noiroom.dexspidey.workers.dev/tutoriales/iptv/)
-5. [Minecraft Windows 10 version](https://noiroom.dexspidey.workers.dev/tutoriales/minecraft/)
-6. [Navegación Segura](https://noiroom.dexspidey.workers.dev/tutoriales/navega-seguro/)
-7. [Neo Store](https://noiroom.dexspidey.workers.dev/tutoriales/neostore/)
-8. [Office 365](https://noiroom.dexspidey.workers.dev/tutoriales/o365/)
-9. [Spotify Premium](https://noiroom.dexspidey.workers.dev/tutoriales/spotify-premium/)
+1. [Adobe CC](adobeCC.md)
+2. [CloudStream](cloudstream.md)
+3. [Deemix](deemix.md)
+4. [IPTV](IPTV.md)
+5. [Minecraft Java & Bedrock](minecraft.md)
+6. [Navegación Segura](navega-seguro.md)
+7. [Neo Store](neostore.md)
+8. [Office 365](O365.md)
+9. [Spotify Premium](spotify-premium.md)
