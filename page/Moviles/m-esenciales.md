@@ -8,7 +8,7 @@ order: 1789
 
 # Aplicaciones esenciales para tu celular
 
-![](https://i.postimg.cc/wBJYW2rT/Header-Movil.png)
+![](https://i.postimg.cc/vm691v5r/Header-Esenciales.png)
 
 > **¿Tienes una petición?**       
 > *Hazlo desde* [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) - [!badge variant="contrast" icon="people" text="Facebook"](https://www.facebook.com/dex.noir.room)
