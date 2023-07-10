@@ -8,6 +8,8 @@ layout: default
 
 # Minecraft: Todas las versiones y plataformas
 
+![](https://i.postimg.cc/TPyVx0KM/Header-mc.png)
+
 ---
 
 !!!info Este es un tutorial sin animo de lucro. Los sitios y descargas aquí son de total seguridad.
