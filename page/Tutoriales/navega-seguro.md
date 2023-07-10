@@ -5,7 +5,7 @@ icon: globe
 layout: default
 ---
 
-# Navegacion segura - Windows
+# Navega y descarga con seguridad
 
 ---
 !!!info Este es un tutorial sin animo de lucro. Los sitios y descargas aquí son de total seguridad.
@@ -18,16 +18,55 @@ Agradezco ser respetuoso y leer con cuidado los pasos.
 
 ### instala los navegadores
 
-> Puedes empezar por instalar uno de los siguientes navegadores:
+> Puedes empezar por instalar uno de los siguientes navegadores acorde a tus necesidades.
+
++++ 🖥 Navegadores escritorio
+
+Puedes usar estos navegadores multiplataforma
+
+> Bloqueador de anuncios incluido
+
+- [!button variant="warning" corners="pill" text="Brave - Navegador"](https://brave.com/es/download/)    
+*El navegador contra anuncios y a favor de la privacidad. El mejor para muchos.*
+
+> Chromium + extensiones
 
 - [!button variant="danger" corners="pill" text="Yandex - Navegador"](https://browser.yandex.com/)    
 *(Recomendado) Yandex es el google de rusia con mucha personalizacion, ajustes, caracteristicas y bastante seguro contra amenazas. Viene con DNS, proxy y proteccion contra pishing y archivos maliciosos.*
 
+> Firefox 😉
+
 - [!button variant="warning" corners="pill" text="Firefox - Navegador"](https://www.mozilla.org/es-ES/firefox/new/)    
 *Firefox es el navegador preferido por muchos cuando se trata de privacidad, aunque es dificil acostumbrarse si vienes de chromium.*
 
-- [!button variant="warning" corners="pill" text="Brave - Navegador"](https://brave.com/es/download/)    
+
++++ 📱 Navegadores moviles
+
+Puedes usar estos navegadores que funcionan en Android y iOS
+
+==- **Android**
+
+> Bloquea anuncios pero no acepta extensiones
+
+- [!button variant="warning" corners="pill" text="Brave - Navegador"](https://play.google.com/store/apps/details?id=com.brave.browser&hl=en_US)    
 *El navegador contra anuncios y a favor de la privacidad. El mejor para muchos.*
+
+> Acepta extensiones
+- [!button variant="warning" corners="pill" text="Kiwi - Navegador"](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=en_US
+
+==- **iOS**
+
+> Bloquea anuncios pero no aceptan extensiones
+
+- [!button variant="warning" corners="pill" text="Brave - Navegador"](https://apps.apple.com/us/app/brave-private-web-browser/id1052879175)
+
+> Acepta extensiones
+
+- [!button variant="warning" corners="pill" text="Orion - Navegador"](https://browser.kagi.com/)
+
+===
+
+
 
 ---
 
