@@ -8,7 +8,7 @@ layout: default
 
 # Minecraft: Todas las versiones y plataformas
 
-![](https://i.postimg.cc/TPyVx0KM/Header-mc.png)
+![](https://i.postimg.cc/yNwbCkYj/Header-mc.png)
 
 ---
 
