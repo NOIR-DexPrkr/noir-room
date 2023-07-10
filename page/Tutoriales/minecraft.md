@@ -168,8 +168,10 @@ Descarga, instala e inicia sesion desde la pagina debajo.
 
 Sigue los pasos tal cual, pero estos son los tips:
 
-- Desinstala cualquier versión de Java que ya tengas instalada (Java 8 da problemas si piensas jugar versiones recientes de Minecraft).
-- Descarga Java 17 desde Azul, que se encuentra dentro de los pasos. (El archivo debe terminar en .msi).
+- Si tienes Java 8 dara problemas si piensas jugar versiones superiores a la 1.16.
+- Descarga Java 17 desde Azul, que se encuentra dentro de los pasos. (El archivo debe terminar en .msi.
+> Puedes tener Java 8 y la de azul instaladas a la vez.
+
 - Al descargar el archivo account.json, asegúrate de que este correctamente escrito.
 - Asegúrate de seleccionar "añadir sin conexión" y siempre usar tu nombre. Luego, crea una instancia "vanilla" con la versión que desees y haz clic derecho en ella > editar > configuración > Misceláneo > Marcar la opción de sobrescribir cuenta por defecto > selecciona tu nombre creado recientemente y cierra la ventana.
 - A un lado de "Añadir instancia" verás la opción de "ajustes". Haz clic en ella y selecciona "java Autodetectar" en la opción que tiene una estrella 🌟. Luego, haz clic en "probar".
