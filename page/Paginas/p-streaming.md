@@ -21,10 +21,10 @@ order: 1590
 
 ### Para ver gratis
 
-- [!button variant="contrast" size="xs" target="blank" text="⭐ Entre Peliculas y Series"](https://entrepeliculasyseries.nz/)      
+- [!button variant="contrast" size="xs" target="blank" text="⭐ Entre Peliculas y Series"](https://entrepeliculasyseries.pro/)      
   *Audio en español e ingles con subtitulos*
 
-- [!button variant="contrast" size="xs" target="blank" text="⭐ Cuevana 2"](https://www.cuevana2.info/)      
+- [!button variant="contrast" size="xs" target="blank" text="⭐ Cuevana 2"](https://www.cuevana2.icu/)      
   *Audio en español e ingles con subtitulos*
 
 - [!button variant="contrast" size="xs" target="blank" text="🔷 Mira de todo"](https://miradetodo.de/)      
