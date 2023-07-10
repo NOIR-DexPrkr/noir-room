@@ -78,4 +78,15 @@ No tiene anuncios y es completamente gratuito, ademas tiene una gran personaliza
 
 +++
 
+### 2. Click to Chat
+
+Click to Chat es una app que te permite escribir, llamar o crear un acceso directo a un contacto de whatsapp que no deseas guardar en tus contactos.
+Funciona muy facil, solo debes abrirla, copiar el numero y seleccionar si abrir el chat, llamar, o crear el acceso directo.
+Es bastante util y hasta guarda el historial de los numeros usados.
+
+#### Descarga    
+
+Puedes encontrarlo en la PlayStore
+- [!button variant="contrast" target="blank" size="xs" text="🗨 Click to Chat"](https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp&hl=en&gl=US)
+
 ---
