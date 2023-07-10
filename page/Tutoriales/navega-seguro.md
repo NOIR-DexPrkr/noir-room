@@ -52,17 +52,20 @@ Puedes usar estos navegadores que funcionan en Android y iOS
 *El navegador contra anuncios y a favor de la privacidad. El mejor para muchos.*
 
 > Acepta extensiones
-- [!button variant="warning" corners="pill" text="Kiwi - Navegador"](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=en_US
+- [!button variant="warning" corners="pill" text="Kiwi - Navegador"](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=en_US)     
+*Este navegador es como tener uno de escritorio en el celular, ademas de ser rapido.*
 
 ==- **iOS**
 
 > Bloquea anuncios pero no aceptan extensiones
 
-- [!button variant="warning" corners="pill" text="Brave - Navegador"](https://apps.apple.com/us/app/brave-private-web-browser/id1052879175)
+- [!button variant="warning" corners="pill" text="Brave - Navegador"](https://apps.apple.com/us/app/brave-private-web-browser/id1052879175)      
+*El navegador contra anuncios y a favor de la privacidad. El mejor para muchos.*
 
 > Acepta extensiones
 
-- [!button variant="warning" corners="pill" text="Orion - Navegador"](https://browser.kagi.com/)
+- [!button variant="warning" corners="pill" text="Orion - Navegador"](https://browser.kagi.com/)      
+*Este navegador es como tener uno de escritorio en el celular, ademas de ser rapido.*
 
 ===
 
