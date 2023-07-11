@@ -78,6 +78,8 @@ No tiene anuncios y es completamente gratuito, ademas tiene una gran personaliza
 
 +++
 
+---
+
 ### 2. 🗨 Click to Chat
 
 Click to Chat es una app que te permite escribir, llamar o crear un acceso directo a un numero de whatsapp que no deseas guardar en tus contactos.
@@ -88,5 +90,41 @@ Es bastante util y hasta guarda el historial de los numeros usados.
 
 Puedes encontrarlo en la PlayStore
 - [!button variant="contrast" target="blank" size="xs" text="🗨 Click to Chat"](https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp&hl=en&gl=US)
+
+---
+
+### 3. 📸 Photo Editor
+
+Photo Editor es como tener photoshop en una aplicacion que pesa menos de 5Mb. Tiene todo tipo de ajustes, opciones y funciones que es dificir nombrar todas.
+
+==- 📃 Caracteristicas
+
+Todo lo que puedes hacer en la aplicacion:   
+
+- Color: exposición, brillo, contraste, saturación, temperatura, tono y matiz
+- Curvas y niveles: ajuste fino de los colores
+- Efectos: corrección gamma, contraste automático, tono automático, vivacidad, desenfoque, nitidez, pintura al óleo, boceto, alto contraste en blanco y negro, sepia y más
+- Agregar texto, imágenes o formas
+- Marco, eliminación de ruido, dibujo, píxeles, clonar, recortar
+- Rotación, enderezamiento, recorte, cambio de tamaño
+- Correcciones: perspectiva, lente, ojos rojos, balance de blancos y retroiluminación
+- Edición fácil con la interfaz táctil y de zoom con pellizco
+- Guardar imágenes en JPEG, PNG, GIF, WebP y PDF
+- Ver, editar o eliminar metadatos (EXIF, IPTC, XMP)
+- Guardar el resultado final en tu galería, como fondo de pantalla o en tu tarjeta SD
+- Compartir fotos por correo electrónico, redes sociales y más
+- Procesamiento por lotes, recorte en forma de rompecabezas, comprimir a ZIP, crear PDF, GIF animado
+- Captura de página web, captura de video, captura de PDF
+
+===
+
+#### Descarga
+
+- Esta en la playstore con una barra de anuncios    
+- [!button variant="contrast" target="blank" size="xs" text="📸 Photo Editor"](https://play.google.com/store/apps/details?id=com.iudesk.android.photo.editor&hl=en&gl=US)
+
+- O puedes descargarlo parchado desde aqui: 
+
+- [!button variant="contrast" target="blank" size="xs" text="📸 Photo Editor MOD"](https://github.com/NOIR-DexPrkr/dexco-files/raw/main/PhotoEditor.apk)
 
 ---
