@@ -137,6 +137,7 @@ Con esta opcion descargas desde el instalador oficial de Adobe. Usalo solo si sa
 ==- **Si no te aparece para probar/descargar**
 
 Descompriman GenP 3.0 y dentro de la carpeta “Utilities> restore install buttons [beta]” copiar los dos .dll que ahí se encuentran, se pega y se reemplazan en la ruta: 
+
 > C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\AppsPanel  
 > o tambien
 > C:\Archivos de programa (x86)\Common Files\Adobe\Adobe Desktop Common\AppsPanel
@@ -151,11 +152,10 @@ Una vez estén ambos abiertos, en el CMD nos saldrá un menú. Allí debemos esc
 > (2) for Internet Patch
 > 
 > (1) for Firewall Block.
-> 
-> En ese orden. Luego presionamos la letra Q para salir.
-*(Esto crea una regla en el firewall de windows que bloquea el Creative Cloud, si algún programa en algún momento necesita conexión solo debes desactivar y activarla cuando sea necesario.)*
-> Una vez instalados o actualizados los programas puedes continuar con [la guia para parchar](#guia-para-parchar-los-programas-ya-instalados)
 
+
+En ese orden. Luego presionamos la letra Q para salir.
+*(Esto crea una regla en el firewall de windows que bloquea el Creative Cloud, si algún programa en algún momento necesita conexión solo debes desactivar y activarla cuando sea necesario.)*
 
 3.	**Cierran el programa y cierran todos sus procesos completamente** (para esto pueden hacerlo desde el administrador de tareas o ejecutar en administrador el CCstopper y elegir la opción (1) seguida de otro (1), para salir solo deben de usar la “Q”).
 
