@@ -58,7 +58,7 @@ Es un programa de animación de vectores, el cual permite dar movimiento a disti
 - [!badge variant="danger" text="**Nivel Experto:** Usando Creative Cloud."](#creative-cloud---instalador-de-adobe)
 - [!badge variant="warning" text="**Nivel Intermedio:** Usando el Instalador Offline de cada programa."](#sin-creative-cloud---programas-descargables)
 - [!badge variant="success" text="**Nivel Facil:** Usando instaladores ya parchados y listos para ejecutar."](#programas-parchados-para-doomies)
-
+- *Si solo vienes por el photoshop con inteligencia artificial es el primero de la seccion de Dommies.*
 
 === **Archivos necesarios para las opciones Experto e Intermedio:**
 +++ **GenP v3.0** 
@@ -90,7 +90,7 @@ Con esta opcion descargas desde el instalador oficial de Adobe. Usalo solo si sa
 
 ### Configuracion antes de descargar los programas
 
-2. Instalar el CC y **cuando aparezca la opción de instalar Adobe Genuine Service den NO, o quiten la opción**. También desactiven la ejecución al inicio de windows y las actualizaciones automáticas.
+1. Instalar el CC y **cuando aparezca la opción de instalar Adobe Genuine Service den NO, o quiten la opción**. También desactiven la ejecución al inicio de windows y las actualizaciones automáticas.
 
 
 ==- Guia para desactivar las actualizaciones automaticas 
@@ -117,12 +117,21 @@ Con esta opcion descargas desde el instalador oficial de Adobe. Usalo solo si sa
 >
 > ![](https://i.postimg.cc/wjfKvgn8/Imagen7.png)
 
+---
+
+> Ve a el administrador de tareas y en la seccion de inicio desactiva todo lo de Adobe CC.
+
 ===
 
 ---
 
-3.	Al iniciar el programa se recomienda que entren con una cuenta que no tenga vencida la prueba gratuita. **Una vez iniciada sesión, cierran el programa y cierran todos sus procesos completamente** (para esto pueden hacerlo desde el administrador de tareas o ejecutar en administrador el CCstopper y elegir la opción (1) seguida de otro (1), para salir solo deben de usar la “Q”).
 
+### **Instalación de programas**
+
+1.	Ejecutamos el Creative Cloud y descargamos el programa deseado. Para esto dale en el boton de probar o instalar que aparece al lado de cada programa.
+
+
+> Al iniciar el programa se recomienda que entren con una cuenta que no tenga vencida la prueba gratuita.      
 > *Si por alguna razón usaste una cuenta que ya tenia período de prueba vencido puedes probar este paso, si no, obviar y seguir con el tutorial.*
 
 ==- **Si no te aparece para probar/descargar**
@@ -134,21 +143,23 @@ Descompriman GenP 3.0 y dentro de la carpeta “Utilities> restore install butto
 
 ===
 
-### **Instalación**
-
-4.	Ejecutamos el Creative Cloud y descargamos el programa deseado. Para esto dale en el boton de probar o instalar que aparece al lado de cada programa.
-
-5. Una vez descargados los programas deseados, debemos bloquear el CC.
+2. Una vez descargados los programas deseados, debemos bloquear el CC.
 
 Para esto ejecutamos el CC stopper como administrador luego de descomprimir **(el archivo .bat)**.
 Una vez estén ambos abiertos, en el CMD nos saldrá un menú. Allí debemos escoger:
+
 > (2) for Internet Patch
 > 
 > (1) for Firewall Block.
 > 
 > En ese orden. Luego presionamos la letra Q para salir.
-*(Esto crea una regla en el firewall de windows que bloquea el Creative Cloud, si algún programa en algún momento necesita conexión solo debes desactivar y activarla cuando sea necesario)*
+*(Esto crea una regla en el firewall de windows que bloquea el Creative Cloud, si algún programa en algún momento necesita conexión solo debes desactivar y activarla cuando sea necesario.)*
 > Una vez instalados o actualizados los programas puedes continuar con [la guia para parchar](#guia-para-parchar-los-programas-ya-instalados)
+
+
+3.	**Cierran el programa y cierran todos sus procesos completamente** (para esto pueden hacerlo desde el administrador de tareas o ejecutar en administrador el CCstopper y elegir la opción (1) seguida de otro (1), para salir solo deben de usar la “Q”).
+
+4. Ya puedes continuar con [la guia para parchar](#guia-para-parchar-los-programas-ya-instalados)
 
 ---
 
@@ -203,23 +214,40 @@ Versiones individuales sin parchar y originales de las CC 2019.
 
 > Esta es la continuacion de las dos opciones anteriores.
 
-1. Ejecutamos GenP, si no cambiaron la ruta de instalacion pueden dejar que el programa busque los programas clickeando **“Search files”**.  Tardará un rato en terminar de buscar los archivos pero una vez los encuentre les activará la opción de “curar” la cual deben seleccionar. En caso contrario, si cambiaron la ruta de descarga o GenP no los encuentra, seleccione la opción de **“Custom path”** y seleccione la carpeta donde están los programas o programa.
+1. Ejecutamos GenP, si no cambiaron la ruta de instalacion (al instalar los programas) pueden dejar que el programa busque los programas clickeando **“Search files”**.  Tardará un rato en terminar de buscar los archivos pero una vez los encuentre les activará la opción de “curar” la cual deben seleccionar.         
+En caso contrario, si cambiaron la ruta de descarga o GenP no los encuentra, seleccione la opción de **“Custom path”** y seleccione la carpeta donde están los programas o programa.
 
 > Una forma para asegurar que todos sus programas están siendo parchados es observando la lista, si en esta se encuentran los programas que descargaron no deberían de existir problemas.
 
 ![](https://i.postimg.cc/BQWs2Shx/Imagen1.png) ![](https://i.postimg.cc/T25fyLcd/Imagen2.png) 
 
-2. Por último bloqueamos el .exe de cada programa instalado por medio de firewall.
+2. Por último y muy importante si deseas que tu programa se mantenga funcionando sin que te salga que tu licencia es pirata, bloqueamos el .exe de cada programa instalado por medio de firewall.
 
 Para esto primero es necesario abrir el **“Firewall de Windows Defender”** al entrar deben ir a Configuración avanzada y seleccionar Reglas de Salida.A la derecha tendrán la opción de **“Nueva Regla”**, deben de hacerle click, seleccionan programa y en ruta de acceso deben de buscar el .exe del programa que quieren bloquear.
 
-> Ej: C:\Program Files\Adobe\Adobe Animate 2023\Animate.exe
+> Ejemplo: C:\Program Files\Adobe\Adobe Animate 2023\Animate.exe
 
 Deben asegurar que en Acción este seleccionado **“Bloquear conexión”**, en perfil todo debe de estar tickeado y por último deben de asignar un nombre a la regla. Este procedimiento deben de hacerlo con el .exe de cada programa y al final debería de quedar algo asi:
 
 ![](https://i.postimg.cc/7LY8Vf8W/Imagen3.png) 
 
 Si tienen problema encontrando los .exe pueden ir a los accesos directos, darles click derecho y propiedades, y en la ventana ahora abierta solo deben de darle a **“abrir ubicación”** y ya tendrán la ubicación del .exe
+
+Pueden hacer lo mismo para reglas de entrada.
+
+3. Disfruta tus programas.
+
+
+==- Filtros neuronales en photoshop?
+
+Si deseas usar estos filtros puedes iniciar sesion desde la seccion de `ayuda > Iniciar sesion en photoshop.`    
+- Una vez inicies sesion, cierra photoshop.
+- Abrelo de nuevo, y descarga todos los filtros que no necesiten de la nube.
+> Quizas esto rompa el parche luego de un tiempo, por eso debes bloquear todo lo de adobe con las opciones del CC Stopper y las utilidades del GenP.
+
+*O bien ve a la seccion de Dommies por una forma facil de tener los filtros*
+
+===
 
 
 ---
@@ -248,7 +276,7 @@ Una vez descargues dale a `Firefly AI Support` y descarga ese tambien.
 - Espera que termine de parchar los filtros y listo.
 
 !!!danger
-    Ojo este photoshop requiere de una computadora muy potente, si tienes un computador de bajos recursos o medianos, usa las versiones antiguas. Recomendadas la 2021.
+Ojo este photoshop requiere de una computadora muy potente, si tienes un computador de bajos recursos o medianos, usa las versiones antiguas. Recomendadas la 2021.
 !!!
 
 ===
