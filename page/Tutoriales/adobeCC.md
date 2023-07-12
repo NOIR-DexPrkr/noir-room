@@ -53,7 +53,7 @@ Es un programa de animación de vectores, el cual permite dar movimiento a disti
 
 ## Opciones de Instalación
 
-- [!badge variant="danger" text="**Nivel Experto:** Usando Creative Cloud."](#creative-cloud--instalador-de-adobe)
+- [!badge variant="danger" text="**Nivel Experto:** Usando Creative Cloud."](#creative-cloud---instalador-de-adobe)
 - [!badge variant="warning" text="**Nivel Intermedio:** Usando el Instalador Offline de cada programa."](#sin-creative-cloud---programas-descargables)
 - [!badge variant="success" text="**Nivel Facil:** Usando instaladores ya parchados y listos para ejecutar."](#programas-parchados-para-doomies)
 
