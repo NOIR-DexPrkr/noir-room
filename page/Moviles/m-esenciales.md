@@ -128,3 +128,38 @@ Todo lo que puedes hacer en la aplicacion:
 - [!button variant="contrast" target="blank" size="xs" text="📸 Photo Editor MOD"](https://github.com/NOIR-DexPrkr/dexco-files/raw/main/PhotoEditor.apk)
 
 ---
+
+### 4. 🛠 SD Maid
+
+SD Maid es una app que te ayudará a mantener tu dispositivo limpio y ordenado con un solo boton.
+Ofrece una colección de herramientas para gestionar aplicaciones y archivos.
+Las aplicaciones que ya has eliminado dejan algo atrás.
+Constantemente se crean registros, informes de fallos y otros archivos que realmente no quieres.
+Tu almacenamiento está acumulando archivos y directorios que no reconoces.
+
+==- 📃 Caracteristicas
+
+Todo lo que puedes hacer en la aplicacion:   
+
+- Navegar por todo tu dispositivo y manipular archivos a través de un completo explorador de archivos.
+- Eliminar archivos superfluos de tu sistema.
+- Gestionar las aplicaciones de usuario y de sistema instaladas.
+- Detectar archivos que pertenecían a aplicaciones desinstaladas.
+- Buscar archivos por nombre, contenido o fecha.
+- Obtén una visión detallada del almacenamiento de tus dispositivos.
+- Optimizar bases de datos.
+- Hacer una limpieza real de las aplicaciones y eliminar los archivos prescindibles, que sustituye a lo que otros pueden llamar "limpieza de caché".
+- Detectar imágenes, música o documentos duplicados, independientemente de su nombre o ubicación.
+- Ejecutar herramientas automáticamente de forma programada o a través de widgets.
+
+===
+
+#### Descarga
+
+- Version nueva simplificada Premium: 
+
+[!button variant="contrast" target="blank" size="xs" text="💾 SD MAID 2/SE"](https://liteapks.com/sd-maid-2-se-system-cleaner.html)
+
+- Version antigua Premium (mas opciones): 
+
+[!button variant="contrast" target="blank" size="xs" text="💾 SD MAID PRO"](https://liteapks.com/sd-maid-pro.html)
