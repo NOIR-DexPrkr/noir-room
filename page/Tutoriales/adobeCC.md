@@ -6,9 +6,11 @@ layout: default
 ---
 
 # Guia Completa - Adobe Creative Cloud
-!!!info Este es un tutorial sin animo de lucro. Los sitios y descargas aquí son de total seguridad.
-Agradezco ser respetuoso y leer con cuidado los pasos.
-!!!
+
+![](https://i.postimg.cc/50pP9ZK5/Header-tutos-2.png)
+
+> **¿Tienes una petición o duda durante el tutorial?**       
+> *Hazlo desde* [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
 
 ==- **Que programas incluye?**
 
@@ -62,11 +64,11 @@ Es un programa de animación de vectores, el cual permite dar movimiento a disti
 +++ **GenP v3.0** 
   Parche para los programas de adobe que descargues.
   
-[!button variant="success" corners="pill" text="Descargar"](https://www.mediafire.com/file/ipp9gj15xzty1uw/GenP_3.0_Release.zip/file) 
+[!button variant="success" target="blank" corners="pill" text="Descargar"](https://www.mediafire.com/file/ipp9gj15xzty1uw/GenP_3.0_Release.zip/file) 
 +++ **CC Stopper**
   Script que permite bloquear las ventanas de pago y actualizaciones que dejarian sin funcionar el parche.
   
-[!button variant="success" corners="pill" text="Descargar"](https://github.com/eaaasun/CCStopper/releases/download/v1.2.2/CCStopper.zip) 
+[!button variant="success" target="blank" corners="pill" text="Descargar"](https://github.com/eaaasun/CCStopper/releases/download/v1.2.2/CCStopper.zip) 
 
 +++
 ===
@@ -84,7 +86,7 @@ Con esta opcion descargas desde el instalador oficial de Adobe. Usalo solo si sa
 
 1. Descargamos el Creative Cloud.
 
-[!badge variant="success" corners="pill" text="Descargar"](https://creativecloud.adobe.com/apps/download/creative-cloud) 
+[!badge variant="success" target="blank" corners="pill" text="Descargar"](https://creativecloud.adobe.com/apps/download/creative-cloud) 
 
 ### Configuracion antes de descargar los programas
 
@@ -163,28 +165,29 @@ Con esta opcion puedes descargar programas antiguos sin necesidad de descargar e
 +++ CC 2018 
 Versiones individuales sin parchar y originales de las CC 2018.
 
-[!button variant="success" corners="pill" text="Descargar"](https://prodesigntools.com/adobe-cc-2018-direct-download-links.html)
+[!button variant="success" target="blank" corners="pill" text="Descargar"](https://prodesigntools.com/adobe-cc-2018-direct-download-links.html)
 
 +++ CC 2019
 Versiones individuales sin parchar y originales de las CC 2019.
 
-[!button variant="success" corners="pill" text="Descargar"](https://prodesigntools.com/adobe-cc-2019-direct-download-links.html) 
+[!button variant="success" target="blank" corners="pill" text="Descargar"](https://prodesigntools.com/adobe-cc-2019-direct-download-links.html) 
 +++
 
 > Si solo deseas Photoshop CC:
 > Descarga su version sin parchar y original desde las CC 2016 hasta 2023. Recuerda desconectarte de internet al instalar estás versiones.
 
 === Versiones
-[!badge variant="success" corners="pill" text="2016 32/64bits"](https://windowstan.com/download/photoshop-cs6/)
-[!badge variant="success" corners="pill" text="2017 32bits"](https://windowstan.com/download/photoshop-cc-2017-x86/)
-[!badge variant="success" corners="pill" text="2017 64bits"](https://windowstan.com/download/photoshop-cc-2017-x64/)
-[!badge variant="success" corners="pill" text="2018 32bits"](https://windowstan.com/download/photoshop-cc-2018-x86/)
-[!badge variant="success" corners="pill" text="2018 64bits"](https://windowstan.com/download/photoshop-cc-2018-x64/)
-[!badge variant="success" corners="pill" text="2019 Solo 64bits"](https://windowstan.com/download/photoshop-cc-2019-x64/)
-[!badge variant="success" corners="pill" text="2020 Solo 64bits"](https://windowstan.com/download/photoshop-cc-2020-x64/)
-[!badge variant="success" corners="pill" text="2021 Solo 64bits"](https://windowstan.com/download/photoshop-cc-2021-x64/)
-[!badge variant="success" corners="pill" text="2022 Solo 64bits"](https://windowstan.com/download/photoshop-cc-2022-x64/)
-[!badge variant="success" corners="pill" text="2023 Solo 64bits"](https://windowstan.com/download/photoshop-cc-2023-x64/)
+[!badge variant="success" target="blank" corners="pill" text="2016 32/64bits"](https://windowstan.com/download/photoshop-cs6/)
+[!badge variant="success" target="blank" corners="pill" text="2017 32bits"](https://windowstan.com/download/photoshop-cc-2017-x86/)
+[!badge variant="success" target="blank" corners="pill" text="2017 64bits"](https://windowstan.com/download/photoshop-cc-2017-x64/)
+[!badge variant="success" target="blank" corners="pill" text="2018 32bits"](https://windowstan.com/download/photoshop-cc-2018-x86/)
+[!badge variant="success" target="blank" corners="pill" text="2018 64bits"](https://windowstan.com/download/photoshop-cc-2018-x64/)
+[!badge variant="success" target="blank" corners="pill" text="2019 Solo 64bits"](https://windowstan.com/download/photoshop-cc-2019-x64/)
+[!badge variant="success" target="blank" corners="pill" text="2020 Solo 64bits"](https://windowstan.com/download/photoshop-cc-2020-x64/)
+[!badge variant="success" target="blank" corners="pill" text="2021 Solo 64bits"](https://windowstan.com/download/photoshop-cc-2021-x64/)
+[!badge variant="success" target="blank" corners="pill" text="2022 Solo 64bits"](https://windowstan.com/download/photoshop-cc-2022-x64/)
+[!badge variant="success" target="blank" corners="pill" text="2023 Solo 64bits"](https://windowstan.com/download/photoshop-cc-2023-x64/)
+
 ===
 
 
@@ -225,28 +228,54 @@ Si tienen problema encontrando los .exe pueden ir a los accesos directos, darles
 
 > Escoge cualquiera de las siguientes opciones para instalar, no necesita configuracion. Solo instalas y listo.
 
+
+Quizas vienes por photoshop 2023 con los filtros de IA... abre la ventana de abajo.
+
+==- Abreme 👀
+
+[!badge corners="pill" target="blank" text="Photoshop CC 2023"](https://filecr.com/windows/adobe-photoshop-2023-0061/?id=936829400000)     
+*Una vez en la pagina, mira a la derecha y veras los links de descarga. Selecciona `Adobe Photoshop` y luego descarga directa o torrent.     
+Una vez descargues dale a `Firefly AI Support` y descarga ese tambien.
+
+##### **Pasos a seguir**
+
+- Si usaste la descarga directa, descomprime el archivo.
+- Si usaste torrent no es necesario, asi que continua...
+- Ve a la carpeta y da doble click al archivo .ISO *`Los otros archivos son para comprobar si los programas son originales o fueron modificados, ya revise todo, asi que con confianza sigue los pasos.`*
+- Dale click derecho al archivo `autoplay.exe` y ejecutalo como administrador. (si no quieres, no, pero es recomendado.)
+- Una vez termine la instalacion, abre Photoshop y ve a `Ayuda > Iniciar sesion` o `Help > Login`
+- Luego descomprime el el firefly AI support `contraseña es 123` y ejecutalo como administrador.
+- Espera que termine de parchar los filtros y listo.
+
+!!!danger
+    Ojo este photoshop requiere de una computadora muy potente, si tienes un computador de bajos recursos o medianos, usa las versiones antiguas. Recomendadas la 2021.
+!!!
+
+===
+
 +++ 🔵Photoshop     
 Para las versiones la contraseña de todos es: `www.artistapirata.com`     
-[!badge corners="pill" text="CC 2023"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile_premium%2Fdl9is90zq8jblzk%2FWIN_APS_V24.5.0.500_AP_ZNT.rar%2Ffile%3Ay_9QJ5gdi4kNmqWKN0sZ-W8PYAo&cuid=4208103)       
-[!badge corners="pill" text="CC 2022"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2Fyp0f1r4j0d6r21b%2FWIN_APS_V23.5.0.669_AP_ZNT.rar%2Ffile%3Asa9zMJb198iceDCybhEHp-TnIXw&cuid=4208103)       
-[!badge corners="pill" text="CC 2021"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2Fkew510adp462kyy%2FWIN_APS_V22.5.8.998_AP_ZNT.rar%2Ffile%3AGU54grbZPWIMzy-XsSUD0g0pWho&cuid=4208103)      
-[!badge corners="pill" text="CC 2020"](http://disq.us/url?url=http%3A%2F%2Fwww.mediafire.com%2Ffile%2F732cz8arne5nlda%2FPSCC2K21.21.2.4.WIN.AP.ZNT.rar%3AKFIXEo7XoBONQly5Bs_BOWP-CAE&cuid=4208103)      
-[!badge corners="pill" text="CC 2019"](http://disq.us/url?url=http%3A%2F%2Fwww.mediafire.com%2Ffile%2Fos10tbcyzp1khd3%2FWIN_APS_2K19_V20_AP_ZNT.rar%2Ffile%3ACIztKcBJmhs6bA_bgUfqev_zNs0&cuid=4208103)        
-[!badge corners="pill" text="CC 2018"](http://disq.us/url?url=http%3A%2F%2Fbit.ly%2F2DsSPcR%3A__bJC5iOIXVUl3VXXU9WwDrCUUI&cuid=4208103)
+      
+[!badge target="blank" corners="pill" text="CC 2022"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2Fyp0f1r4j0d6r21b%2FWIN_APS_V23.5.0.669_AP_ZNT.rar%2Ffile%3Asa9zMJb198iceDCybhEHp-TnIXw&cuid=4208103)       
+[!badge target="blank" corners="pill" text="CC 2021"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2Fkew510adp462kyy%2FWIN_APS_V22.5.8.998_AP_ZNT.rar%2Ffile%3AGU54grbZPWIMzy-XsSUD0g0pWho&cuid=4208103)      
+[!badge target="blank" corners="pill" text="CC 2020"](http://disq.us/url?url=http%3A%2F%2Fwww.mediafire.com%2Ffile%2F732cz8arne5nlda%2FPSCC2K21.21.2.4.WIN.AP.ZNT.rar%3AKFIXEo7XoBONQly5Bs_BOWP-CAE&cuid=4208103)      
+[!badge target="blank" corners="pill" text="CC 2019"](http://disq.us/url?url=http%3A%2F%2Fwww.mediafire.com%2Ffile%2Fos10tbcyzp1khd3%2FWIN_APS_2K19_V20_AP_ZNT.rar%2Ffile%3ACIztKcBJmhs6bA_bgUfqev_zNs0&cuid=4208103)        
+[!badge target="blank" corners="pill" text="CC 2018"](http://disq.us/url?url=http%3A%2F%2Fbit.ly%2F2DsSPcR%3A__bJC5iOIXVUl3VXXU9WwDrCUUI&cuid=4208103)
 
 +++ 🟠Illustrator
 Para las versiones la contraseña de todos es: `www.artistapirata.com`      
-[!badge variant="warning" corners="pill" text="CC 2023"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2F5rl1r0jq3yxqa8n%2FWIN_AAI_V27.1.0.189_AP_ZNT.rar%2Ffile%3ACeK6gVRz3AAB-9xzySKqvv1IYrs&cuid=4208103)     
-[!badge variant="warning" corners="pill" text="CC 2022"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2Fr4pb4iocxtmkapm%2FWIN_AAI_V26.5.0.223_AP_ZNT.rar%2Ffile%3AtybK_260rmaooXQoz93gntZBRY8&cuid=4208103)       
-[!badge variant="warning" corners="pill" text="CC 2021"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2Fmma6fhd8bcbmbkw%2FWIN_AAI_V25.4.1.498_AP_ZNT.rar%2Ffile%3A4Cxz7nNNTniZonVn6oz1Edklp9A&cuid=4208103)       
-[!badge variant="warning" corners="pill" text="CC 2020"](http://disq.us/url?url=http%3A%2F%2Fwww.mediafire.com%2Ffile%2Fg7sgg5fmjamqjrl%2FAI24.3.0.WIN.AP.ZNT.rar%2Ffile%3AkmpvK5tWrbBH7fSVniMMpT5ojSU&cuid=4208103)        
-[!badge variant="warning" corners="pill" text="CC 2019"](http://disq.us/url?url=http%3A%2F%2Fwww.mediafire.com%2Ffile%2F2dl03gyj62tknn8%2FWIN_AI_2K19_V23.1_AP_ZNT.rar%2Ffile%3A38QUK9JDZ7dXDpZ-zsqGTYYhnlE&cuid=4208103)       
+
+[!badge variant="warning" target="blank" corners="pill" text="CC 2023"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2F5rl1r0jq3yxqa8n%2FWIN_AAI_V27.1.0.189_AP_ZNT.rar%2Ffile%3ACeK6gVRz3AAB-9xzySKqvv1IYrs&cuid=4208103)     
+[!badge variant="warning" target="blank" corners="pill" text="CC 2022"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2Fr4pb4iocxtmkapm%2FWIN_AAI_V26.5.0.223_AP_ZNT.rar%2Ffile%3AtybK_260rmaooXQoz93gntZBRY8&cuid=4208103)       
+[!badge variant="warning" target="blank" corners="pill" text="CC 2021"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2Fmma6fhd8bcbmbkw%2FWIN_AAI_V25.4.1.498_AP_ZNT.rar%2Ffile%3A4Cxz7nNNTniZonVn6oz1Edklp9A&cuid=4208103)       
+[!badge variant="warning" target="blank" corners="pill" text="CC 2020"](http://disq.us/url?url=http%3A%2F%2Fwww.mediafire.com%2Ffile%2Fg7sgg5fmjamqjrl%2FAI24.3.0.WIN.AP.ZNT.rar%2Ffile%3AkmpvK5tWrbBH7fSVniMMpT5ojSU&cuid=4208103)        
+[!badge variant="warning" target="blank" corners="pill" text="CC 2019"](http://disq.us/url?url=http%3A%2F%2Fwww.mediafire.com%2Ffile%2F2dl03gyj62tknn8%2FWIN_AI_2K19_V23.1_AP_ZNT.rar%2Ffile%3A38QUK9JDZ7dXDpZ-zsqGTYYhnlE&cuid=4208103)       
 
 +++ 🟢Otros
-Otros programas encuentralos en [Artista Pirata](https://www.artistapirata.com/)
+Otros programas encuentralos en [Artista Pirata](https://www.artistapirata.com/){target="blank" }
 +++
 
 
-!!!success Eso sería todo, si tienes alguna duda puedes preguntar en el grupo o [pagina](https://www.facebook.com/dex.noir.room) y con gusto responderé.
+!!!success Eso sería todo, si tienes alguna duda puedes preguntar en el grupo o [pagina](https://www.facebook.com/dex.noir.room){target="blank" } y con gusto responderé.
 !!!
 
