@@ -6,31 +6,87 @@ layout: default
 ---
 
 # Spotify Premium - PC/Movil
-!!!info Este es un tutorial sin animo de lucro. Los sitios y descargas aquí son de total seguridad.
-Agradezco ser respetuoso y leer con cuidado los pasos.
-!!!
+
+![](https://i.postimg.cc/90k6YTbD/Header-tutos-3.png)
+
+> **¿Tienes una petición o duda durante el tutorial?**       
+> *Hazlo desde* [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
 
 ---
 
-## Para Windows
-Para conseguir la aplicacion con funciones premium en Windows debemos seguir los sieguientes pasos:
+## Para Windows/Mac/Linux
+
+![](https://i.postimg.cc/m2GJBbqf/asasasas.png)
+
+Para conseguir la aplicacion con funciones premium en escritorio debemos seguir los sieguientes pasos:
 
 > Esto no te permitira descargar las canciones, ten eso en cuenta.
 
-1. Descargamos el Spotify oficial desde aqui: [!badge variant="success" text="Descargalo aqui!"](https://www.spotify.com/us/download/windows/)      
+1. Descargamos el Spotify oficial desde aqui: [!badge variant="success" text="Descargalo aqui!"](https://www.spotify.com/us/download/)      
 
 2. Instalamos el spotify e iniciamos sesion con nuestra cuenta.
 
 3. Ahora cerramos el spotify y nos aseguramos que no quede ejecutandose en segundo plano.
 
-4. Descargamos el Script para desbloquear las funciones premium y la nueva interfaz. [!badge variant="success" text="Descargalo aqui!"](https://raw.githack.com/amd64fox/SpotX/main/scripts/Install_Auto.bat)       
+**Ahora, tienes dos opciones para el premium**
+
+==- SpotX - Activa las funciones premium
+
++++ Windows
+
+. Descargamos el Script para desbloquear las funciones premium y la nueva interfaz. [!badge variant="success" text="Descargalo aqui!"](https://raw.githack.com/amd64fox/SpotX/main/scripts/Install_Auto.bat)       
 
 5. Ejecuta el script como administrador y listo, eso es todo. Ya puedes abrir spotify y estara premium.       
 
 > Si quieres desinstalar el mod usa [el desisntalador](https://raw.githack.com/amd64fox/SpotX/main/Uninstall.bat)
 
++++ Mac y linux
+
+1. Abre la terminar y ejecuta el siguiente comando:
+```
+bash <(curl -sSL https://gist.github.com/jetfir3/e8830cf8deba6a4f15eec094d344f7b1/raw/spotx.sh)
+```
++++
+
+==- Spicetify - Activa premium, temas, extensiones, y mas.
+
+1. Ejecuta lo siguiente desde la terminal de tu equipo (powershell & Terminal en MAC & Linux)
+
++++ Windows
+
+```
+iwr -useb https://raw.githubusercontent.com/spicetify/spicetify-cli/master/install.ps1 | iex
+```
+---
+
+``` 
+iwr -useb https://raw.githubusercontent.com/spicetify/spicetify-marketplace/main/resources/install.ps1 | iex
+```
+
++++ Mac &Linux
+
+
+```
+curl -fsSL https://raw.githubusercontent.com/spicetify/spicetify-cli/master/install.sh | sh
+```
 
 ---
+
+```
+curl -fsSL https://raw.githubusercontent.com/spicetify/spicetify-marketplace/main/resources/install.sh | sh
+```
+
++++
+
+2. Eso es todo, en caso que nada cambie, intenta escribiendo `spicetify apply` en la terminal y dando enter.
+
+3. Abre spotify y en la nueva pestaña de marketplace, selecciona la extension de "adblock" para quitar los anuncios.
+
+4. Puedes instalar mas extensiones, temas y etc.
+
+5. Disfruta.
+
+===
 
 
 ## Para Android
