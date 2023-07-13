@@ -163,3 +163,41 @@ Todo lo que puedes hacer en la aplicacion:
 - Version antigua Premium (mas opciones): 
 
 [!button variant="contrast" target="blank" size="xs" text="💾 SD MAID PRO"](https://liteapks.com/sd-maid-pro.html)
+
+---
+
+### 4. 🎵 BlackPlayer EX
+
+BlackPlayer es un reproductor de música MP3 que reproduce contenido local.
+Altamente personalizable, suave y ágil con moderno diseño minimalista Material. Elegantes animaciones de buen gusto en toda la interfaz.
+
+Puedes ajustar el diseño a tu gusto con los potentes ajustes disponibles. Desliza el dedo por el centro de la pantalla para navegar entre las páginas. Toca en los títulos superiores para ver opciones adicionales. El reproductor de música mp3 mantiene un registro de los artistas y álbumes más reproducidos y te ofrece una página de inicio inteligente llamada "Reproducir ahora" con sugerencias de reproducción.
+
+==- 📃 Caracteristicas
+
+Todo lo que puedes hacer en la aplicacion:   
+
+- Admite archivos de reproductor de música local estándar como MP3, WAV, OGG, FLAC, M4A 🎵.
+- Ecualizador de 5 bandas, BassBoost, 3D Surround Virtualizer y Amplificador. También puedes utilizar tu ecualizador externo para obtener la mejor calidad de audio
+- Reproducción de audio sin pausas.
+Visualización y edición de letras incrustadas, compatible con archivos .lrc sincronizados.
+Gestión de carátulas de álbumes HD, automática y manual.
+Editor de etiquetas ID3, edición de pistas, álbumes, artistas y géneros.
+- Temas, fuentes, colores y animaciones personalizables.
+- Soporta Android Auto y Wear OS (antes Android Wear)
+- Soporta mp3 scrobbling.
+- 3 widgets.
+- Temporizador de reposo (activar en Ajustes de interfaz).
+- Crossfading
+
+===
+
+#### Descarga
+
+- Version gratis en la playstore: 
+
+[!button variant="contrast" target="blank" size="xs" text="🎵 BlackPlayer"](https://play.google.com/store/apps/details?id=com.musicplayer.blackplayerfree&hl=en&gl=US)
+
+- Version Premium mod: 
+
+[!button variant="contrast" target="blank" size="xs" text="🎵 BlackPlayer EX"](https://liteapks.com/download/blackplayer-ex-95893)
