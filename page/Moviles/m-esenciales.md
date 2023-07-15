@@ -200,4 +200,43 @@ Editor de etiquetas ID3, edición de pistas, álbumes, artistas y géneros.
 
 - Version Premium mod: 
 
-[!button variant="contrast" target="blank" size="xs" text="🎵 BlackPlayer EX"](https://liteapks.com/download/blackplayer-ex-95893)
+[!button variant="contrast" target="blank" size="xs" text="🎵 BlackPlayer EX"](https://liteapks.com/download/blackplayer-ex-95893)   
+
+---
+
+### 6. 📃 WPS Office
+
+WPS Office es un programa de edicion que tiene soporte para documentos de Word, Power Point, PDF, Excel.   
+Es un paquete ofimático todo en uno que integra documentos Word, PDF, hojas de cálculo Sheet, diapositivas PowerPoint, formularios, almacenamiento en la nube, edición en línea, biblioteca de plantillas y uso compartido. Accede a varias funciones de WPS Office a través de dispositivos móviles, como escanear archivos PDF, editar diapositivas, convertir hojas de cálculo o ver documentos en cualquier momento y lugar.
+
+==- 📃 Caracteristicas
+
+Todo lo que puedes hacer en la aplicacion:   
+
+1. Todo el Office en una app.
+- El uso de plantillas para empezar a editar su presupuesto, Word, Presentaciones, hoja, hojas de vida, documentos y otros archivos.
+-Utilizar herramientas para convertir y procesar documentos, PDF e imágenes.
+-Fácil de crear, editar, compartir archivos y colaboró con otros en tiempo real.
+
+2. Escanear, ver, editar, convertir PDF.
+- Lector de PDF gratuito que puede abrir, ver, compartir y comentar PDFs en cualquier lugar y en cualquier dispositivo.
+- Convierte todos los documentos de Office (Word, Texto, Hoja, PowerPoint, Docs, Imágenes) a PDF.
+- Escanea documentos en papel a PDF.
+- Soporta anotación PDF, firma PDF, extracción/división PDF, fusión PDF.
+- Añade y elimina fácilmente marcas de agua en PDF.
+
+3. Almacenamiento en la nube, para no perder documentos.
+- Utiliza WPS Cloud para gestionar todos los documentos, sincronizar en tiempo real en teléfonos móviles y ordenadores, y acceder y editar fácil y directamente documentos de oficina
+- Guarda documentos en nubes de terceros: Dropbox, Google Drive, Box, Evernote y OneDrive.
+
+===
+
+#### Descarga
+
+- Version normal premium: 
+
+[!button variant="contrast" target="blank" size="xs" text="📃 WPS Office"](https://liteapks.com/wps-office.html)
+
+- Version Lite premium: 
+
+[!button variant="contrast" target="blank" size="xs" text="🎵 📃 WPS Office Lite"](https://liteapks.com/wps-office-lite.html)
