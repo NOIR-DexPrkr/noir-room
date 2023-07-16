@@ -52,7 +52,7 @@ family.adguard-dns.com
 
 5. Eso es todo, ya no tienes anuncios.
 
-+++ 
++++ 🖥 Windows
 
 1. Ve al menú Inicio → Panel de control.
 
@@ -83,6 +83,8 @@ family.adguard-dns.com
 +++ Otros Distpositivos
 
 Para mas dispositivos e informacion mas clara ve a [este link](https://adguard-dns.io/es/public-dns.html) y ve a la seccion de configuracion manual.
+
++++
 
 ---
 
