@@ -38,7 +38,7 @@ family.adguard-dns.com
 3. Guardamos y listo, ya no tendras anuncios.
 > *Algunas veces es necesario desactivarlo para apps que funcionan sin datos o para acceder a wifis publicos con claves. Luego de que tengas internet, lo vuelves a activar.*
 
-+++ iOS
++++ 📴 iOS
 
 1. Abre la applicacion de ajustes de tu dispositivo iOS
 
@@ -80,7 +80,7 @@ family.adguard-dns.com
 94.140.15.16
 ``` 
 
-+++ Otros Distpositivos
++++ 😉 Otros 
 
 Para mas dispositivos e informacion mas clara ve a [este link](https://adguard-dns.io/es/public-dns.html) y ve a la seccion de configuracion manual.
 
