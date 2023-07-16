@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="turbo-root" content="/noir-room">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.0.3.742863456279">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.0.3.742863696158">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.0.3">
@@ -34,11 +34,11 @@
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("/noir-room/doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../../favicon.ico" rel="icon" />
-    <link href="../../resources/css/retype.css?v=3.0.3.742863456279" rel="stylesheet" />
+    <link href="../../resources/css/retype.css?v=3.0.3.742863696158" rel="stylesheet" />
 
-    <script type="text/javascript" src="../../resources/js/config.js?v=3.0.3.742863456279" data-turbo-eval="false" defer></script>
+    <script type="text/javascript" src="../../resources/js/config.js?v=3.0.3.742863696158" data-turbo-eval="false" defer></script>
     <script type="text/javascript" src="../../resources/js/retype.js?v=3.0.3" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" type="text/javascript" src="../../resources/js/lunr.js?v=3.0.3.742863456279" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" type="text/javascript" src="../../resources/js/lunr.js?v=3.0.3.742863696158" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -296,7 +296,8 @@
 </li>
 </ol>
 </doc-tab>
-</doc-tabs>
+<doc-tab id="windows">
+<template #title>🖥 Windows</template>
 <ol>
 <li><p>Ve al menú Inicio → Panel de control.</p>
 </li>
@@ -329,10 +330,12 @@
 <div class="codeblock-wrapper"><doc-codeblock>
 <pre class="language-none"><code v-pre class="language-none">94.140.15.16</code></pre>
 </doc-codeblock></div>
-<doc-tabs>
+</doc-tab>
 <doc-tab id="otros-distpositivos">
 <template #title>Otros Distpositivos</template>
 <p>Para mas dispositivos e informacion mas clara ve a <a href="https://adguard-dns.io/es/public-dns.html">este link</a> y ve a la seccion de configuracion manual.</p>
+</doc-tab>
+</doc-tabs>
 <hr />
 <doc-anchor-target id="tutorial-con-dns-privada--personalización">
     <h2>
@@ -413,7 +416,6 @@
 </doc-panel>
 <p>Eso seria todo, ahora tus dispositivos estan seguros contra todo tipo de anuncios, malware, spyware, pishing, etc.</p>
 <hr />
-</doc-tab>
 
                                 
                                 <!-- Required only on API pages -->
