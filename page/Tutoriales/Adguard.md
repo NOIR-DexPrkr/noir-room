@@ -126,6 +126,7 @@ Controla todo el tráfico web en tus dispositivos, bloquea anuncios, rastreadore
 ===
 
 8. Una vez termines todo la lista debe verse como la del ejemplo a continuacion.
+> Ojo, algunos de los filtros bloquean paginas de programas crackeados y apps modificadas. Selecciona bien los filtros, la imagen de abajo solo es un ejemplo, no debes seleccionar todos los mostrados ahi.
 
 ==- Ver ejemplo de resultados      
 ![](https://i.postimg.cc/j5P9XYgs/2023-07-16-17-47-00.png)
