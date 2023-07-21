@@ -240,3 +240,34 @@ Todo lo que puedes hacer en la aplicacion:
 - Version Lite premium: 
 
 [!button variant="contrast" target="blank" size="xs" text="🎵 📃 WPS Office Lite"](https://liteapks.com/wps-office-lite.html)
+
+---
+
+### 7. 🎬 YouTube Revanced
+
+YouTube ReVanced es el regreso de una leyenda muy querida por los usuarios de todo el mundo, junto con muchas funciones únicas y superiores a las de su predecesor. Viene con toda la funcionalidad  premium para que puedas disfrutar de todo lo que hay en YouTube a tu estilo. Lo mejor de todo es la compatibilidad universal con cualquier dispositivo, esté o no rooteado.
+
+==- 📃 Caracteristicas
+
+Todo lo que puedes hacer en la aplicacion:   
+
+- Videos sin anuncios
+- Selecciona todas las calidades disponibles
+- Boton de dislikes
+- Saltate los intros, promociones en videos, silencios en canciones, etc.
+
+===
+
+#### Descarga
+
+**Version normal/lite:** 
+
+> Debes descargar la version premium o Premium/lite, y ademas MicroG para poder iniciar sesion.
+
+[!button variant="contrast" target="blank" size="xs" text="🎬 YouTube Revanced"](https://liteapks.com/youtube-revanced.html)
+
+!!! info Buffering Error Fix       
+Abre ajustes de la app `*Revanced Extended> Miscellaneous > Enable Protobuf Spoof.*`    
+Cambia esta opcion y reinicia youtube.
+
+!!!
