@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="turbo-root" content="/noir-room">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.0.3.743308494698">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.0.3.743355496768">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.0.3">
@@ -34,11 +34,11 @@
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("/noir-room/doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../../favicon.ico" rel="icon" />
-    <link href="../../resources/css/retype.css?v=3.0.3.743308494698" rel="stylesheet" />
+    <link href="../../resources/css/retype.css?v=3.0.3.743355496768" rel="stylesheet" />
 
-    <script type="text/javascript" src="../../resources/js/config.js?v=3.0.3.743308494698" data-turbo-eval="false" defer></script>
+    <script type="text/javascript" src="../../resources/js/config.js?v=3.0.3.743355496768" data-turbo-eval="false" defer></script>
     <script type="text/javascript" src="../../resources/js/retype.js?v=3.0.3" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" type="text/javascript" src="../../resources/js/lunr.js?v=3.0.3.743308494698" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" type="text/javascript" src="../../resources/js/lunr.js?v=3.0.3.743355496768" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -259,7 +259,19 @@
         <span>Activación</span>
     </h3>
 </doc-anchor-target>
-<p>Una vez instalado el office en tu pc debes descargar el siguiente script:</p>
+<p>Una vez instalado el office en tu pc tienes dos opciones para parchar</p>
+<doc-panels>
+   <doc-panel id="script-online" collapsed>
+       <template #title>🏷 Script online</template>
+<p>Abre powershell en windows como administrador y pega el siguiente codigo</p>
+<div class="codeblock-wrapper"><doc-codeblock>
+<pre class="language-none"><code v-pre class="language-none">irm https://massgrave.dev/get | iex</code></pre>
+</doc-codeblock></div>
+<p>Luego dale ENTER y listo.</p>
+   </doc-panel>
+   <doc-panel id="script-descargable" collapsed>
+       <template #title><span class="docs-emoji">&#x1F4DC;</span> Script descargable</template>
+<p>descargar el siguiente script:</p>
 <p><a href="https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip" target="_blank" class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-white dark:text-dark-850 bg-gray-900 dark:bg-white hover:bg-gray-600 dark:hover:bg-dark-300 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span>Script Activador</span>
 </a></p>
@@ -268,12 +280,15 @@
 <blockquote>
 <p>Ojo este archivo es completamente seguro. Si miran el link de descarga notarán que proviene de un repositorio de Github.</p>
 </blockquote>
+   </doc-panel>
+</doc-panels>
+<p>Asi se vera la ventana una vez hayas ejecutado cualquiera de los dos scripts.</p>
 <p><figure class="content-center">
     <img src="https://i.postimg.cc/7hXnwgdD/2023-05-23-19-11-03.png" alt="" />
     <figcaption class="caption"></figcaption>
 </figure>
 </p>
-<p>La ventana se verá algo así, y solo es cuestión de presionar el número 3, seleccionar office y luego darle a Y para empezar el proceso de activación.</p>
+<p>Solo es cuestión de presionar el número 3, seleccionar office y luego darle a Y para empezar el proceso de activación.</p>
 <p>Por último, solo deben entrar a cualquier app de office, introducir su correo y listo.</p>
 <p><em>Tendrán todas las opciones de Office365 activas incluyendo el autoguardado y las opciones administrativas en caso de que descarguen la versión empresa.</em></p>
 <hr />
