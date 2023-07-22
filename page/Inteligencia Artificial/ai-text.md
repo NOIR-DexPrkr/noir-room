@@ -24,17 +24,24 @@ order: 1699
 *Chatea y pide lo que desees a GPT. Este chat es hasta ahora el mas avanzado cuando hablamos de la forma en que responde. Esta desactualizado y solo da informacion hasta el 2021. Para acceder a la version reciente debes pagar.*
 
 ==- Similares a GPT
+
 - [!badge variant="contrast" text="🔷  BAI chat"](https://chatbot.theb.ai/)      
 - [!badge variant="contrast" text="🔷  ORA chat"](https://ora.sh/openai/chatgpt)    
-- [!badge variant="contrast" text="🔷  POE chat"](https://poe.com/)    
+- [!badge variant="contrast" text="🔷  POE chat"](https://poe.com/)  
+
 ==- Usalos en Whatsapp
+
 Generales:     
 - [!badge variant="contrast" text="🔷  ChatBling"](https://chatbling.net/)        
 - [!badge variant="contrast" text="🔷  Jinni chat"](https://www.askjinni.ai/)   
 - [!badge variant="contrast" text="🔷  PI chat"](https://wa.me/+13143331111)    
+
 Aceptan notas de voz:    
+> Puedes hacer incluso transcripciones
+
 - [!badge variant="contrast" text="⭐  LuzIA chat"](https://soyluzia.com/)    
 - [!badge variant="contrast" text="🔷  EVA chat"](https://wa.me/51961212715?text=Hola+EVA%21)  
+
 ===    
 
 - [!badge variant="contrast" text="🔷  Hugging Chat"](https://huggingface.co/chat/)          
