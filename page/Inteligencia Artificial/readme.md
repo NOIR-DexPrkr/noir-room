@@ -12,8 +12,7 @@ order: 1700
 
 **Todas las inteligencias artificiales en un mismo lugar.**
 
-> **¿Tienes una petición o duda durante el tutorial?**       
-> *Hazlo desde* [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
+> **Si necesitas algo mas y no esta aqui, visitame en** [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
 
 ---
 

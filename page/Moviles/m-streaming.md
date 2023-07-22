@@ -10,8 +10,7 @@ order: 1788
 
 ![](https://i.postimg.cc/wBJYW2rT/Header-Movil.png)
 
-> **¿Tienes una petición o duda durante el tutorial?**       
-> *Hazlo desde* [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
+> **Si necesitas algo mas y no esta aqui, visitame en** [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
 
 ---
 
