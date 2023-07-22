@@ -10,8 +10,11 @@ order: 1788
 
 ![](https://i.postimg.cc/wBJYW2rT/Header-Movil.png)
 
-> **¿Tienes una petición?**       
-> *Hazlo desde* [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) - [!badge variant="contrast" icon="people" text="Facebook"](https://www.facebook.com/dex.noir.room)
+> **¿Tienes una petición o duda durante el tutorial?**       
+> *Hazlo desde* [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
+
+---
+
 
 ## Peliculas y series
 

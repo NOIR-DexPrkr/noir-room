@@ -6,9 +6,11 @@ layout: default
 ---
 
 # IPTV - Television Online
-!!!info Este es un tutorial sin animo de lucro. Los sitios y descargas aquí son de total seguridad.
-Agradezco ser respetuoso y leer con cuidado los pasos.
-!!!
+
+> **¿Tienes una petición o duda durante el tutorial?**       
+> *Hazlo desde* [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
+
+---
 
 === **Que es IPTV y como funciona**
 La IPTV es la televisión por protocolo de Internet. Esto significa que los usuarios reciben programas de televisión a través de Internet en lugar de antenas, antenas parabólicas o cables de fibra óptica. En otras palabras, IPTV transmite contenido de video directamente a través de Internet. La IPTV transmite canales de televisión bajo demanda a una determinada dirección IP y reserva parte del ancho de banda de la conexión a Internet para la televisión.

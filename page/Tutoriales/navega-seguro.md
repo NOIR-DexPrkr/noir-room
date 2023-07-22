@@ -8,9 +8,9 @@ layout: default
 # Navega y descarga con seguridad
 
 ---
-!!!info Este es un tutorial sin animo de lucro. Los sitios y descargas aquí son de total seguridad.
-Agradezco ser respetuoso y leer con cuidado los pasos.
-!!!
+> **¿Tienes una petición o duda durante el tutorial?**       
+> *Hazlo desde* [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
+
 ---
 
 ## ¿Como se empieza?    
