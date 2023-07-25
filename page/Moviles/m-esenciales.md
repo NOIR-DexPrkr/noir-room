@@ -281,7 +281,7 @@ La GCam (abreviatura de Google Camera) es la aplicación de cámara utilizada en
 Todo lo que puedes hacer en la cámara:   
 
 - Cámara lenta: El vídeo a cámara lenta se puede capturar en la Cámara de Google a 120 o, en los dispositivos compatibles, a 240 fotogramas por segundo.
-- Panorámica: 
+- Panorámica.
 - Esfera fotográfica.
 - Retrato.
 - Zona de juegos.
@@ -311,7 +311,7 @@ Para la descarga, esta se hace desde el foro de GcamPort.
 
 > Si no te funcionaron las anteriores buscas tu version de telefono. [!button variant="contrast" target="blank" size="xs" text="📸 Por telefono"](https://www.celsoazevedo.com/files/android/google-camera/links/)     
 
-Ojo, en la seccion que categoriza por telefono, te llevara a diferentes foros, paginas o grupos de telegram donde puedes descargar la Gcam especifica y especialmente para tu celular. Es recomendado entrar a los grupos, que en su mayoria estan en ingles, pero tu solo entra y en los archivos busca las APK que comparten.
+Ojo, en la seccion que categoriza por telefono, te llevara a diferentes foros, paginas o grupos de telegram donde puedes descargar la Gcam especifica y especialmente para tu celular. Es recomendado entrar a los grupos de telegram, que en su mayoria estan en ingles, pero tu solo entra y en los archivos busca las APK que comparten. O bien puedes usar un telegram que traiga traduccion.
 
 *Si necesitas ayuda con esto, solo puedo guiarte desde mi discord, no ayudo a buscar la gcam por comentarios (solo respondo dudas por alla), tampoco por mensaje privado. Ve a mi canal de discord, y pide ayuda, solo por ahi con gusto ayudo, pues es mas facil y organizado para mi.*
 
