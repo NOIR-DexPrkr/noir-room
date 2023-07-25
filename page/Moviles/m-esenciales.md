@@ -269,3 +269,50 @@ Abre ajustes de la app `*Revanced Extended> Miscellaneous > Enable Protobuf Spoo
 Cambia esta opcion y reinicia youtube.
 
 !!!
+
+---
+
+### 8. 📸 GoogleCam
+
+La GCam (abreviatura de Google Camera) es la aplicación de cámara utilizada en los smartphones Pixel de Google, conocidos por la excelente calidad de sus cámaras. Con la ayuda de desarrolladores, la GCam puede instalarse ahora en una amplia gama de dispositivos Android, llevando las avanzadas capacidades de cámara de los Pixel a tu teléfono.
+
+==- 📃 Caracteristicas
+
+Todo lo que puedes hacer en la cámara:   
+
+- Cámara lenta: El vídeo a cámara lenta se puede capturar en la Cámara de Google a 120 o, en los dispositivos compatibles, a 240 fotogramas por segundo.
+- Panorámica: 
+- Esfera fotográfica.
+- Retrato.
+- Zona de juegos.
+- Google Lens.
+- Fotomatón.
+- Vista nocturna.
+- Algunas traen mucho mas.
+
+===
+
+#### Revisar si eres compatible
+
+Para saber si eres compatible con la app debes primero ver si tu telefono tiene Camera2Api.
+Que es eso? Pues, una extension o caracteristica de android que permite el control manual de cosas como el brillo, velocidad de toma, formato de imagen, etc.
+
+Descarga esta aplicacion: [Manual Camera Test](https://play.google.com/store/apps/details?id=pl.vipek.camera2_compatibility_test)
+
+Abrela y si te sale la mayoria del test en verde, entonces, si eres compatible.
+
+Necesitas tambien tener ARM64, que es la arquitectura del telefono. Para saber eso busca en google asi: `Cual es la arquitectura del "pones el nombre exacto de tu celular.` Y con eso debe bastar. En los resultados te saldra si es 64 o 32.
+
+#### Descarga
+
+Para la descarga, esta se hace desde el foro de GcamPort.
+
+> Esta es la seccion de camaras estables basadas en tu version de android. [!button variant="contrast" target="blank" size="xs" text="📸 Por version"](https://www.celsoazevedo.com/files/android/google-camera/dev-suggested/)
+
+> Si no te funcionaron las anteriores buscas tu version de telefono. [!button variant="contrast" target="blank" size="xs" text="📸 Por telefono"](https://www.celsoazevedo.com/files/android/google-camera/links/)     
+
+Ojo, en la seccion que categoriza por telefono, te llevara a diferentes foros, paginas o grupos de telegram donde puedes descargar la Gcam especifica y especialmente para tu celular. Es recomendado entrar a los grupos, que en su mayoria estan en ingles, pero tu solo entra y en los archivos busca las APK que comparten.
+
+*Si necesitas ayuda con esto, solo puedo guiarte desde mi discord, no ayudo a buscar la gcam por comentarios (solo respondo dudas por alla), tampoco por mensaje privado. Ve a mi canal de discord, y pide ayuda, solo por ahi con gusto ayudo, pues es mas facil y organizado para mi.*
+
+---
