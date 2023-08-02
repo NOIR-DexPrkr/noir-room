@@ -1,12 +1,12 @@
 ---
-label: Streaming
-title: Streaming
+label: Peliculas y Series
+title: Peliculas y Series
 icon: video
 layout: default
 order: 1788
 ---
 
-# Aplicaciones para streaming
+# Aplicaciones para streaming (Peliculasy series)
 
 ![](https://i.postimg.cc/wBJYW2rT/Header-Movil.png)
 
@@ -30,9 +30,4 @@ order: 1788
 *En ingles con subtitulos*
 
    
----
 
-## Musica
-
-- [!button variant="contrast" target="blank" size="xs" text="⭐  Netease"](https://drive.google.com/file/d/1Xn0kOD9LL53jLBRjAG2cMnG7Jqs17X7i/view?usp=sharing)     
-*Escucha musica en una app con un catalogo de musica inmenso. Contiene de todos los continentes y sin restricciones. Permite descargar pero en la calidad 156Kbs, para mayor calidad necesitas una cuenta enlazada.*
