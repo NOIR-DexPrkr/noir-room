@@ -111,14 +111,10 @@ Puedes seleccionar:
 - **Amoled Patched / Version Amoled parchada:** Esta es la version completamente oscura/negra con las funciones premium.
 - **Lite Patched / Version Mini parchada:** Esta es la version lite o mini de Spotify con premium.
 
-3. Escoque la arquitectura de tu celular e instala.
+3. Escoque la version mas reciente y si esa te da error, escoge una anterior.
 
-> No sabes cual es la arquitectura? bueno, no importa escoge ARMv7 y siesa no te sirve, ya sabes que es la otra XD.
+4. Eso es todo. Con eso tendras spotify premium.
 
-![opciones](https://imag.malavida.com/mvimgbig/download-fs/xmanager-31055-2.jpg)
-
-4. Eso es todo, fuerza el cierre de tu spotify y listo. Si no sabes hacerlo, reinicia tu telefono.     
-Con eso tendras spotify premium.
 
 ---
 
