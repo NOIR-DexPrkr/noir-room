@@ -16,26 +16,29 @@ order: 1787
 
 ## Streaming + Descarga Mp3/Flac
 
-- [!button variant="contrast" target="blank" size="xs" text="⭐  Netease"](https://drive.google.com/file/d/1Xn0kOD9LL53jLBRjAG2cMnG7Jqs17X7i/view?usp=sharing)  
+### Netease    
+[!button variant="contrast" target="blank" size="xs" text="⭐  Netease"](https://drive.google.com/file/d/1Xn0kOD9LL53jLBRjAG2cMnG7Jqs17X7i/view?usp=sharing)  
 
 *Escucha musica en una app con un catalogo de musica inmenso. Contiene de todos los continentes y sin restricciones. Permite descargar pero en la calidad 156Kbs, para mayor calidad necesitas una cuenta enlazada.*
 
-- [!button variant="contrast" target="blank" size="xs" text="🔷  Fildo"](https://fildo.net/android/en/#downloadSection)     
+### Fildo    
+[!button variant="contrast" target="blank" size="xs" text="🔷  Fildo"](https://fildo.net/android/en/#downloadSection)     
 
 *Fildo es un buscador de musica que te permite escuchar y descargar las canciones desde distintas fuentes. Tiene para descarga en varias calidades dependiendo las fuentes (Netease, Huawei Music, etc).*
 
 ## Streaming + Descaga inApp
 
-- [!button variant="contrast" target="blank" size="xs" text="⭐  Deezer"](https://liteapks.com/deezer.html)      
+### Deezer
+[!button variant="contrast" target="blank" size="xs" text="⭐  Deezer"](https://liteapks.com/deezer.html)      
 
-*Deezer, es una de las mejores apps para escuchar musica, y de los rivales mas grandes de Spotify. Con esta version podras escuchar y descargar musica para escuchar offline desde la aplicacion.
-Actualmente Deezer ya no es valida en muchos paises, y las versiones MOD recientes solo evitan que te cierren tu sesion al entrar.
-Si la version de arriba te causa problemas, y solo si te causa problemas. 
-Usa la version `7.0.7.54`.
+*Deezer, es una de las mejores apps para escuchar musica, y de los rivales mas grandes de Spotify. Con esta version podras escuchar y descargar musica para escuchar offline desde la aplicacion.      
+Actualmente Deezer ya no es valida en muchos paises, y las versiones MOD recientes solo evitan que te cierren tu sesion al entrar.      
+Si la version de arriba te causa problemas, y solo si te causa problemas, usa la version `7.0.7.54`.*
 
-- [!button variant="contrast" target="blank" size="xs" text="⭐  TIDAL"](https://www.xmanagerapp.com/)     
+### TIDAL    
+[!button variant="contrast" target="blank" size="xs" text="⭐  TIDAL"](https://www.xmanagerapp.com/)     
 
-*Antes de descargar e instalar TIDAL necesitas primero leer estas intrucciones con atencion.
+*Antes de descargar e instalar TIDAL necesitas primero leer estas intrucciones con atencion.*
 
 ==- Instrucciones 👇    
 
