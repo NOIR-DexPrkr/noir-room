@@ -69,6 +69,7 @@ Esa es TIDAL, instalala.
 ---
 
 !!! ¿Quieres spotify?
-Obten spotify pero sin opcion de descarga y con todas las demas funciones [premium aqui!](#spotify-premium.md)
+Obten spotify pero sin opcion de descarga y con todas las demas funciones premium aqui!     
+[!ref](/tutoriales/#spotify-premium.md)
 
 ---
