@@ -54,7 +54,7 @@ Ahora, si ya viste las intrucciones, descarga la app desde el boton de arriba, s
 Esa es TIDAL, instalala.
 
 
--,Al abrir la app crea una cuenta y selecciona el plan FREE.
+- Al abrir la app crea una cuenta (sign up / register) y selecciona el plan FREE.
 
 - Termina de configurar la cuenta y una vez este listo todo, puedes desconectar la VPN.
 
