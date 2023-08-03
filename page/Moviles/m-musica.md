@@ -17,7 +17,7 @@ order: 1787
 ## Streaming + Descarga Mp3/Flac
 
 ### Netease    
-[!button variant="contrast" target="blank" size="xs" text="⭐  Descarga Netease"](https://drive.google.com/file/d/1Xn0kOD9LL53jLBRjAG2cMnG7Jqs17X7i/view?usp=sharing)  
+[!button variant="contrast" target="blank" size="xs" text="⭐  Descarga Netease"](https://anonfiles.com/F9sfaa66zb/Netease_6_0_0_xpatch_Espa_ol_apk)  
 
 *Escucha musica en una app con un catalogo de musica inmenso. Contiene de todos los continentes y sin restricciones. Permite descargar pero en la calidad 156Kbs, para mayor calidad necesitas una cuenta enlazada.*
 
