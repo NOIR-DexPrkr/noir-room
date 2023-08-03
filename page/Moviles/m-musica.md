@@ -45,7 +45,7 @@ order: 1787
 ### TIDAL    
 [!button variant="contrast" target="blank" size="xs" text="⭐  Descarga TIDAL"](https://www.xmanagerapp.com/)     
 
-TIDAL es uno si no el mejor servicio de música actual, tiene funciones y características muy sobresalientes.
+TIDAL es uno,si no el mejor, de los servicios de música actual, tiene funciones y características muy sobresalientes.
 Las necesarias para disfrutar de la música sin limites.
 
 *Antes de descargar e instalar TIDAL necesitas primero leer estas intrucciones con atencion.*
