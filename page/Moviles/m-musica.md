@@ -42,30 +42,23 @@ Las versiones compartidas aqui son las ultimas funcionales, la ultima beta y la 
 
 ==- Instrucciones 👇    
 
-1. Descarga o instala este VPN en tu celular / navegador.
-
-- [Extension de Chrome](https://chrome.google.com/webstore/detail/tunnelbear-vpn/omdakjcmkglenbhjadbccaookpfjihpa)   
-
-- [Extension Firefox](https://addons.mozilla.org/en-US/firefox/addon/tunnelbear-vpn-firefox/)
+1. Descarga o instala este VPN en tu celular.
 
 - [App android](https://play.google.com/store/apps/details?id=com.tunnelbear.android&hl=en&gl=US)     
 
 2. Crea la cuenta que te dara 2GB gratuitos. No los usaremos todos, es solo porque es un VPN confiable para lo que haremos.
-
-3. Entra a la web de TIDAL y create una cuenta usando el VPN en el Pais Estados Unidos.
-
-- [Web TIDAL](https://tidal.com/try-now)
-
-4. Al crear la cuenta usa el plan FREE o Gratis.
-
-5. Termina de configurar la cuenta y una vez este listo todo, puedes desconectar la VPN.
 
 ===
 
 Ahora, si ya viste las intrucciones, descarga la app desde el boton de arriba, se descargara X-manager, esta app nos ayudara de manera segura a instalar TIDAL. En Xmanager en la seccion en azul que dice Wave.
 Esa es TIDAL, instalala.
 
-- Abre la aplicacion en tu celular, ingresa con la cuenta que creaste. *Ya no sera necesario tener la VPN activa.*
+
+-,Al abrir la app crea una cuenta y selecciona el plan FREE.
+
+- Termina de configurar la cuenta y una vez este listo todo, puedes desconectar la VPN.
+
+*Luego de crear la cuenta ya no sera necesario tener la VPN activa.*
 
 - Eso es todo, disfruta de TIDAL.
 
