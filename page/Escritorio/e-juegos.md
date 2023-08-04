@@ -35,13 +35,15 @@ Descarga sus versiones a continuación:
 ##### Instalación 
 
 1. Abrimos el CD1 y le damos al start.exe 
-> (Si tienes windows 10, no necesitaras programas extra. Si tienes una version anterior, necesitas [DaemonTool](https://www.daemon-tools.cc/spa/products/dtLite))     
+> Si tienes windows 10, no necesitaras programas extra. Si tienes una version anterior, necesitas [DaemonTool](https://www.daemon-tools.cc/spa/products/dtLite)        
+
 2. Seleccionamos idioma, le damos en instalas los Sims y seguimos las instrucciones de instalación.
 3. Cuando pida el serial puedes buscarlo en la carpeta llamada Crack y Serial.
 4. Continua con la instalación, quizás se quede atascado en 24% pero solo ten paciencia.
 5. Cuando te pida insertar el disco 2, primero expulsa el disco 1, abre el disco 2 y continua.
 6. Una vez finalice te pedirá volver a insertar el disco 2. Para eso expulsa 2 primero.
-> Si te sale que puede no ser el disco correcto, expúlsalo y vuelves a abrirlo. Si no, obvia este mensaje.     
+> Si te sale que puede no ser el disco correcto, expúlsalo y vuelves a abrirlo. Si no, obvia este mensaje.   
+
 7. Por ultimo dale en registrar luego, una vez termine la instalación dale finalizar y salir.
 
 ##### Parche
@@ -66,11 +68,14 @@ En español
 1. Extraemos ambos .rar de la siguiente manera: Los movemos a una misma carpeta y seleccionamos la parte 1 y descomprimimos. Eso es todo, se descomprimirá la 2 automaticamente.
 2. Nos queda una carpeta donde lo primero que debemos hacer antes de ejecutar el archivo "Setup.exe" asegurarnos que el antivirus no borre ese archivo, en caso de que suceda.
 > Tambien es importante borrar cualquier carpeta de Los Sims 2 que tengas, si lo has instalado anteriormente en tu PC.
+
 3. Abrimos la carpeta Redist y ejecutamos el archivo adentro. Esto nos va a instalar el directX necesario para abrir el juego.
 > En la instalacion evita seleccionar "instalar barra de Bing".
+
 4. Ejecutamos el setup. No te asustes con la musica XD
 5. Dale en Configure y cambia la ruta de instalación. Puedes instalarlo donde desees.
 > Recomiendo cambiar la parte de "DJ Repack" por "Electronic Arts" en la ruta de instalación que te muestra al configurar.
+
 6. Damos next en la parte de arriba, hasta que nos salga install. (puedes deseleccionar directx pues ya lo instalamos antes.)
 7. Esperamos....
 8. Una vez termine damos en finish.
