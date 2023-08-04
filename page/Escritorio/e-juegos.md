@@ -1,7 +1,7 @@
 ---
 label: Juegos
 title: Colección de Juegos
-icon: play
+icon: trophy
 layout: default
 order: 1897
 ---
