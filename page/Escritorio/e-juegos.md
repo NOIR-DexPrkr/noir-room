@@ -26,11 +26,11 @@ Descarga sus versiones a continuación:
 
 > Buscas para android?
 
-> [Sims 3](https://drive.google.com/file/d/1g-pJjAP8xZJUKtoSIF1PFD2v_iP8VjnT/view?usp=sharing)
+> [Sims 3](https://drive.google.com/file/d/1g-pJjAP8xZJUKtoSIF1PFD2v_iP8VjnT/view?usp=sharing) *Se copia la carpeta en "android/obb" y se instala el apk después.*
 
-> [Sims Mobile mod](https://liteapks.com/download/the-sims-mobile-14600) *El mod de activa comprando un mueble cualquiera luego del tutorial)
+> [Sims Mobile mod](https://liteapks.com/download/the-sims-mobile-14600) *El mod de activa comprando un mueble cualquiera luego del tutorial.*
 
-> [Sims Free to Play](https://liteapks.com/download/the-sims-freeplay-15127)
+> [Sims Free to Play](https://liteapks.com/download/the-sims-freeplay-15127) *Solo entras y todo está gratis. Hay dos versiones del mod. Una con dinero ilimitado, y otra con eso más vip.*
 
 ---
 
