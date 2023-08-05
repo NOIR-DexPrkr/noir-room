@@ -24,7 +24,14 @@ Descarga sus versiones a continuación:
 
 > Los sims 3 y 4 son magnets, por lo que necesitas [este programa](https://www.freedownloadmanager.org/es/) y [esta extension](https://chrome.google.com/webstore/detail/free-download-manager-chr/ahmpjcflkgiildlgicmcieglgoilbfdp/RK%3D2/RS%3DfQzscgKGm9aMezJJ7Gf2Fcc.JSo-) para bajarlos. Pues pesan bastante.
 
-> Buscas para android? Usa mi [buscador de juegos android](https://cse.google.com/cse?cx=660831ba151944e87#gsc.tab=0)
+> Buscas para android?
+> [Sims 3](https://drive.google.com/file/d/1g-pJjAP8xZJUKtoSIF1PFD2v_iP8VjnT/view?usp=sharing)
+
+> [Sims Mobile mod](https://liteapks.com/download/the-sims-mobile-14600) *El mod de activa comprando un mueble cualquiera luego del tutorial)
+
+> [Sims Free to Play](https://liteapks.com/download/the-sims-freeplay-15127)
+
+---
 
 ### Sims 1
 
