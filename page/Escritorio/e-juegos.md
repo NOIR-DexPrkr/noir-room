@@ -131,6 +131,7 @@ y reemplaza el archivo con el mismo nombre.
 - No cambies la ruta de descarga.
 - Se paciente, pues la instalacion puede tardar.
 - Si te sale error de que falta un archivo, tu antivirus seguro lo borro.
+- Si te sale error 404, desactiva la instalacion de directx y net. en el instalador de fitgirl.
 - Si tienes algun otro problema, recuerda visitar el discord. Esta al inicio de la pagina.
 
 ===
@@ -149,6 +150,7 @@ y reemplaza el archivo con el mismo nombre.
 - No cambies la ruta de descarga.
 - Se paciente, pues la instalacion puede tardar.
 - Si te sale error de que falta un archivo, tu antivirus seguro lo borro.
+- Si te sale error 404, desactiva la instalacion de directx y net. en el instalador de fitgirl.
 - Si tienes algun otro problema visita [ESTE LINK](https://www-reddit-com.translate.goog/r/CrackSupport/comments/eskpgu/the_sims_4_troubleshooting_guide/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en&_x_tr_pto=wapp) y mira que lo hayan anotado ahi con su solucion.
 - Si no encontraste tu solucion ahi, recuerda visitar el discord. Esta al inicio de la pagina.
 
