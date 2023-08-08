@@ -127,7 +127,7 @@ y reemplaza el archivo con el mismo nombre.
 - Solo debes descargar el archivo y una vez termine seguir los pasos de instalacion de Setup.
 - Si tienes problemas instalando, instala Net.framework 3.5 de windows.
 - Si tienes errores al abrir el instalador, igualmente.
-- No selecciones instalar DirectX ni NET. durante la instalación.
+- No selecciones instalar DirectX ni los C++ durante la instalación, puede darte error 404.
 - No cambies la ruta de descarga.
 - Se paciente, pues la instalacion puede tardar.
 - Si te sale error de que falta un archivo, tu antivirus seguro lo borro.
@@ -145,7 +145,7 @@ y reemplaza el archivo con el mismo nombre.
 - Solo debes descargar el archivo y una vez termine seguir los pasos de instalacion de Setup.
 - Si tienes problemas instalando, instala Net.framework 3.5 de windows.
 - Si tienes errores al abrir el instalador, igualmente.
-- No selecciones instalar DirectX ni NET. durante la instalación.
+- No selecciones instalar DirectX ni los C++ durante la instalación, puede darte error 404.
 - No cambies la ruta de descarga.
 - Se paciente, pues la instalacion puede tardar.
 - Si te sale error de que falta un archivo, tu antivirus seguro lo borro.
