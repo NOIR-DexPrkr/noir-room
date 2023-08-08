@@ -21,3 +21,17 @@ order: 1899
 
 - [!badge target="blank" variant="contrast" text="⭐  Photoshop"](https://noiroom.dexco.workers.dev/tutoriales/adobecc/#programas-parchados-para-doomies)     
 *Te lleva al tutorial que te permitira descargar cualquier version de photoshop que desees.*
+
+### Editores de video
+
+*Editores de video faciles de usar y con herramientas utiles para casi toda situacion.*       
+
+- [!badge target="blank" variant="contrast" text="⭐  CapCut"](https://filecr.com/windows/capcut/?id=010347713000)
+
+- [!badge target="blank" variant="contrast" text="⭐  Filmora X"](https://filecr.com/windows/filmorax-12/?id=425224225000)
+
+- [!badge target="blank" variant="contrast" text="🔷  PowerDirector"](https://filecr.com/windows/cyberlink-powerdirector/?id=844623090000)
+
+- [!badge target="blank" variant="contrast" text="🔷  Davinci Resolve"](https://www.blackmagicdesign.com/products/davinciresolve)
+
+> [Versiones android](/moviles/m-diseño.md)

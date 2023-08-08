@@ -3,7 +3,7 @@ label: Esenciales
 title: Esenciales
 icon: heart-fill
 layout: default
-order: 1789
+order: 1788
 ---
 
 # Aplicaciones esenciales para tu celular

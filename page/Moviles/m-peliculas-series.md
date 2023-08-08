@@ -3,7 +3,7 @@ label: Peliculas y Series
 title: Peliculas y Series
 icon: video
 layout: default
-order: 1788
+order: 1786
 ---
 
 # Aplicaciones para streaming (Peliculasy series)
