@@ -9,7 +9,7 @@ order: 1789
 
 ## Aplicaciones para diseño:
 
-![](https://i.postimg.cc/nhtTt1RP/Header-PC.png)
+![](https://i.postimg.cc/wBJYW2rT/Header-Movil.png)
 
 > **Si necesitas algo mas y no esta aqui, visitame en** [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
 ---
