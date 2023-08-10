@@ -316,3 +316,24 @@ Ojo, en la seccion que categoriza por telefono, te llevara a diferentes foros, p
 *Si necesitas ayuda con esto, solo puedo guiarte desde mi discord, no ayudo a buscar la gcam por comentarios (solo respondo dudas por alla), tampoco por mensaje privado. Ve a mi canal de discord, y pide ayuda, solo por ahi con gusto ayudo, pues es mas facil y organizado para mi.*
 
 ---
+### 9. 🗺 Lawnchair
+
+Launcher personalizable, simple y bonito. Esta basado en el launcher de Google Pixel pero con mejor personalizacion y mas opciones.
+Es un launcher que debes probar si o si.
+
+==- 📃 Caracteristicas
+
+Todo lo que puedes hacer en la aplicacion:   
+
+- Compatibilidad con gestos
+- Siempre actualizado a la par de Pixel Launcher
+- Gran personalizacion.
+
+===
+
+#### Descarga
+
+[!button variant="contrast" target="blank" size="xs" text="🗺 Lawnchair"](https://lawnchair.app/)
+
+
+---
