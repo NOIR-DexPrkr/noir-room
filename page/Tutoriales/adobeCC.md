@@ -50,15 +50,23 @@ Es el programa líder para edición de audio. En su mayoría se utiliza para pro
  
 9. **Adobe Animate:**
 Es un programa de animación de vectores, el cual permite dar movimiento a distintos gráficos vectoriales por medio de un lenguaje de programación. Este programa es ideal para darle vida o movimiento a las ilustraciones 2D que se pueden crear en Illustrator o Photoshop. 
- ===
+
+===
+ 
 ---
 
 ## Opciones de Instalación
 
+Si solo quieres descargar e instalar el programa sin mucho lio, recomiendo la opcion facil.      
+
+Las opciones Experto e intermedio estan pensados para las personas que no confian en los repacks, programas pre-registrados, o en esta pagina. Todo lo necesario para que salga perfecta la instalacion esta en las intrucciones. Por lo ranto, evita preguntar cosas que ya estan aqui, sigue al pie de la letra cada consejo.
+
 - [!badge variant="danger" text="**Nivel Experto:** Usando Creative Cloud."](#creative-cloud---instalador-de-adobe)
 - [!badge variant="warning" text="**Nivel Intermedio:** Usando el Instalador Offline de cada programa."](#sin-creative-cloud---programas-descargables)
-- [!badge variant="success" text="**Nivel Facil:** Usando instaladores ya parchados y listos para ejecutar."](#programas-parchados-para-doomies)
-- *Si solo vienes por el photoshop con inteligencia artificial es el primero de la seccion de Dommies.*
+- [!badge variant="success" text="**Nivel Facil:** Usando instaladores ya parchados y listos para ejecutar."](/tutoriales/adobeprograms.md)
+- *Si solo vienes por el photoshop con inteligencia artificial la facil es tu mejor opcion.*
+
+---
 
 === **Archivos necesarios para las opciones Experto e Intermedio:**
 +++ **GenP v3.0** 
@@ -71,6 +79,7 @@ Es un programa de animación de vectores, el cual permite dar movimiento a disti
 [!button variant="success" target="blank" corners="pill" text="Descargar"](https://github.com/eaaasun/CCStopper/releases/download/v1.2.2/CCStopper.zip) 
 
 +++
+
 ===
 
 ---
@@ -251,59 +260,4 @@ Si deseas usar estos filtros puedes iniciar sesion desde la seccion de `ayuda > 
 
 
 ---
-
-## Programas parchados para Doomies.
-
-> Escoge cualquiera de las siguientes opciones para instalar, no necesita configuracion. Solo instalas y listo.
-
-
-Quizas vienes por photoshop 2023 con los filtros de IA... abre la ventana de abajo.
-
-==- Abreme 👀
-
-[!badge corners="pill" target="blank" text="Photoshop CC 2023"](https://filecr.com/windows/adobe-photoshop-2023-0061/?id=936829400000)     
-*Una vez en la pagina, mira a la derecha y veras los links de descarga. Selecciona `Adobe Photoshop` y luego descarga directa o torrent.     
-Una vez descargues dale a `Firefly AI Support` y descarga ese tambien.
-
-##### **Pasos a seguir**
-
-- Si usaste la descarga directa, descomprime el archivo.
-- Si usaste torrent no es necesario, asi que continua...
-- Ve a la carpeta y da doble click al archivo .ISO *`Los otros archivos son para comprobar si los programas son originales o fueron modificados, ya revise todo, asi que con confianza sigue los pasos.`*
-- Dale click derecho al archivo `autoplay.exe` y ejecutalo como administrador. (si no quieres, no, pero es recomendado.)
-- Una vez termine la instalacion, abre Photoshop y ve a `Ayuda > Iniciar sesion` o `Help > Login`
-- Luego descomprime el el firefly AI support `contraseña es 123` y ejecutalo como administrador.
-- Espera que termine de parchar los filtros y listo.
-
-!!!danger
-Ojo este photoshop requiere de una computadora muy potente, si tienes un computador de bajos recursos o medianos, usa las versiones antiguas. Recomendadas la 2021.
-!!!
-
-===
-
-+++ 🔵Photoshop     
-Para las versiones la contraseña de todos es: `www.artistapirata.com`     
-      
-[!badge target="blank" corners="pill" text="CC 2022"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2Fyp0f1r4j0d6r21b%2FWIN_APS_V23.5.0.669_AP_ZNT.rar%2Ffile%3Asa9zMJb198iceDCybhEHp-TnIXw&cuid=4208103)       
-[!badge target="blank" corners="pill" text="CC 2021"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2Fkew510adp462kyy%2FWIN_APS_V22.5.8.998_AP_ZNT.rar%2Ffile%3AGU54grbZPWIMzy-XsSUD0g0pWho&cuid=4208103)      
-[!badge target="blank" corners="pill" text="CC 2020"](http://disq.us/url?url=http%3A%2F%2Fwww.mediafire.com%2Ffile%2F732cz8arne5nlda%2FPSCC2K21.21.2.4.WIN.AP.ZNT.rar%3AKFIXEo7XoBONQly5Bs_BOWP-CAE&cuid=4208103)      
-[!badge target="blank" corners="pill" text="CC 2019"](http://disq.us/url?url=http%3A%2F%2Fwww.mediafire.com%2Ffile%2Fos10tbcyzp1khd3%2FWIN_APS_2K19_V20_AP_ZNT.rar%2Ffile%3ACIztKcBJmhs6bA_bgUfqev_zNs0&cuid=4208103)        
-[!badge target="blank" corners="pill" text="CC 2018"](http://disq.us/url?url=http%3A%2F%2Fbit.ly%2F2DsSPcR%3A__bJC5iOIXVUl3VXXU9WwDrCUUI&cuid=4208103)
-
-+++ 🟠Illustrator
-Para las versiones la contraseña de todos es: `www.artistapirata.com`      
-
-[!badge variant="warning" target="blank" corners="pill" text="CC 2023"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2F5rl1r0jq3yxqa8n%2FWIN_AAI_V27.1.0.189_AP_ZNT.rar%2Ffile%3ACeK6gVRz3AAB-9xzySKqvv1IYrs&cuid=4208103)     
-[!badge variant="warning" target="blank" corners="pill" text="CC 2022"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2Fr4pb4iocxtmkapm%2FWIN_AAI_V26.5.0.223_AP_ZNT.rar%2Ffile%3AtybK_260rmaooXQoz93gntZBRY8&cuid=4208103)       
-[!badge variant="warning" target="blank" corners="pill" text="CC 2021"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2Fmma6fhd8bcbmbkw%2FWIN_AAI_V25.4.1.498_AP_ZNT.rar%2Ffile%3A4Cxz7nNNTniZonVn6oz1Edklp9A&cuid=4208103)       
-[!badge variant="warning" target="blank" corners="pill" text="CC 2020"](http://disq.us/url?url=http%3A%2F%2Fwww.mediafire.com%2Ffile%2Fg7sgg5fmjamqjrl%2FAI24.3.0.WIN.AP.ZNT.rar%2Ffile%3AkmpvK5tWrbBH7fSVniMMpT5ojSU&cuid=4208103)        
-[!badge variant="warning" target="blank" corners="pill" text="CC 2019"](http://disq.us/url?url=http%3A%2F%2Fwww.mediafire.com%2Ffile%2F2dl03gyj62tknn8%2FWIN_AI_2K19_V23.1_AP_ZNT.rar%2Ffile%3A38QUK9JDZ7dXDpZ-zsqGTYYhnlE&cuid=4208103)       
-
-+++ 🟢Otros
-Otros programas encuentralos en [Artista Pirata](https://www.artistapirata.com/){target="blank" }
-+++
-
-
-!!!success Eso sería todo, si tienes alguna duda puedes preguntar en el grupo o [pagina](https://www.facebook.com/dex.noir.room){target="blank" } y con gusto responderé.
-!!!
 
