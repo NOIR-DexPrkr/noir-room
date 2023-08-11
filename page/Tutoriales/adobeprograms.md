@@ -106,7 +106,7 @@ Ojo este photoshop requiere de una computadora muy potente, si tienes un computa
 
 Estos programas acontinuación vienen parchados, preactivados y listos para usar. Es recomendado bloquear los .exe de cada programa una vez los instales usando el firewall de windows. [Mira como se hace aqui](https://www.xataka.com/basics/como-bloquear-el-acceso-a-internet-a-una-aplicacion-con-el-firewall-de-windows#:~:text=Bloquear%20el%20acceso%20a%20Internet%20de%20una%20aplicación%20que%20ya,acceso%20a%20Internet%20por%20completo.)
 
-+++ 🟦 Photoshop     
+==- 🟦 Photoshop     
 Para las versiones la contraseña de todos es: `www.artistapirata.com`       
       
 [!badge target="blank" corners="pill" text="CC 2023"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2Fvxho87az9vftx32%2FWIN_APR_V23.5.0.56_AP_ZNT.rar%2Ffile%3Aptw6JuFzPinQZqxuyBcDLTNuP3c&cuid=4208103)        
@@ -117,7 +117,7 @@ Para las versiones la contraseña de todos es: `www.artistapirata.com`
 [!badge target="blank" corners="pill" text="CC 2019"](http://disq.us/url?url=http%3A%2F%2Fwww.mediafire.com%2Ffile%2Fos10tbcyzp1khd3%2FWIN_APS_2K19_V20_AP_ZNT.rar%2Ffile%3ACIztKcBJmhs6bA_bgUfqev_zNs0&cuid=4208103)               
 [!badge target="blank" corners="pill" text="CC 2018"](http://disq.us/url?url=http%3A%2F%2Fbit.ly%2F2DsSPcR%3A__bJC5iOIXVUl3VXXU9WwDrCUUI&cuid=4208103)
 
-+++ 🟧 Illustrator
+==- 🟧 Illustrator
 Para las versiones la contraseña de todos es: `www.artistapirata.com`       
 
 [!badge variant="warning" target="blank" corners="pill" text="CC 2023"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2F5rl1r0jq3yxqa8n%2FWIN_AAI_V27.1.0.189_AP_ZNT.rar%2Ffile%3ACeK6gVRz3AAB-9xzySKqvv1IYrs&cuid=4208103)        
@@ -129,7 +129,7 @@ Para las versiones la contraseña de todos es: `www.artistapirata.com`
 [!badge variant="warning" target="blank" corners="pill" text="CC 2020"](http://disq.us/url?url=http%3A%2F%2Fwww.mediafire.com%2Ffile%2Fg7sgg5fmjamqjrl%2FAI24.3.0.WIN.AP.ZNT.rar%2Ffile%3AkmpvK5tWrbBH7fSVniMMpT5ojSU&cuid=4208103)      
 [!badge variant="warning" target="blank" corners="pill" text="CC 2019"](http://disq.us/url?url=http%3A%2F%2Fwww.mediafire.com%2Ffile%2F2dl03gyj62tknn8%2FWIN_AI_2K19_V23.1_AP_ZNT.rar%2Ffile%3A38QUK9JDZ7dXDpZ-zsqGTYYhnlE&cuid=4208103)       
 
-+++ 🟪 Premiere Pro
+==- 🟪 Premiere Pro
 Para las versiones la contraseña de todos es: `www.artistapirata.com`       
 
 [!badge target="blank" corners="pill" text="CC 2023"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2Fvxho87az9vftx32%2FWIN_APR_V23.5.0.56_AP_ZNT.rar%2Ffile%3Aptw6JuFzPinQZqxuyBcDLTNuP3c&cuid=4208103)       
@@ -140,7 +140,7 @@ Para las versiones la contraseña de todos es: `www.artistapirata.com`
 
 [!badge target="blank" corners="pill" text="CC 2020"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2Fhcjo00k3pqyx2xv%2FWIN_APP_V14.9.0.52_AP_ZNT.rar%2Ffile%3A7Ka5YX9QP6TOfgeywkQR7Ht9S5M&cuid=4208103)
 
-+++ ⬛ After Effects
+==- ⬛ After Effects
 Para las versiones la contraseña de todos es: `www.artistapirata.com`      
 
 [!badge variant="contrast" target="blank" corners="pill" text="CC 2023"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2Fohfv2ixhcjsdmsc%2FWIN_AAE_V23.5.0.52_AP_ZNT.rar%2Ffile%3AfUbiPHY2UqCRNTbUai3I8kHIgQ4&cuid=4208103)       
@@ -153,7 +153,7 @@ Para las versiones la contraseña de todos es: `www.artistapirata.com`
 
 [!badge variant="contrast" target="blank" corners="pill" text="CC 2019"](https://disq.us/url?url=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1NaWnqz9AEVsEyXQDkMc8hV6w1DECwkT6%2Fview%3ASCaCYssF9mfMiF3LV5v4PcWqUCA&cuid=4208103)
 
-+++ 🟥 InDesign
+==- 🟥 InDesign
 Para las versiones la contraseña de todos es: `www.artistapirata.com`      
 
 [!badge variant="danger" target="blank" corners="pill" text="CC 2023"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile_premium%2Fafnyqvp3sop09b0%2FWIN_AID_V18.5.0.57_AP_ZNT.rar%2Ffile%3AhUpdmYFPPWTjVIKN5xktG_Ys0ME&cuid=4208103)        
@@ -164,12 +164,12 @@ Para las versiones la contraseña de todos es: `www.artistapirata.com`
 
 [!badge variant="danger" target="blank" corners="pill" text="CC 2020"](http://disq.us/url?url=http%3A%2F%2Fwww.mediafire.com%2Ffile%2Fxi8ye7vb5oqafuv%2FID2K20.15.1.2.WIN.AP.ZNT.rar%2Ffile%3A2Ntdg9wjCyHi-5pVLzzYG5Vj5aY&cuid=4208103)
 
-+++ 🟥 Acrobar Reader
+==- 🟥 Acrobar Reader
 Para las versiones la contraseña de todos es: `www.artistapirata.com`      
 
 [!badge variant="danger" target="blank" corners="pill" text="CC 2023"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2Ftfogsmbw95lf661%2FWIN_AADC_V2023.003.20244_AP_ZNT.rar%2Ffile%3AOiFQ16N7Utbu5QvbOpH-A8w2PI4&cuid=4208103)
 
-+++ 🟪 Audition
+==- 🟪 Audition
 Para las versiones la contraseña de todos es: `www.artistapirata.com`        
 
 [!badge target="blank" corners="pill" text="CC 2023"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2Fz3kb0pbnpynkfjy%2FWIN_AAU_V23.5.0.48_AP_ZNT.rar%2Ffile%3AvSJqu-lQsv6IWA0MT8lHFJ0NjUk&cuid=4208103)       
@@ -181,14 +181,16 @@ Para las versiones la contraseña de todos es: `www.artistapirata.com`
 [!badge target="blank" corners="pill" text="CC 2020"](http://disq.us/url?url=http%3A%2F%2Fwww.mediafire.com%2Ffile%2F68jkuwwkilj77a9%2FWIN_AAU_2K21_V13_AP_ZNT.rar%2Ffile%3ADpwvlA5vRIui2NG4mXjNeOyMCAQ&cuid=4208103)       
 [!badge target="blank" corners="pill" text="CC 2019"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2Foxy5tc86uw6cksh%2FAUD.CC.2K19.12.1.3.10.WIN.AP.ZENTINELS.rar%2Ffile%3AkX8H7R7gHTLITVce_Ft6_pDXa9Y&cuid=4208103)
 
-+++ 🟦 Animate
+==- 🟦 Animate
 Para las versiones la contraseña de todos es: `www.artistapirata.com`       
 
 [!badge variant="warning" target="blank" corners="pill" text="CC 2023"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile_premium%2Fl8b5rykunq7daub%2FWIN_AAN_V23.0.2.103_AP_ZNT.rar%2Ffile%3A89PqTt1cpo7nnUyoS_HNLUnIm74&cuid=4208103)
 
-+++ 👀 Otro? 
+==- 👀 Otro? 
 
 Para encontrar otros programas de Adobe puedes entrar a esta pagina: [PAGINA PARA BAJAR OTROS PROGRAMAS](https://www.artistapirata.com/?s=adobe)
+
+===
 
 ---
 
