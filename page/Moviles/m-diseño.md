@@ -18,12 +18,15 @@ order: 1789
 
 *Editores de video faciles de usar y con herramientas utiles para casi toda situacion.*      
 
-- [!badge target="blank" variant="contrast" text="⭐  CapCut"](https://modyolo.com/capcut-video-editor.html)
-
-- [!badge target="blank" variant="contrast" text="⭐  Kinemaster"](https://modyolo.com/kinemaster-pro.html)
+- [!badge target="blank" variant="contrast" text="⭐  Kinemaster"](https://modyolo.com/kinemaster-pro.html)      
+*Recomendada.*
 
 - [!badge target="blank" variant="contrast" text="🔷  Filmora Go"](https://liteapks.com/download/filmorago-854)
 
 - [!badge target="blank" variant="contrast" text="🔷  PowerDirector"](https://modyolo.com/powerdirector.html)
+
+- [!badge target="blank" variant="contrast" text="⭐  CapCut"](https://modyolo.com/capcut-video-editor.html)     
+*No recomendada por mi, pero pedida por muchos.*
+
 
 > [Versiones Windows](/Escritorio/e-diseño.md)
