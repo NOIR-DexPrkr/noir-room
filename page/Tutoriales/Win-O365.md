@@ -42,6 +42,7 @@ Todas traen multi-idiomas.
 +++
 
 Lo siguiente que necesitas es [instalar/actualizar el windows descargado](https://www.youtube.com/watch?v=qedjN2AA3gU){target="_blank"}.     
+Para windows 11 los requisitos cambian, asi que recomiendo investigues si tu pc puede actualizarse a esa version.     
 
 Una vez hayas instalado, continua con la activación abajo...
 
