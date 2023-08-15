@@ -39,6 +39,10 @@ Todas traen multi-idiomas.
 
 [!badge variant="contrast" target="blank" text="Windows 11 x64 only"](https://files.rg-adguard.net/file/77c49a6a-be3c-5fe0-a208-8e88af629939)      
 
++++ Versiones Mini
+
+Si buscas las versiones Lite/Mini de Windows [Consiguelas aquí](https://www.dprojects.org/minios){target="_blank"}.
+
 +++
 
 Lo siguiente que necesitas es [instalar/actualizar el windows descargado](https://www.youtube.com/watch?v=qedjN2AA3gU){target="_blank"}.     
@@ -67,6 +71,10 @@ Este es el Office que contiene todos los programas de siempre, ademas de microso
 [!badge variant="contrast" target="blank" text="Office Empresas- Ingles"](http://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/O365BusinessRetail.img)     
 
 [!badge variant="contrast" target="blank" text="Office Empresas - Español"](http://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/es-ES/O365BusinessRetail.img)
+
++++ Para MAC (2019/2021)
+
+Consigue las versiones [para MAC aquí](https://github.com/alsyundawy/Microsoft-Office-For-MacOS){target="_blank"}. Se recomienda traducir la pagina si no sabes ingles. Esta version ya trae un activador en .pkg.
 
 +++
 
