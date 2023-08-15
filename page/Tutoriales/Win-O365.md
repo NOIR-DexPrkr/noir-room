@@ -7,7 +7,7 @@ layout: default
 
 # Windows 8.1/10/11 & Office O365 con funciones online.
 
-![](https://i.postimg.cc/JzDxTvGw/Header-tutos-1.png)
+![](https://i.postimg.cc/RCXVmY5Z/Header-tutos-6.png)
 
 > **¿Tienes una petición o duda durante el tutorial?**       
 > *Hazlo desde* [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
