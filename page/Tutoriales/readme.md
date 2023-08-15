@@ -25,5 +25,5 @@ order: 2000
 5. [Minecraft Java & Bedrock](minecraft.md)
 6. [Navegación Segura](navega-seguro.md)
 7. [Neo Store](neostore.md)
-8. [Office 365](O365.md)
+8. [Office 365](Win-O365.md)
 9. [Spotify Premium](spotify-premium.md)
