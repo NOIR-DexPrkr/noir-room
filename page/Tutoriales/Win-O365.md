@@ -5,7 +5,7 @@ icon: file-binary
 layout: default
 ---
 
-# Windows 8.1/10/11 & Office O365 con funciones online.
+# Windows & Office O365
 
 ![](https://i.postimg.cc/RCXVmY5Z/Header-tutos-6.png)
 
@@ -16,7 +16,7 @@ layout: default
 
 ## Escoge tu instalacion
 
-==- 💿 Windows X
+==- 💿 Windows 8.1/10/11
 
 Nos descargamos la version deseada de Windows.
 
