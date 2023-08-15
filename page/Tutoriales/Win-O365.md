@@ -20,24 +20,24 @@ layout: default
 
 Nos descargamos la version deseada de Windows.
 
-> Estos links se bajan con [Free Download Manager - FDM](https://www.freedownloadmanager.org/es/). 
-> Una vez lo instales, abrelo y te saldra para hacerlo descargador predeterminado. Solo asi se abrira el programa al dar click a los botones de descarga. Si aun luego de hacer lo mencionado, no te abre el descargador, dale click derecho al boton, copiar link, y pegalo en FDM.    
+> Estos links se recomiendan descargar con [Free Download Manager - FDM](https://www.freedownloadmanager.org/es/). 
+> Dale click derecho al boton, copiar link, y pegalo en FDM.    
 
 Todas traen multi-idiomas.
 
 +++ Win 8.1       
 
-[!badge variant="contrast" target="blank" text="Windows 8.1 x32"](magnet:?xt=urn:btih:dc167297520ecf2e440875505d2c43288566ca7f&dn=Win8.1_Spanish_x32.iso&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce)      
-[!badge variant="contrast" target="blank" text="Windows 8.1 x64"](magnet:?xt=urn:btih:e0864615669f560529809ec4b5d69e3a50d99848&dn=Win8.1_Spanish_x64.iso&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce)     
+[!badge variant="contrast" target="blank" text="Windows 8.1 x32"](https://files.rg-adguard.net/file/2389a256-18e1-bb2a-5c5a-82b2b816d2d9)      
+[!badge variant="contrast" target="blank" text="Windows 8.1 x64"](https://files.rg-adguard.net/file/da563cd0-f02d-552b-e0ac-8a285b7ebc85)     
 
 +++ Windows 10       
 
-[!badge variant="contrast" target="blank" text="Windows 10 x32"](magnet:?xt=urn:btih:b6ea7271628edf24bbd87f3876e9f908596ca643&dn=Win10_22H2_Spanish_x32.iso&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce)       
-[!badge variant="contrast" target="blank" text="Windows 10 x64"](magnet:?xt=urn:btih:73da5815a5fe144f82b6cc973dda5b6c08c3446f&dn=Win10_22H2_Spanish_x64.iso&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce)     
+[!badge variant="contrast" target="blank" text="Windows 10 x32"](https://files.rg-adguard.net/file/874b32c9-ece3-016b-3ea2-4594c8d2d627)       
+[!badge variant="contrast" target="blank" text="Windows 10 x64"](https://files.rg-adguard.net/file/50dd00e6-a934-85c1-4f8f-ad1f060fc878)     
 
 +++ Windows 11 
 
-[!badge variant="contrast" target="blank" text="Windows 11 x64 only"](magnet:?xt=urn:btih:7500dc4d4bd588b0bab91b264591a83f6366eca7&dn=Win11_22H2_Spanish_x64v1.iso&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce)      
+[!badge variant="contrast" target="blank" text="Windows 11 x64 only"](https://files.rg-adguard.net/file/77c49a6a-be3c-5fe0-a208-8e88af629939)      
 
 +++
 
