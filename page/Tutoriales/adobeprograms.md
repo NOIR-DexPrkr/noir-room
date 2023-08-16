@@ -109,7 +109,7 @@ Estos programas acontinuación vienen parchados, preactivados y listos para usar
 ==- 🟦 Photoshop     
 Para las versiones la contraseña de todos es: `www.artistapirata.com`       
       
-[!badge target="blank" corners="pill" text="CC 2023"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2Fvxho87az9vftx32%2FWIN_APR_V23.5.0.56_AP_ZNT.rar%2Ffile%3Aptw6JuFzPinQZqxuyBcDLTNuP3c&cuid=4208103)        
+[!badge target="blank" corners="pill" text="CC 2023"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile_premium%2Fdfbjnli6gkfgo2g%2FWIN_APS_V24.6.0.573.rar%2Ffile%3ALkujnKzNBELkkXfmCZxkLXtxYmA&cuid=4208103)        
 *Esta version viene sin los filtros IA.*       
 [!badge target="blank" corners="pill" text="CC 2022"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2Fyp0f1r4j0d6r21b%2FWIN_APS_V23.5.0.669_AP_ZNT.rar%2Ffile%3Asa9zMJb198iceDCybhEHp-TnIXw&cuid=4208103)            
 [!badge target="blank" corners="pill" text="CC 2021"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2Fkew510adp462kyy%2FWIN_APS_V22.5.8.998_AP_ZNT.rar%2Ffile%3AGU54grbZPWIMzy-XsSUD0g0pWho&cuid=4208103)              
