@@ -64,23 +64,20 @@ Si confias, continua...
 
 ## Photoshop AI - Filtros.
 
-Quizas vienes por photoshop 2023 con los filtros de IA... abre la ventana de abajo.    
+Quizas vienes por photoshop 2023 con los filtros de IA (Firefly)... abre la ventana de abajo.    
 Si no, continua....
 
 ==- Photoshop + Filtros IA
 
-[!badge corners="pill" target="blank" text="Photoshop CC 2023"](https://filecr.com/windows/adobe-photoshop-2023-0061/?id=936829400000)     
-*Una vez en la pagina, mira a la derecha y veras los links de descarga. Selecciona `Adobe Photoshop` y luego descarga directa o torrent.     
-Una vez descargues dale a `Firefly AI Support` y descarga ese tambien.
+[!badge corners="pill" target="blank" text="FireFly - Photoshop CC 2023"](https://pesktop.com/en/windows/adobe-firefly-for-adobe-photoshop)     
+*Necesitas descargar primero Photoshop 24.6 en la seccion de abajo. Y esto podria en teoria generar problemas con el parche que ya trae la app.*    
 
 ##### **Pasos a seguir**
 
-- Si usaste la descarga directa, descomprime el archivo.
-- Si usaste torrent no es necesario, asi que continua...
-- Ve a la carpeta y da doble click al archivo .ISO *`Los otros archivos son para comprobar si los programas son originales o fueron modificados, ya revise todo, asi que con confianza sigue los pasos.`*
-- Dale click derecho al archivo `autoplay.exe` y ejecutalo como administrador. (si no quieres, no, pero es recomendado.)
-- Una vez termine la instalacion, abre Photoshop y ve a `Ayuda > Iniciar sesion` o `Help > Login`
-- Luego descomprime el el firefly AI support `contraseña es 123` y ejecutalo como administrador.
+- Descomprime el archivo. Contraseña: 123
+- Abre Photoshop y ve a `Ayuda > Iniciar sesion` o `Help > Login`
+- Inicia sesion en una cuenta cualquiera de adobe.
+- Dale click derecho al archivo `fireflyAI.exe` y ejecutalo como administrador. (si no quieres, no, pero es recomendado.)
 - Espera que termine de parchar los filtros y listo.       
 
 Quizas sea necesario bloquear algunas URL en tu archivo host: Si no sabes como [Click Aquí](https://www.ionos.es/digitalguide/servidores/configuracion/archivo-hosts/#:~:text=los%20sistemas%20débiles.-,Así%20editas%20el%20archivo%20hosts,XP%2C%207%2C%208%20y%2010&text=Selecciona%20la%20opción%20“Ejecutar%20como,podrás%20modificar%20el%20archivo%20hosts.)
@@ -104,7 +101,7 @@ Ojo este photoshop requiere de una computadora muy potente, si tienes un computa
 
 ## Descarga los programas
 
-Estos programas acontinuación vienen parchados, preactivados y listos para usar. Es recomendado bloquear los .exe de cada programa una vez los instales usando el firewall de windows. [Mira como se hace aqui](https://www.xataka.com/basics/como-bloquear-el-acceso-a-internet-a-una-aplicacion-con-el-firewall-de-windows#:~:text=Bloquear%20el%20acceso%20a%20Internet%20de%20una%20aplicación%20que%20ya,acceso%20a%20Internet%20por%20completo.)
+Estos programas acontinuación vienen parchados, preactivados y listos para usar. Es recomendado bloquear los .exe de cada programa una vez los instales usando el firewall de windows (excepto si quieres usar FireflyAI). [Mira como se hace aqui](https://www.xataka.com/basics/como-bloquear-el-acceso-a-internet-a-una-aplicacion-con-el-firewall-de-windows#:~:text=Bloquear%20el%20acceso%20a%20Internet%20de%20una%20aplicación%20que%20ya,acceso%20a%20Internet%20por%20completo.)
 
 ==- 🟦 Photoshop     
 Para las versiones la contraseña de todos es: `www.artistapirata.com`       
