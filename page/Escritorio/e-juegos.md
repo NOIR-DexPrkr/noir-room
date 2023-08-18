@@ -206,3 +206,5 @@ Versiones originales y definitivas de manera individual a continuación.
 > fg-optional-bonus-content.bin y fg-optional-documentaries.bin son contenido extra y documentales.
 
 ---
+
+> Si tienes problemas con la instalacion reportalos en [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
