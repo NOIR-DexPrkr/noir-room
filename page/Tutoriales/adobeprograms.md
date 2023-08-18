@@ -67,7 +67,7 @@ Si confias, continua...
 Quizas vienes por photoshop 2023 con los filtros de IA (Firefly)... abre la ventana de abajo.    
 Si no, continua....
 
-==- Photoshop + Filtros IA
+==- Photoshop + Filtros IA (Actualmente presenta fallas)
 
 [!badge corners="pill" target="blank" text="FireFly - Photoshop CC 2023"](https://pesktop.com/en/windows/adobe-firefly-for-adobe-photoshop)     
 *Necesitas descargar primero Photoshop 24.6 en la seccion de abajo. Y esto podria en teoria generar problemas con el parche que ya trae la app.*    
