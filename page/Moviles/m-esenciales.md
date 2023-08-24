@@ -260,9 +260,9 @@ Todo lo que puedes hacer en la aplicacion:
 
 **Version normal/lite:** 
 
-> Debes descargar la version premium o Premium/lite, y ademas 'MicroG' para evitar errores de la app.
-
 [!button variant="contrast" target="blank" size="xs" text="🎬 YouTube Revanced"](https://liteapks.com/youtube-revanced.html)
+
+*Debes descargar la version premium o Premium/lite, y ademas 'MicroG' para evitar errores de la app.*
 
 !!! info Solución: error de reproducción       
 Abre ajustes de la app `*Revanced Extended> Otros > Spoof player parameter type.*`    
