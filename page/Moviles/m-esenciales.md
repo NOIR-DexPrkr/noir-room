@@ -260,12 +260,12 @@ Todo lo que puedes hacer en la aplicacion:
 
 **Version normal/lite:** 
 
-> Debes descargar la version premium o Premium/lite, y ademas MicroG para poder iniciar sesion.
+> Debes descargar la version premium o Premium/lite, y ademas 'MicroG' para evitar errores de la app.
 
 [!button variant="contrast" target="blank" size="xs" text="🎬 YouTube Revanced"](https://liteapks.com/youtube-revanced.html)
 
-!!! info Buffering Error Fix       
-Abre ajustes de la app `*Revanced Extended> Miscellaneous > Enable Protobuf Spoof.*`    
+!!! info Solución: error de reproducción       
+Abre ajustes de la app `*Revanced Extended> Otros > Spoof player parameter type.*`    
 Cambia esta opcion y reinicia youtube.
 
 !!!
