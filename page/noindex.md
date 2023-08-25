@@ -1,6 +1,6 @@
 ---
 label: Index Noir
-icon: repo
+icon: archive
 layout: default
 order: 10
 title: Index Noir
