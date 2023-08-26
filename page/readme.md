@@ -5,17 +5,10 @@ layout: default
 order: 3000
 meta:
  title: Noir Room
+ 
 ---
+![](https://i.postimg.cc/6p5vCC00/Noir-Room.png)
 # Bienvenido a la Habitación de Noir
-
-![](https://i.postimg.cc/mgmrmWLT/NOIR-ROOM.png)
-
----
-
-> **Si necesitas algo mas y no esta aqui, visitame en** [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
-
----
-
 En este sitio encontraras una serie de tutoriales, programas, apps, paginas y otra serie de cosas utiles para quien lo considere asi.
 
 Encuentra de todo seleccionando los diferentes menus a la izquierda o usando la lupa que se encuentra arriba a la derecha.
@@ -23,3 +16,4 @@ Encuentra de todo seleccionando los diferentes menus a la izquierda o usando la 
 ---
 
 > El sitio esta en construccion constante, por lo tanto seguiran llegando mas aportes.
+> **Si necesitas algo mas y no esta aqui, visitame Discord.**

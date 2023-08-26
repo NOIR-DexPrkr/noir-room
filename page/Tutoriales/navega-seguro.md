@@ -4,12 +4,9 @@ title: Navegacion segura
 icon: globe
 layout: default
 ---
-
-# Navega y descarga con seguridad
-
----
-> **¿Tienes una petición o duda durante el tutorial?**       
-> *Hazlo desde* [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
+![](https://i.postimg.cc/sDLKqZSc/Navegaseguro.png)
+# Navega y Descarga con Seguridad
+No tengas miedo a la internet y navega sin pensar en anuncios o virus.
 
 ---
 
@@ -98,4 +95,7 @@ Puedes usar estos navegadores que funcionan en Android y iOS
 
 ***Eso es todo, cualquier duda recuerda que puedes contactarme en el grupo, mi pagina o mi discord***
 
+---
+> **¿Tienes una petición o duda durante el tutorial?**       
+> *Hazlo desde* [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
 

@@ -6,17 +6,13 @@ layout: default
 order: 1895
 ---
 
-# Aplicaciones para escritorio
-
-![](https://i.postimg.cc/nhtTt1RP/Header-PC.png)
-
-> **Si necesitas algo mas y no esta aqui, visitame en** [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
+![](https://i.postimg.cc/76mS7fyd/PC-musica.png)
+# Programas de Audio
+Encuentra los mejores programas relacionados al audio y música.
 
 ---
 
-## Aplicaciones para musica
-
-### Reproductores
+## Reproductores de Música
 
 - [!button variant="contrast" target="blank" size="xs" text="⭐  Foobar2000"](https://www.foobar2000.org/)  
 *Multiplataforma, altamente personalizable y con una gran cantidad de temas y extensiones.* 
@@ -35,3 +31,4 @@ order: 1895
 
 ---
 
+> **Si necesitas algo mas y no esta aqui, visitame en** [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 

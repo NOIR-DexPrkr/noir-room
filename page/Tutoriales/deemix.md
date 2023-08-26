@@ -5,12 +5,15 @@ icon: goal
 Title: Deemix - Descarga musica 
 layout: default
 ---
+![](https://i.postimg.cc/v8zNqB3q/Deemix.png)
+# Deemix Downloader - Guia PC
+Descarga música en mp3 desde deezer en tu computadora con este increible programa.
 
-# Tutorial para descargar musica desde Deemix.
 ---
 !!!info Este es un tutorial sin animo de lucro. Los sitios y descargas aquí son de total seguridad.
 Agradezco ser respetuoso y leer con cuidado los pasos.
 !!!
+
 
 ---
 
@@ -91,3 +94,8 @@ Agradezco ser respetuoso y leer con cuidado los pasos.
 
 Una vez ya pegamos la ARL y damos en "Actualizar la ARL" solo nos queda configurar las descargas, etiquetas, carpeta de guardado, etc.
 Disfruta de este programa que aun sigue vivo y quizas pronto morirá.
+
+---
+
+> **¿Tienes una petición o duda durante el tutorial?**       
+> *Hazlo desde* [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 

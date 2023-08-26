@@ -6,13 +6,9 @@ layout: default
 order: 1590
 ---
 
-# Paginas multimedia
-
-![](https://i.postimg.cc/sf8p32LG/Header-Multimedia-1.png)
-
-**Peliculas, series, musica y mas.**
-
-> **Si necesitas algo mas y no esta aqui, visitame en** [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
+![](https://i.postimg.cc/tg35sScS/Paginas-streaming.png)
+# Paginas para Streaming
+Mira Peliculas, series, musica y mas.
 
 ---
 
@@ -68,3 +64,5 @@ order: 1590
   *Escucha ruido blanco para diferentes tipos de situacion: para dormir, para calmar ansiedad, para sueños lucidos o terapias, etc.*
 
 ---
+
+> **Si necesitas algo mas y no esta aqui, visitame en** [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 

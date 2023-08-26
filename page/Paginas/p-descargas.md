@@ -6,13 +6,12 @@ layout: default
 order: 1580
 ---
 
-# Paginas para descargas
 
-![](https://i.postimg.cc/sf8p32LG/Header-Multimedia-1.png)
 
-**Descarga musica, videos**
+![](https://i.postimg.cc/SKFdNFgY/Paginas-descarga.png)
+# Paginas para Descargas
+Descarga musica, videos y mas.
 
-> **Si necesitas algo mas y no esta aqui, visitame en** [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
 
 ---
 
@@ -48,3 +47,7 @@ order: 1580
 
 - [!button variant="contrast" size="xs" target="blank" text="🔷 LoaderTo"](https://en.loader.to/4/)       
   *Descarga playlist de youtube enteras en varias calidades y formatos. Debes pegar URL/Link.*
+
+---
+
+> **Si necesitas algo mas y no esta aqui, visitame en** [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 

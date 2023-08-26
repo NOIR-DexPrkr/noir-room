@@ -4,13 +4,12 @@ title: IPTV
 icon: broadcast
 layout: default
 ---
-
+![](https://i.postimg.cc/yNcfFYDT/IPTV.png)
 # IPTV - Television Online
-
-> **¿Tienes una petición o duda durante el tutorial?**       
-> *Hazlo desde* [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
+Mira TV desde cualquier dispositivo con esta gran herramienta online.
 
 ---
+
 
 === **Que es IPTV y como funciona**
 La IPTV es la televisión por protocolo de Internet. Esto significa que los usuarios reciben programas de televisión a través de Internet en lugar de antenas, antenas parabólicas o cables de fibra óptica. En otras palabras, IPTV transmite contenido de video directamente a través de Internet. La IPTV transmite canales de televisión bajo demanda a una determinada dirección IP y reserva parte del ancho de banda de la conexión a Internet para la televisión.
@@ -105,4 +104,8 @@ http://tvla.xyz/get.php?username=vrhqyawo&password=87e0n2pQcM&type=m3u
 
 ===
 
+---
+
+> **¿Tienes una petición o duda durante el tutorial?**       
+> *Hazlo desde* [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
 

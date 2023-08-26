@@ -4,8 +4,11 @@ title: Cloud Stream
 icon: play
 layout: default
 ---
+![](https://i.postimg.cc/WbYfVyR0/Cloudstream.png)
+# Cloud Stream - Android
+Prueba la mejor app de streaming en android. Peliculas, Series, Anime, y mas.
 
-# Cloud Stream - Guia de configuración
+---
 
 !!! info Este es un tutorial sin animo de lucro. Los sitios y descargas aquí son de total seguridad.
 Agradezco ser respetuoso y leer con cuidado los pasos.
@@ -57,3 +60,10 @@ Puedes también buscar y seleccionar los resultados que te saldrán en las peque
 !!!
 
 [!badge Creditos al desarrollador](https://github.com/recloudstream/cloudstream){target="blank"}
+
+---
+
+
+> **¿Tienes una petición o duda durante el tutorial?**       
+> *Hazlo desde* [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
+

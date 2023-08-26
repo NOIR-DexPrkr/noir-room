@@ -6,12 +6,10 @@ layout: default
 order: 1789
 ---
 
+![](https://i.postimg.cc/FzsD5yDP/Movil-dise-o.png)
+# Aplicaciones para Diseño
+Aplicaciones relacionadas al diseño para Móviles.
 
-## Aplicaciones para diseño:
-
-![](https://i.postimg.cc/wBJYW2rT/Header-Movil.png)
-
-> **Si necesitas algo mas y no esta aqui, visitame en** [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
 ---
 
 ### Editores de Video
@@ -30,3 +28,8 @@ order: 1789
 
 
 > [Versiones Windows](/Escritorio/e-diseño.md)
+
+---
+
+
+> **Si necesitas algo mas y no esta aqui, visitame en** [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 

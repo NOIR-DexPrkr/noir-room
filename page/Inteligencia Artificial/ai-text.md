@@ -6,13 +6,9 @@ layout: default
 order: 1699
 ---
 
-# Inteligencia artificial
-
-![](https://i.postimg.cc/CKnDfsDC/Header-AI-1.png)
-
-**Todas las inteligencias artificiales en un mismo lugar.**
-
-> **Si necesitas algo mas y no esta aqui, visitame en** [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
+![](https://i.postimg.cc/Fz9nF5sV/IA-texto.png)
+# IA para Generación de Texto
+Todas las inteligencias artificiales para generar texto en un mismo lugar.
 
 ---
 
@@ -66,3 +62,7 @@ Usalos todos en esta pagina ycompara tus respuestas
 - [!badge variant="contrast" target="blank" text="🔷  Playground AI"](https://playgroundai.com/)    
 *Sitio para comparar las respuestas de varias inteligencias artificiales al tiempo.*
 
+---
+
+
+> **Si necesitas algo mas y no esta aqui, visitame en** [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 

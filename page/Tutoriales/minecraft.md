@@ -5,15 +5,9 @@ icon: stack
 title: Minecraft +
 layout: default
 ---
-
-# Minecraft: Todas las versiones y plataformas
-
-![](https://i.postimg.cc/yNwbCkYj/Header-mc.png)
-
----
-
-> **¿Tienes una petición o duda durante el tutorial?**       
-> *Hazlo desde* [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
+![](https://i.postimg.cc/7hsXx5Rq/Minecraft.png)
+# Minecraft Premium - Everywhere
+Descarga Minecraft completamente gratis y con todas sus funciones para cada cualquier plataforma.
 
 ---
 
@@ -198,3 +192,6 @@ Para el caso de Linux usa esta version ya crackeada. Se encuentra comprimida.
 [!button variant="contrast" target="blank" size="xs" text="PrismLauncher MAC"](https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/7.1/PrismLauncher-Linux-7.1.tar.gz)
 
 ---
+
+> **¿Tienes una petición o duda durante el tutorial?**       
+> *Hazlo desde* [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 

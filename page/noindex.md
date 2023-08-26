@@ -6,15 +6,13 @@ order: 10
 title: Index Noir
  
 ---
-# Bienvenido al Index de Noir
-
-![](https://i.postimg.cc/mgmrmWLT/NOIR-ROOM.png)
-
-> **Si necesitas algo mas y no esta aqui, visitame en** [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
+![](https://i.postimg.cc/bwKCD2wJ/Index-page.png)
+# Noir Index - Links
+Encuentra aqui una serie de links utiles y una que otra recopilacion o acceso directo de la pagina.
 
 ---
 
-## Link utiles
+## Buscadores de Todo
 
 - [!badge variant="contrast" target="blank" text="🔎 Buscador de Juegos/Programas Windows"](https://cse.google.com/cse?cx=c79aa4b5ed22a40ab#gsc.tab=0)
 - [!badge variant="contrast" target="blank" text="🔎 Buscador de Juegos/apps Android"](https://cse.google.com/cse?cx=660831ba151944e87)
@@ -24,3 +22,4 @@ title: Index Noir
 ---
 
 > El sitio esta en construccion constante, por lo tanto seguiran llegando mas aportes.
+> **Si necesitas algo mas y no esta aqui, visitame en Discord.**

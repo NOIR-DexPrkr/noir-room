@@ -5,12 +5,11 @@ icon: cloud
 layout: default
 ---
 
-# Adobe - Programas parchados
+![](https://i.postimg.cc/hj85qPgG/Adobe-programas.png)
+# Programas Adobe - Individuales
+Descarga casi todos los programas de adobe de manera individual y completos.
 
-![](https://i.postimg.cc/50pP9ZK5/Header-tutos-2.png)
-
-> **¿Tienes una petición o duda durante el tutorial?**       
-> *Hazlo desde* [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
+---
 
 ==- **Que programas puedes descargar?**
 

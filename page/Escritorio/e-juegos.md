@@ -6,11 +6,9 @@ layout: default
 order: 1897
 ---
 
+![](https://i.postimg.cc/4dX1VvkJ/PC-juegos.png)
 # Coleccion de Juegos para PC
-
-![](https://i.postimg.cc/L8f2dSXH/Header-PC-1.png)
-
-> **Si necesitas algo mas y no esta aqui, visitame en** [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
+Encuentra una gran coleccion de las mejores sagas de juegos.
 
 ---
 

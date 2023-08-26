@@ -6,11 +6,10 @@ layout: default
 order: 1786
 ---
 
-# Aplicaciones para streaming (Peliculasy series)
+![](https://i.postimg.cc/tg35sScS/Paginas-streaming.png)
 
-![](https://i.postimg.cc/wBJYW2rT/Header-Movil.png)
-
-> **Si necesitas algo mas y no esta aqui, visitame en** [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
+# Aplicaciones para Streaming
+Aplicaciones para ver peliculas y series en tu celular.
 
 ---
 
@@ -29,5 +28,8 @@ order: 1786
 - [!button variant="contrast" target="blank" size="xs" text="🔷  NoFasel"](https://github.com/N0-0NE-Dev/NoFasel/releases)   
 *En ingles con subtitulos*
 
-   
+---
+
+> **Si necesitas algo mas y no esta aqui, visitame en** [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
+
 

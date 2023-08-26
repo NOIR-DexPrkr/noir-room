@@ -5,11 +5,9 @@ icon: webhook
 layout: default
 ---
 
+![](https://i.postimg.cc/JzBKL45W/Neo-Store.png)
 # NeoStore - F droid y mas
-
----
-> **¿Tienes una petición o duda durante el tutorial?**       
-> *Hazlo desde* [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
+Instala cualquier aplicacion de codigo abierto y con funciones utiles para tu celular con esta increible tienda.
 
 ---
 
@@ -35,3 +33,7 @@ repositorios.
 
 > Descargar apps de todo tipo y con funciones muy útiles. (como descargar música gratis o ver
 películas y mas)
+
+---
+> **¿Tienes una petición o duda durante el tutorial?**       
+> *Hazlo desde* [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 

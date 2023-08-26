@@ -5,12 +5,9 @@ icon: shield-check
 layout: default
 ---
 
-# Bloquea Adware, Malware y mas con AdguardDNS
-
-![](https://i.postimg.cc/FHRcd740/Header-tutos-4.png)
-
-> **¿Tienes una petición o duda durante el tutorial?**       
-> *Hazlo desde* [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
+![](https://i.postimg.cc/vBwNjxJj/Adguard.png)
+# Adguard DNS + Antivirus
+Bloquea Adware, Malware y mas con AdguardDNS.
 
 ---
 
@@ -136,3 +133,7 @@ Controla todo el tráfico web en tus dispositivos, bloquea anuncios, rastreadore
 Eso seria todo, ahora tus dispositivos estan seguros contra todo tipo de anuncios, malware, spyware, pishing, etc.
 
 ---
+
+
+> **¿Tienes una petición o duda durante el tutorial?**       
+> *Hazlo desde* [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 

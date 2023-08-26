@@ -5,12 +5,11 @@ icon: cloud
 layout: default
 ---
 
-# Guia Completa - Adobe Creative Cloud
+![](https://i.postimg.cc/cCXkr9vy/Creative-cloud.png)
+# Creative Cloud - Programas
+Descarga los programas de Adobe directamente desde su programa oficial.
 
-![](https://i.postimg.cc/50pP9ZK5/Header-tutos-2.png)
-
-> **¿Tienes una petición o duda durante el tutorial?**       
-> *Hazlo desde* [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
+---
 
 ==- **Que programas incluye?**
 
@@ -261,3 +260,5 @@ Si deseas usar estos filtros puedes iniciar sesion desde la seccion de `ayuda > 
 
 ---
 
+> **¿Tienes una petición o duda durante el tutorial?**       
+> *Hazlo desde* [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 

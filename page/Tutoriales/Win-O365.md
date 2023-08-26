@@ -4,13 +4,9 @@ title: Windows/Office365
 icon: file-binary
 layout: default
 ---
-
+![](https://i.postimg.cc/Kv1DPvVg/Windows-Office.png)
 # Windows & Office O365
-
-![](https://i.postimg.cc/RCXVmY5Z/Header-tutos-6.png)
-
-> **¿Tienes una petición o duda durante el tutorial?**       
-> *Hazlo desde* [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
+Descarga y activa cualquiera de estos dos de manera rapida y sencilla.
 
 ---
 
@@ -21,7 +17,7 @@ layout: default
 Nos descargamos la version deseada de Windows.
 
 > Estos links se recomiendan descargar con [Free Download Manager - FDM](https://www.freedownloadmanager.org/es/). 
-> Dale click derecho al boton, copiar link, y pegalo en FDM.    
+> Dale click derecho al boton de descarga de la version que desees, copia el link, y pegalo en FDM.    
 
 Todas traen multi-idiomas.
 
@@ -54,7 +50,7 @@ Una vez hayas instalado, continua con la activación abajo...
 
 Nos descargamos cualquiera de los siguientes office365.
 
-> Si al dar click no inicia la descarga dale click derecho y abre en una nueva pestaña. O bien, dale a guardar como.
+> Si al dar click no inicia la descarga dale click derecho y abre en una nueva pestaña. O bien, dale a guardar como. Si sigue sin abrir, copia el link del boton de descarga y abrelo en una nueva pestaña. Si sigue sin funcionar, cambia de navegador.
 
 +++ Personal    
 
@@ -130,3 +126,6 @@ Por último, solo deben entrar a cualquier app de office, introducir su correo y
 
 
 ---
+
+> **¿Tienes una petición o duda durante el tutorial?**       
+> *Hazlo desde* [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 

@@ -6,13 +6,9 @@ layout: default
 order: 1697 
 ---
 
-# Inteligencia artificial para busqueda
-
-![](https://i.postimg.cc/CKnDfsDC/Header-AI-1.png)
-
-**Todas las inteligencias artificiales de busqueda en un mismo lugar.**
-
-> **Si necesitas algo mas y no esta aqui, visitame en** [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
+![](https://i.postimg.cc/02yHLs48/IA-Imagenes-2.png)
+# IA para Busquedas Web
+Todas las inteligencias artificiales para busquedas web en un mismo lugar.
 
 ---
 
@@ -34,3 +30,5 @@ order: 1697
 *El GPT de Google, responde a cualquier pregunta pero solo en ingles hasta el momento.*
 
 ---
+
+> **Si necesitas algo mas y no esta aqui, visitame en** [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 

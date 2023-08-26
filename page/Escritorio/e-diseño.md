@@ -7,11 +7,10 @@ order: 1899
 ---
 
 
-## Aplicaciones para diseño:
+![](https://i.postimg.cc/BbV5rd86/PC-dise-o.png)
+# Programas para diseño
+Encuentra aqui los programas necesarios para despertar tu creatividad.
 
-![](https://i.postimg.cc/nhtTt1RP/Header-PC.png)
-
-> **Si necesitas algo mas y no esta aqui, visitame en** [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
 ---
 
 ### Editores de imagenes
@@ -34,4 +33,9 @@ order: 1899
 
 - [!badge target="blank" variant="contrast" text="🔷  Davinci Resolve"](https://www.blackmagicdesign.com/products/davinciresolve)
 
-> [Versiones android](/moviles/m-diseño.md)
+> [Versiones android](/moviles/m-diseño.md)     
+
+
+---
+
+> **Si necesitas algo mas y no esta aqui, visitame en** [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 

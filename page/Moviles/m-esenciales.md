@@ -6,11 +6,11 @@ layout: default
 order: 1788
 ---
 
-# Aplicaciones esenciales para tu celular
 
-![](https://i.postimg.cc/vm691v5r/Header-Esenciales.png)
 
-> **Si necesitas algo mas y no esta aqui, visitame en** [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
+![](https://i.postimg.cc/Ss4gVF8b/Movil-esenciales.png)
+# Aplicaciones Esenciales
+Aplicaciones escenciales en cualquier telefono android.
 
 ---
 
@@ -337,3 +337,9 @@ Todo lo que puedes hacer en la aplicacion:
 
 
 ---
+
+
+---
+
+
+> **Si necesitas algo mas y no esta aqui, visitame en** [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 

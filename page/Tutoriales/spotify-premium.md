@@ -4,13 +4,9 @@ title: Spotify Premium
 icon: meter
 layout: default
 ---
-
-# Spotify Premium - PC/Movil
-
-![](https://i.postimg.cc/90k6YTbD/Header-tutos-3.png)
-
-> **¿Tienes una petición o duda durante el tutorial?**       
-> *Hazlo desde* [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
+![](https://i.postimg.cc/MHTbrWpN/Spotify.png)
+# Spotify Premium - PC/Móvil
+Descarga y obten las funciones premium de Spotify en cualquier dispositivo en la lista.
 
 ---
 
@@ -129,6 +125,6 @@ Puedes descargar estas versiones mod premium:
 
 ---
 
-> ***Eso es todo, cualquier duda/petición recuerda que puedes contactarme en el grupo, mi pagina o mi discord***
-
+> **¿Tienes una petición o duda durante el tutorial?**       
+> *Hazlo desde* [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
 

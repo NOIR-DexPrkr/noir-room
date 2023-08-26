@@ -6,11 +6,10 @@ layout: default
 order: 1787
 ---
 
-# Aplicaciones para streaming (Musica)
 
-![](https://i.postimg.cc/wBJYW2rT/Header-Movil.png)
-
-> **Si necesitas algo mas y no esta aqui, visitame en** [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
+![](https://i.postimg.cc/RCXg1YZ2/Movil-musica.png)
+# Aplicaciones de Audio
+Encuentra aquí las mejores aplicaciones para reproducir musica online y offline en tu celular.
 
 ---
 
@@ -82,3 +81,5 @@ Obten spotify pero sin opcion de descarga y con todas las demas funciones premiu
 [!ref Spotify Premium](/tutoriales/spotify-premium.md)
 
 ---
+
+> **Si necesitas algo mas y no esta aqui, visitame en** [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 

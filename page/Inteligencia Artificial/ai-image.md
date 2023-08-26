@@ -6,13 +6,10 @@ layout: default
 order: 1698 
 ---
 
-# Inteligencia artificial para generar imagenes
+![](https://i.postimg.cc/Z59s5LZ2/IA-Imagenes.png)
+# IA para Generación de Imágenes
+Todas las inteligencias artificiales para generar imágenes en un mismo lugar.
 
-![](https://i.postimg.cc/CKnDfsDC/Header-AI-1.png)
-
-**Todas las inteligencias artificiales en un mismo lugar.**
-
-> **Si necesitas algo mas y no esta aqui, visitame en** [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
 
 ---
 
@@ -46,3 +43,7 @@ order: 1698
 
 - [!badge variant="contrast" text="🔞  Stable Diffusion 18+"](https://unstability.party/)    
 *Sitio creado por la comunidad para creacion de imagenes sin restriccion, gratis y debes iniciar sesion con discord para poder crear tus imagenes.*   
+
+---
+
+> **Si necesitas algo mas y no esta aqui, visitame en** [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
