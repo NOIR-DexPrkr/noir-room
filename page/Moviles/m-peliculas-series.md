@@ -1,6 +1,5 @@
 ---
 label: Peliculas y Series
-title: Peliculas y Series
 icon: video
 layout: default
 order: 1786

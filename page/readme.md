@@ -3,8 +3,6 @@ label: Habitación de Noir
 icon: home
 layout: default
 order: 3000
-meta:
- title: Noir Room
  
 ---
 ![](https://i.postimg.cc/6p5vCC00/Noir-Room.png)

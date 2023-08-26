@@ -1,6 +1,5 @@
 ---
 label: Streaming
-title: Streaming
 icon: video
 layout: default
 order: 1590

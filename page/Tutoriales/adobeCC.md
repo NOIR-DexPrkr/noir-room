@@ -1,6 +1,5 @@
 ---
 label: Adobe CC
-title: Adobe Creative Cloud
 icon: cloud
 layout: default
 ---

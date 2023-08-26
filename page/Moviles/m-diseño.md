@@ -1,6 +1,5 @@
 ---
 label: Diseño
-title: Diseño
 icon: versions
 layout: default
 order: 1789

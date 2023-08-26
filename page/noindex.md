@@ -3,7 +3,6 @@ label: Index Noir
 icon: archive
 layout: default
 order: 10
-title: Index Noir
  
 ---
 ![](https://i.postimg.cc/bwKCD2wJ/Index-page.png)

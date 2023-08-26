@@ -1,6 +1,5 @@
 ---
 label: IA Imagenes
-title: IA Imagenes
 icon: file-media
 layout: default
 order: 1698 

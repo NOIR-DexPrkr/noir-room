@@ -1,6 +1,5 @@
 ---
 label: AdguardDNS
-title: AdguardDNS
 icon: shield-check
 layout: default
 ---

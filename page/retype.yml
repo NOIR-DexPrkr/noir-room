@@ -6,6 +6,11 @@ branding:
   logo: Icon-white.png
   logoDark: Icon-dark.png
   label: Dex
+  
+meta:
+  title: " - Noir Room"
+  
+  
 links:
   - text: Facebook 
     icon: people

@@ -1,6 +1,5 @@
 ---
 label: Neo Store
-title: Neo Store
 icon: webhook
 layout: default
 ---

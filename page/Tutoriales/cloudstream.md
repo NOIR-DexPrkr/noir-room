@@ -1,6 +1,5 @@
 ---
 label: Cloud Stream
-title: Cloud Stream
 icon: play
 layout: default
 ---

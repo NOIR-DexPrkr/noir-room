@@ -1,6 +1,5 @@
 ---
 label: Musica streaming
-title: Musica streaming
 icon: play
 layout: default
 order: 1787

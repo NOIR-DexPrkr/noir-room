@@ -1,6 +1,5 @@
 ---
 label: Musica
-title: Musica
 icon: play
 layout: default
 order: 1895

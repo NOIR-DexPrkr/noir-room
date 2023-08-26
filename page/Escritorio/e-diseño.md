@@ -1,6 +1,5 @@
 ---
 label: Diseño
-title: Diseño
 icon: device-desktop
 layout: default
 order: 1899

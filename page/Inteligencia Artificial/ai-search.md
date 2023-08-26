@@ -1,6 +1,5 @@
 ---
 label: IA Busqueda
-title: IA Busqueda
 icon: codescan
 layout: default
 order: 1697 

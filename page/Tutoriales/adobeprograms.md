@@ -1,6 +1,5 @@
 ---
 label: Adobe - Programas
-title: Adobe - Programas
 icon: cloud
 layout: default
 ---

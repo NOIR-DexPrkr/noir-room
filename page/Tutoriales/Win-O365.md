@@ -1,6 +1,5 @@
 ---
 label: Windows/Office365
-title: Windows/Office365
 icon: file-binary
 layout: default
 ---

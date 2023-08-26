@@ -1,6 +1,5 @@
 ---
 label: Esenciales
-title: Esenciales
 icon: heart-fill
 layout: default
 order: 1788

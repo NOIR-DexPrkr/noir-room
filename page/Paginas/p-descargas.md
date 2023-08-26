@@ -1,6 +1,5 @@
 ---
 label: Descargas
-title: Descargas
 icon: move-to-bottom
 layout: default
 order: 1580

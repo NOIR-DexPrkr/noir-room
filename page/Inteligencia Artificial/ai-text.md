@@ -1,6 +1,5 @@
 ---
 label: IA Texto
-title: IA Texto
 icon: typography
 layout: default
 order: 1699
