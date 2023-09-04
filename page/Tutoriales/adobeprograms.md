@@ -65,7 +65,7 @@ Si confias, continua...
 Quizas vienes por photoshop 2023 con los filtros de IA (Firefly)... abre la ventana de abajo.    
 Si no, continua....
 
-==- Photoshop + Filtros IA (Actualmente presenta fallas)
+==- Photoshop + Filtros IA (Actualmente no esta funcionando bien)
 
 [!badge corners="pill" target="blank" text="FireFly - Photoshop CC 2023"](https://pesktop.com/en/windows/adobe-firefly-for-adobe-photoshop)     
 *Necesitas descargar primero Photoshop 24.6 en la seccion de abajo. Y esto podria en teoria generar problemas con el parche que ya trae la app.*    
@@ -88,6 +88,7 @@ Quizas sea necesario bloquear algunas URL en tu archivo host: Si no sabes como [
 127.0.0.1 guzg78logz.adobe.io 
 guzg78logz.adobe.io
 b5kbg2ggog.adobe.io
+127.0.0.1 23ynjitwt5.adobe.io
 
 ``` 
 
@@ -105,7 +106,6 @@ Estos programas acontinuación vienen parchados, preactivados y listos para usar
 Para las versiones la contraseña de todos es: `www.artistapirata.com`       
       
 [!badge target="blank" corners="pill" text="CC 2023"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile_premium%2Fdfbjnli6gkfgo2g%2FWIN_APS_V24.6.0.573.rar%2Ffile%3ALkujnKzNBELkkXfmCZxkLXtxYmA&cuid=4208103)        
-*Esta version viene sin los filtros IA.*       
 [!badge target="blank" corners="pill" text="CC 2022"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2Fyp0f1r4j0d6r21b%2FWIN_APS_V23.5.0.669_AP_ZNT.rar%2Ffile%3Asa9zMJb198iceDCybhEHp-TnIXw&cuid=4208103)            
 [!badge target="blank" corners="pill" text="CC 2021"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2Fkew510adp462kyy%2FWIN_APS_V22.5.8.998_AP_ZNT.rar%2Ffile%3AGU54grbZPWIMzy-XsSUD0g0pWho&cuid=4208103)              
 [!badge target="blank" corners="pill" text="CC 2020"](http://disq.us/url?url=http%3A%2F%2Fwww.mediafire.com%2Ffile%2F732cz8arne5nlda%2FPSCC2K21.21.2.4.WIN.AP.ZNT.rar%3AKFIXEo7XoBONQly5Bs_BOWP-CAE&cuid=4208103)             

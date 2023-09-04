@@ -57,7 +57,7 @@ Es un programa de animación de vectores, el cual permite dar movimiento a disti
 
 Si solo quieres descargar e instalar el programa sin mucho lio, recomiendo la opcion facil.      
 
-Las opciones Experto e intermedio estan pensados para las personas que no confian en los repacks, programas pre-registrados, o en esta pagina. Todo lo necesario para que salga perfecta la instalacion esta en las intrucciones. Por lo ranto, evita preguntar cosas que ya estan aqui, sigue al pie de la letra cada consejo.
+Las opciones Experto e intermedio estan pensados para las personas que no confian en los repacks, programas pre-registrados, o en esta pagina. Todo lo necesario para que salga perfecta la instalacion esta en las intrucciones. Por lo ranto, evita preguntar cosas que ya estan aqui, sigue al pie de la letra cada consejo. Revisa los archivos necesarios unas lineas mas abajo.
 
 - [!badge variant="danger" text="**Nivel Experto:** Usando Creative Cloud."](#creative-cloud---instalador-de-adobe)
 - [!badge variant="warning" text="**Nivel Intermedio:** Usando el Instalador Offline de cada programa."](#sin-creative-cloud---programas-descargables)

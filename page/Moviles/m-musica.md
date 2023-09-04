@@ -48,7 +48,7 @@ Cuando entres a la página procura descargar la versión estable recomendada que
 TIDAL es uno de los mejores servicios de música actuales, quizás el mejor. Tiene funciones y características muy sobresalientes.
 Las necesarias para disfrutar de la música sin limites.
 
-*Antes de descargar e instalar TIDAL necesitas primero leer estas intrucciones con atencion.*
+*Antes de descargar e instalar TIDAL necesitas primero leer estas instrucciones con atencion.*
 
 ==- Instrucciones 👇    
 
