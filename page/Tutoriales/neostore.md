@@ -20,7 +20,7 @@ Es un cliente de F-droid con repositorios extra. Es decir,una tienda de apps de 
 
 1. Descargamos desde el siguiente link:
 
-[!badge variant="success" text"descarga Neo-Store"](https://github.com/NeoApplications/Neo-Store/releases)
+[!badge variant="success" text"Descarga Neo-Store"](https://github.com/NeoApplications/Neo-Store/releases)
 
 2. Se abrira una pagina donde debes bajar hasta la sección assets y descargar el archivo **APK**:
 

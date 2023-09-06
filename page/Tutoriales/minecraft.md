@@ -23,7 +23,7 @@ Descarga Minecraft completamente gratis y con todas sus funciones para cada cual
 
 1. Descargate la version de prueba en la tienda de Microsoft.
 
-[!badge variant="sucess" target="blank" text="Descargalo aqui!"](https://www.xbox.com/es-EC/games/store/minecraft-for-windows/9nblggh2jhxj)
+[!badge variant="success" target="blank" text="Descargalo aqui!"](https://www.xbox.com/es-EC/games/store/minecraft-for-windows/9nblggh2jhxj)
 
 ![](https://i.postimg.cc/RZt01XCb/2023-05-19-16-38-40.png)
 ![](https://i.postimg.cc/Zqh5wpCY/2023-05-19-16-34-08.png)
