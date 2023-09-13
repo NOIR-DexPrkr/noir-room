@@ -54,8 +54,8 @@ Version minima de android: 7
 
 ==- Interfaz    
 
-![](https://i.postimg.cc/Znkx42HH/Screenshot-20230913-100226-Inner-Tune.png)
-![](https://i.postimg.cc/05JVFdnZ/Screenshot-20230913-100218-Inner-Tune.png)
+![](https://i.postimg.cc/6QKgCCb6/Screenshot-20230913-100226-Inner-Tune.png)
+![](https://i.postimg.cc/TwCzdh9d/Screenshot-20230913-100218-Inner-Tune.png)
 
 ===
 
@@ -82,8 +82,8 @@ Version minima de android: 8
 
 ==- Interfaz    
 
-![](https://i.postimg.cc/wBGkb7sS/Screenshot-20230913-100128-Simp-Music.png)
-![](https://i.postimg.cc/zXC0Xz9g/Screenshot-20230913-102031-Simp-Music.png)
+![](https://i.postimg.cc/yYJMK1SK/Screenshot-20230913-100128-Simp-Music.png)
+![](https://i.postimg.cc/9Mm3Hyyg/Screenshot-20230913-102031-Simp-Music.png)
 
 ===
 
@@ -102,7 +102,7 @@ Version minima de android: 8
 
 Puede ser configurada, no necesariamente luce asi.
 
-![](https://i.postimg.cc/6pzcnH66/Screenshot-20230913-100605-Sp-Mp.png)
+![](https://i.postimg.cc/t4W81B5m/Screenshot-20230913-100605-Sp-Mp.png)
 
 ===
 
@@ -143,8 +143,8 @@ Version minima de android: 5
 
 ==- Interfaz    
 
-![](https://i.postimg.cc/mgTVcxs6/Screenshot-20230913-100317-Black-Hole.png)
-![](https://i.postimg.cc/9F5LhRN2/Screenshot-20230913-100313-Black-Hole.png)
+![](https://i.postimg.cc/90ks9SKs/Screenshot-20230913-100317-Black-Hole.png)
+![](https://i.postimg.cc/j22GLKgz/Screenshot-20230913-100313-Black-Hole.png)
 
 ===
 
@@ -175,7 +175,7 @@ Version minima de android: 7
 
 ==- Interfaz    
 
-![](https://i.postimg.cc/HLx22Qjw/Screenshot-20230913-100412-Musify.png)
+![](https://i.postimg.cc/sDttDkph/Screenshot-20230913-100412-Musify.png)
 
 ===
 
