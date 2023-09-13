@@ -30,6 +30,157 @@ Encuentra aquí las mejores aplicaciones para reproducir musica online y offline
 
 ## Streaming + Descaga inApp
 
+### InnerTune    
+
+[!button variant="contrast" target="blank" size="xs" text="⭐  Descarga Innertune"](https://github.com/z-huang/InnerTune/releases)
+
+Este es un cliente de Youtube Music en el que puedes reproducir y descargar musica, incluso iniciar sesion.     
+Version minima de android: 7 
+
+==- Caracteristicas
+- Reproduce canciones de YT/YT Music sin anuncios
+- Reproducción en segundo plano
+- Busca canciones, vídeos, álbumes y listas de reproducción de YouTube Music
+- Gestión de biblioteca
+- Guarda en caché y descarga canciones para reproducirlas sin conexión
+- Letras sincronizadas
+- Saltar silencio
+- Normalización de audio
+- Tema dinámico
+- Localización
+- Compatibilidad con Android Auto
+- Selecciones rápidas personalizadas
+- Material 3
+
+==- Interfaz    
+
+![](https://i.postimg.cc/Znkx42HH/Screenshot-20230913-100226-Inner-Tune.png)
+![](https://i.postimg.cc/05JVFdnZ/Screenshot-20230913-100218-Inner-Tune.png)
+
+===
+
+---
+
+### SimpMusic (BETA)    
+
+[!button variant="contrast" target="blank" size="xs" text="⭐  Descarga SimpMusic"](https://github.com/maxrave-dev/SimpMusic/releases)
+
+Este es otro cliente de Youtube Music con una interfaz muy parecida a Spotify en el que puedes reproducir y descargar musica, incluso iniciar sesion. Tiene una interfaz parecida a spotify.      
+Version minima de android: 8
+
+==- Caracteristicas    
+
+- Reproducir música de YouTube Music o YouTube gratis sin anuncios en segundo plano
+- Navega por Home, Charts, Moods & Genre con los datos de YouTube Music con alta velocidad
+- Busca todo en YouTube
+- Analiza los datos de reproducción y crea listas de reproducción personalizadas.
+- Almacenamiento en caché y puede guardar los datos para la reproducción sin conexión
+- Letras sincronizadas
+- Soporte SponsorBlock
+- Temporizador
+- Y mucho más
+
+==- Interfaz    
+
+![](https://i.postimg.cc/wBGkb7sS/Screenshot-20230913-100128-Simp-Music.png)
+![](https://i.postimg.cc/zXC0Xz9g/Screenshot-20230913-102031-Simp-Music.png)
+
+===
+
+---
+
+### SpMp    
+
+[!button variant="contrast" target="blank" size="xs" text="⭐  Descarga SpMp"](https://github.com/toasterofbread/spmp/releases)
+
+Este es otro cliente de Youtube Music en el que puedes reproducir y descargar musica, altamente configurable e incluso te permite iniciar sesion.     
+Version minima de android: 8    
+
+[Visita este link para ver todas sus caracteristicas](https://github-com.translate.goog/toasterofbread/spmp/wiki?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en&_x_tr_pto=wapp)
+
+==- Interfaz    
+
+Puede ser configurada, no necesariamente luce asi.
+
+![](https://i.postimg.cc/6pzcnH66/Screenshot-20230913-100605-Sp-Mp.png)
+
+===
+
+---
+
+### BlackHole    
+
+[!button variant="contrast" target="blank" size="xs" text="⭐  Descarga BlackHole"](https://github.com/Sangwan5688/BlackHole/releases)
+
+Este es otro cliente de Youtube y YT Music con interfaz similar a spotify en el que puedes reproducir y descargar musica.
+No tiene para inicio de sesion.    
+Version minima de android: 5
+
+==- Caracteristicas   
+
+- La mejor calidad de streaming (320kbps)
+- Búsqueda por álbum y por canción
+- Música en tendencias
+- Soporte a +15 idiomas (En la música)
+- Top local y global de canciones en Spotify
+- Añade canciones a favoritos
+- Soporte a listas de reproducción
+- Importa listas de reproducción de Spotify
+- Importa/Exporta listas de reproducción a un archivo JSON
+- Comparte listas de reproducción
+- Hora de dormir
+- Soporte para letras
+- Administración de cola
+- Registro del historial de reproducción
+- Modo obscuro / Color de acento
+- Descarga para escuchar sin conexión (320kbps con etiquetas ID3)
+- Escucha en línea de igual manera que sin conexión
+- Búsqueda automática de actualizaciones
+- Soporte a caché
+- No necesita subscripción
+- Sin anuncios
+- Soporte para YouTube
+
+==- Interfaz    
+
+![](https://i.postimg.cc/mgTVcxs6/Screenshot-20230913-100317-Black-Hole.png)
+![](https://i.postimg.cc/9F5LhRN2/Screenshot-20230913-100313-Black-Hole.png)
+
+===
+
+---
+
+### Musify    
+
+[!button variant="contrast" target="blank" size="xs" text="⭐  Descarga Musify"](https://github.com/gokadzev/Musify/releases)
+
+Este es otro cliente de YT Music en el que puedes reproducir y descargar musica.
+No cuenta con inicio de sesion, peor si copia de seguridad.    
+Version minima de android: 7
+
+==- Caracteristicas   
+
+- Búsqueda de canciones en línea con sugerencias
+- Soporte Streaming
+- Soporte de descarga
+- Importa y exporta tus datos y nunca los pierdas
+- Añadir listas de reproducción personalizadas con enlace
+- Soporte Para Reproducir Canciones Locales / Descargadas
+- Alta Calidad mp3 / m4a / flac Formato
+- Sin Anuncios
+- No Suscripciones
+- Actualizador incorporado
+- 12 Idiomas Soportados
+- Material UI & Accent Colors & Dynamic Colors (Android 12+)
+
+==- Interfaz    
+
+![](https://i.postimg.cc/HLx22Qjw/Screenshot-20230913-100412-Musify.png)
+
+===
+
+---
+
 ### Deezer
 [!button variant="contrast" target="blank" size="xs" text="⭐  Descarga Deezer"](https://liteapks.com/deezer.html)      
 
@@ -39,39 +190,6 @@ Encuentra aquí las mejores aplicaciones para reproducir musica online y offline
 *Actualmente Deezer ya no es valida en muchos paises, y las versiones MOD recientes solo evitan que te cierren tu sesion al entrar.      
 Cuando entres a la página procura descargar la versión estable recomendada que es la numero `7.0.7.54` de la pagina compartida.*
 !!!
-
----
-
-### TIDAL    
-[!button variant="contrast" target="blank" size="xs" text="⭐  Descarga TIDAL"](https://www.xmanagerapp.com/)     
-
-TIDAL es uno de los mejores servicios de música actuales, quizás el mejor. Tiene funciones y características muy sobresalientes.
-Las necesarias para disfrutar de la música sin limites.
-
-*Antes de descargar e instalar TIDAL necesitas primero leer estas instrucciones con atencion.*
-
-==- Instrucciones 👇    
-
-1. Descarga o instala este VPN en tu celular.
-
-- [App android](https://play.google.com/store/apps/details?id=com.tunnelbear.android&hl=en&gl=US)     
-
-2. Crea la cuenta que te dara 2GB gratuitos. No los usaremos todos, es solo porque es un VPN confiable para lo que haremos.
-
-
-3. Descarga la app desde el boton de arriba, se descargara X-manager, esta app nos ayudara de manera segura a instalar TIDAL. 
-
-4. En Xmanager en la seccion en azul que dice Wave. Esa es TIDAL, instalala.
-
-5. Al abrir la app crea una cuenta (sign up / register) y selecciona el plan FREE.
-
-6. Termina de configurar la cuenta y una vez este listo todo, puedes desconectar la VPN.
-
-*Luego de crear la cuenta ya no sera necesario tener la VPN activa.*
-
-*Eso es todo, disfruta de TIDAL.*
-
-=== 
 
 ---
 
