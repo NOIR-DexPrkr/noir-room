@@ -24,13 +24,13 @@ Encuentra aqui los programas necesarios para despertar tu creatividad.
 
 *Editores de video faciles de usar y con herramientas utiles para casi toda situacion.*       
 
-- [!badge target="blank" variant="contrast" text="⭐  CapCut"](https://filecr.com/windows/capcut/?id=010347713000)
+- [!badge target="blank" variant="contrast" text="⭐  PowerDirector"](https://pesktop.com/en/windows/cyberlink_powerdirector_ultimate)
 
-- [!badge target="blank" variant="contrast" text="⭐  Filmora X"](https://filecr.com/windows/filmorax-12/?id=425224225000)
-
-- [!badge target="blank" variant="contrast" text="🔷  PowerDirector"](https://filecr.com/windows/cyberlink-powerdirector/?id=844623090000)
+- [!badge target="blank" variant="contrast" text="⭐  Filmora X"](https://pesktop.com/en/windows/wondershare_filmora)
 
 - [!badge target="blank" variant="contrast" text="🔷  Davinci Resolve"](https://www.blackmagicdesign.com/products/davinciresolve)
+
+- [!badge target="blank" variant="contrast" text="🔷  Camtasia 2022"](https://pesktop.com/en/mac/techsmith-camtasia-2022)
 
 > [Versiones android](/moviles/m-diseño.md)     
 
