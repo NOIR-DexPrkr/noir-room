@@ -15,9 +15,6 @@ Aplicaciones para ver peliculas y series en tu celular.
 
 ## Peliculas y series
 
-- [!button variant="contrast" target="blank" size="xs" text="⭐  MagisTV"](https://www.magistv.top/)     
-*Audio en español e ingles, tambien con subtitulos.*
-
 - [!button variant="contrast" target="blank" size="xs" text="🔷  HDO BOX"](https://hdo.app/)    
 *En ingles con subtitulos*
 
