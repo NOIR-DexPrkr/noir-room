@@ -62,7 +62,7 @@ Las opciones Experto e intermedio estan pensados para las personas que no confia
 - [!badge variant="danger" text="**Nivel Experto:** Usando Creative Cloud."](#creative-cloud---instalador-de-adobe)
 - [!badge variant="warning" text="**Nivel Intermedio:** Usando el Instalador Offline de cada programa."](#sin-creative-cloud---programas-descargables)
 - [!badge variant="success" text="**Nivel Facil:** Usando instaladores ya parchados y listos para ejecutar."](/tutoriales/adobeprograms.md)
-- *Si solo vienes por el photoshop con inteligencia artificial la facil es tu mejor opcion.*
+- *Tu mejor opcion si solo quieres instalar y usarlos. Puedes bajar versiones desde 2018 a la mas reciente.*
 
 ---
 
@@ -192,7 +192,7 @@ Versiones individuales sin parchar y originales de las CC 2019.
 +++
 
 > Si solo deseas Photoshop CC:
-> Descarga su version sin parchar y original desde las CC 2016 hasta 2023. Recuerda desconectarte de internet al instalar estás versiones.
+> Descarga su version sin parchar y original desde las CC 2016 hasta 2023. Recuerda desconectarte de internet al instalar estás versiones. *Las versiones 2016 a 2018 no pueden ser parchadas con GenP*.
 
 === Versiones
 [!badge variant="success" target="blank" corners="pill" text="2016 32/64bits"](https://windowstan.com/download/photoshop-cs6/)
