@@ -15,17 +15,26 @@ Mira Peliculas, series, musica y mas.
 
 ### Para ver gratis
 
-- [!button variant="contrast" size="xs" target="blank" text="⭐ Entre Peliculas y Series"](https://entrepeliculasyseries.pro/)      
+- [!button variant="contrast" size="xs" target="blank" text="⭐ Cuevana 3"](https://www.cuevana3.ch/)      
   *Audio en español e ingles con subtitulos*
 
 - [!button variant="contrast" size="xs" target="blank" text="⭐ Cuevana 2"](https://www.cuevana2.icu/)      
   *Audio en español e ingles con subtitulos*
 
+- [!button variant="contrast" size="xs" target="blank" text="⭐ Entre Peliculas y Series"](https://entrepeliculasyseries.pro/)      
+  *Audio en español e ingles con subtitulos*
+  
 - [!button variant="contrast" size="xs" target="blank" text="🔷 Mira de todo"](https://miradetodo.de/)      
   *Audio en español e ingles con subtitulos*
 
 - [!button variant="contrast" size="xs" target="blank" text="🔷 PelisPlus"](https://www2.pelisplus.cx/)       
   *Audio en español e ingles con subtitulos*
+
+- [!button variant="contrast" size="xs" target="blank" text="⭐ Susflix"](https://susflix.tv/)      
+  *Audio en ingles con subtitulos*
+
+- [!button variant="contrast" size="xs" target="blank" text="🔷 Yaps.cc"](https://yaps.cc/)      
+  *Audio en ingles con subtitulos*
 
 - [!button variant="contrast" size="xs" target="blank" text="🔷 VidCorn"](https://ww1.vidcorn.to/series/)      
   *Audio en español e ingles con subtitulos*
