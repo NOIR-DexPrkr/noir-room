@@ -48,10 +48,10 @@ No tiene anuncios y es completamente gratuito, ademas tiene una gran personaliza
 
 +++ ⏬ Descarga
 
-- [!button variant="contrast" target="blank" size="xs" text="Ⓜ  MiXplorer Legacy"](https://drive.google.com/file/d/1TcUJVt85K4cYXIgIAo634sINdYeamPZN/view?usp=drive_link)      
+- [!button variant="contrast" target="blank" size="xs" text="Ⓜ  MiXplorer Legacy"](https://drive.google.com/file/d/1Z90pssJkf6puabWuKe0XoZXhDQ5dZ7CD/view?usp=drive_link)      
 *Descarga aqui la ultima version de la app desde Drive. Esta es para **Android 9 o anteriores***
 
-- [!button variant="contrast" target="blank" size="xs" text="Ⓜ  MiXplorer"](https://drive.google.com/file/d/1TcUJVt85K4cYXIgIAo634sINdYeamPZN/view?usp=drive_link)      
+- [!button variant="contrast" target="blank" size="xs" text="Ⓜ  MiXplorer"](https://drive.google.com/file/d/1E3lVWnPdf3YaEuwlacgFWGyG7aTcstKK/view?usp=drive_link)      
 *Descarga aqui la ultima version de la app desde Drive. Esta es para **Android 10 o superiores***
 
 +++ ⚙ Extensiones
