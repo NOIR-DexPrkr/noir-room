@@ -58,13 +58,13 @@ No tiene anuncios y es completamente gratuito, ademas tiene una gran personaliza
 
 > *Estas se encuentran en la PlayStore, pero los links aqui, son del drive oficial de los desarrolladores. Si deseas descargarlos desde la Store busca `Mixplorer addons`.*
 
-- [!button variant="contrast" target="blank" size="xs" text="📚 Extension para crear archivos comprimidos"](https://drive.google.com/file/d/1TcUJVt85K4cYXIgIAo634sINdYeamPZN/view?usp=drive_link)      
+- [!button variant="contrast" target="blank" size="xs" text="📚 Extension para crear archivos comprimidos"](https://drive.google.com/drive/folders/1HmXsotMG4qYVARm0cPSZdom10_NN5QZw?usp=drive_link)      
 *Para crear y organizar archivos rar, zip, etc*
 
-- [!button variant="contrast" target="blank" size="xs" text="🖼 Extension para gestion de imagenes"](https://drive.google.com/file/d/1efKICLp-Lt88iUjsO0iN1PTUx2Dz5kli/view?usp=drive_link)      
+- [!button variant="contrast" target="blank" size="xs" text="🖼 Extension para gestion de imagenes"](https://drive.google.com/drive/folders/1UKzlyiBcgRQbh1waaduSLrh4Q8TbTrax?usp=drive_link)      
 *Para gestionar tus imagenes y visualizarlas de manera facil*
 
-- [!button variant="contrast" target="blank" size="xs" text="📚 Extension para PDF"](https://drive.google.com/file/d/1ikIMVtZI0c9KK1h-OspY9MlF3qBMPVIi/view?usp=drive_link)      
+- [!button variant="contrast" target="blank" size="xs" text="📚 Extension para PDF"](https://drive.google.com/drive/folders/1cdLK7Mz-7C0gLaYHlhqsMlgpgYDrbsCh?usp=drive_link)      
 *Para leer y gestionar PDFs*
 
 - [!button variant="contrast" target="blank" size="xs" text="🎞 Extension para reproducir videos"](https://drive.google.com/drive/folders/12DaGx9S_SKYfVY-iVrz3e4aq-uX15bwC?usp=drive_link)       
