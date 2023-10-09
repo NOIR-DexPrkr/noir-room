@@ -22,7 +22,7 @@ links:
     target: blank
     
 search: 
-    mode: full
+    mode: partial
     noResultsFoundMsg: No es el termino correcto, o no tengo lo que buscas, pidelo en mi discord.
     placeholder: Busca aquí
     
