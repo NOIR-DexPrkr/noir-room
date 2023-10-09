@@ -8,7 +8,7 @@ branding:
   label: Dex
   
 meta:
-  title: " - Noir Room"
+  title: " | Noir Room"
   
   
 links:
@@ -22,13 +22,15 @@ links:
     target: blank
     
 search: 
-    mode: partial
+    mode: full
     noResultsFoundMsg: No es el termino correcto, o no tengo lo que buscas, pidelo en mi discord.
     placeholder: Busca aquí
-    
+    preload: true
     
 editor:
   enabled: true
+
+
 footer:
   copyright: "&copy; Este sitio es una recopilacion de tutoriales. No estoy ligado a lo que en ellos se encuentra."
   links: 
