@@ -20,7 +20,12 @@ links:
     icon: feed-rocket
     link: https://discord.gg/hVKeY3uEru
     target: blank
-      
+    
+search: 
+    mode: full
+    noResultsFoundMsg: No es el termino correcto, o no tengo lo que buscas, pidelo en mi discord.
+    placeholder: Busca aquí
+    
     
 editor:
   enabled: true

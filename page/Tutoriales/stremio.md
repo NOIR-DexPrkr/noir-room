@@ -27,7 +27,9 @@ Todo esto a traves de extensiones que la app trae y que puedes instalar y que so
 Facil, para descargar stremio puedes darle click en [!badge corners="pill" target="blank" text="Descarga Stremio"](https://www.stremio.com/downloads)      
 Tambien puedes usarlo online desde [!badge corners="pill" target="blank" text="Web Stremio"](https://web.stremio.com/)
 
-## Que sigue?
+> No te vayas aun, debes seguir el siguiente tutorial o no te va a funcionar nada.
+
+## Que sigue? el tutorial
 
 Desde aqui, ya todo es simple. Si creaste la cuenta, ahora solo queda añadir las extensiones desde el menu correspondiente y seleccionando el tipo de extension que quieras. Y procura seleccionar las creadas por la comunidad.
 
@@ -50,7 +52,9 @@ https://torrentio.strem.fun/providers=yts,eztv,rarbg,1337x,thepiratebay,kickasst
 ```
 
 Puedes ademas desde los plugins agregar proveedores de subtitulos si prefieres ver en ingles. Todo esta en la app.
-Te permite agregar tambien agregar ciertos sitios de streaming como youtube, sitios 18+, entre otros.     
+Te permite agregar tambien agregar ciertos sitios de streaming como youtube, sitios 18+, entre otros.  
+
+> OJO, Cuando vayas a seleccionar un proveedor de las muchas opciones que te salen, procura escoger los que no pesan tanto, y los que tengan mas seeders, los cuales son esos que tienen este icono mas un numero "👤:4". A mayor numero, mas rapido reproduce.
 
 ---
 
