@@ -264,7 +264,7 @@ Para instalar lo primero es descomprimir el archivo y ejecutar el instalador.
 - [PlayStation 2 + jugar online](https://vimm.net/vault/51094) *En español*
 - [Version java - Movil](https://www.java-ware.net/apps/download-grand-theft-auto-for-java-329760.html)
 
-## GTA III 
+### GTA III 
 
 [!button variant="contrast" target="blank" size="xs" text="🚗 Descarga GTA III - Version 10 años HD"](https://0hktc-my.sharepoint.com/personal/s2-dodi_onedrive-a2_cybar_xyz/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fs2-dodi_onedrive-a2_cybar_xyz%2FDocuments%2FDODI12%2FGrand%20Theft%20Auto%20III%20-%20%5BDODI%20Repack%5D&ga=1)      
 
@@ -276,7 +276,7 @@ Instala y sigue los pasos, debes tener instalado DirectX 9. Y recuerda que si ti
 - [Xbox ](https://vimm.net/vault/26251) *En español*
 - [Version android - Movil](https://modyolo.com/grand-theft-auto-iii.html)
 
-## GTA: Vice City
+### GTA: Vice City
 
 [!button variant="contrast" target="blank" size="xs" text="🚗 Descarga GTA: Vice City - Version 10 años HD"](https://doodrive.com/f/2j0g33)     
 *Descargara un archivo torrent, que recomiendo abrir usando 👉 [FDM](https://www.freedownloadmanager.org/es/).
@@ -291,7 +291,7 @@ Instala y sigue los pasos, debes tener instalado DirectX 9. Y recuerda que si ti
 - [Xbox ](https://vimm.net/vault/26379) *En español*
 - [Version android - Movil](https://archive.org/download/gta-vice-city.-7z/gta%20vice%20city.7z)
 
-## GTA: San Andreas
+### GTA: San Andreas
 
 
 ###### **Otras plataformas:**
@@ -303,7 +303,7 @@ Instala y sigue los pasos, debes tener instalado DirectX 9. Y recuerda que si ti
 - [Version android - Movil](https://archive.org/download/gtasa210apk/com.rockstargames.gtasa-2.00-obb-www.apkshub.com.zip)      
     - [Version MOD](https://modyolo.com/gta-san-andreas.html) *Incluye mods cleo.*
     
-## GTA IV
+### GTA IV
 
 [!button variant="contrast" target="blank" size="xs" text="🚗 Descarga GTA IV Edicion Completa"](magnet:?xt=urn:btih:937CEF5D447A785CC8B659134A9D3EFD271706CA&dn=Grand+Theft+Auto+IV%3A+The+Complete+Edition+%28v1.2.0.43+%2B+Radio+Downgrader+%2B+Vanilla+Fixes+Modpack+v1.6.2+%2B+Wrappers%29+%5BFitGirl+Repack%2C+Selective+Download+-+from+13.2+GB%5D&tr=udp%3A%2F%2F46.148.18.250%3A2710&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2730%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2770%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=http%3A%2F%2Fretracker.local%2Fannounce&tr=http%3A%2F%2Fretracker.ip.ncnet.ru%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce)     
 *El link es un magnet, se recomienda usar 👉 [FDM](https://www.freedownloadmanager.org/es/). Una vez instalado, se debe seleccionar como programa predeterminado (Te saldra un aviso la primera vez que lo abras) y luego podras abrir este link.*
@@ -317,7 +317,7 @@ Sigue los pasos del instalador en el que te pedira si deseas instalar algunos mo
 
 
 
-## GTA V
+### GTA V
 
 [!button variant="contrast" target="blank" size="xs" text="🚗 Descarga GTA V - Actualizado + Online "](magnet:?xt=urn:btih:E07F5E60A64C96334D4D29339E37A4CDEC8D8E0C&dn=Grand+Theft+Auto+V+%2F+GTA++5+%28v1.0.2802%2F1.64+Online%2C+MULTi13%29+%5BFitGirl+Repack%5D&tr=udp%3A%2F%2Fopentor.net%3A6969&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce). Una vez instalado, se debe seleccionar como programa predeterminado (Te saldra un aviso la primera vez que lo abras) y luego podras abrir este link.*
 
