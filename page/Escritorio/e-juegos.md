@@ -260,8 +260,7 @@ Para instalar lo primero es descomprimir el archivo y ejecutar el instalador.
 
 ###### **Otras plataformas:**
 
-- [PlayStation 1 + jugar online](https://vimm.net/vault/51094) *Solo en ingles*
-- [PlayStation 2 + jugar online](https://vimm.net/vault/51094) *En español*
+- [PlayStation 1](https://vimm.net/vault/6538) *Solo en ingles*
 - [Version java - Movil](https://www.java-ware.net/apps/download-grand-theft-auto-for-java-329760.html)
 
 ### GTA III 
