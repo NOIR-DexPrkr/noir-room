@@ -294,6 +294,10 @@ Instala y sigue los pasos, debes tener instalado DirectX 9. Y recuerda que si ti
 
 ### GTA: San Andreas
 
+[!button variant="contrast" target="blank" size="xs" text="🚗 Descarga GTA: San Andreas"](https://www.mediafire.com/file/coz4jbfiio23jox/147886-TAGSAN.rar/file)      
+*Contraseña: 'www.ovagames.com'*
+
+[*Pagina con la contraseña e info en caso que cambie.*](https://www.ovagames.com/grand-theft-auto-san-andreas-multi10-elamigos.html)
 
 ###### **Otras plataformas:**
 
