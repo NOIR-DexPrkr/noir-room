@@ -38,7 +38,7 @@ Descarga sus versiones a continuación:
 
 ### Sims 1
 
-[!button variant="contrast" target="blank" size="xs" text="🛤 Descarga Los sims 1"](https://www.myabandonware.com/download/kdj-the-sims-deluxe-edition)
+[!button variant="contrast" target="blank" size="xs" text="🛤 Descarga Los sims 1"](https://www.myabandonware.com/game/the-sims-deluxe-edition-bfb#download)
 
 ==- Instrucciones de instalacion Sims 1
 
@@ -205,3 +205,125 @@ Versiones originales y definitivas de manera individual a continuación.
 ---
 
 > Si tienes problemas con la instalacion reportalos en [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
+
+---
+
+## Coleccion GTA
+
+![](https://gladiatorpc.co.uk/assets/img/configurator/12GameBanner.webp)
+
+Esta serie de juegos de mundo abierto te permite controlar a un personaje en un inmenso mapa con muchas posibilidades, aqui puedes conducir vehículos, robar, luchar y realizar misiones. Entre muchas otras cosas.
+
+### GTA I
+
+[!button variant="contrast" target="blank" size="xs" text="🚗 Descarga GTA I"](https://pixeldrain.com/u/5FVutmUE)
+
+*Esta version esta lista para jugar en cualquier version de Windows. Descarga, descomprime y juega.*      
+[*Enlace alternativo*](https://gta.com.ua/rockstargames-classics-free-download.phtml) 
+*Este si es instalable. ver guia del GTA II*
+
+==- **Leer si usas el instalable**
+Para iniciar Grand Theft Auto en las últimas versiones de Windows, ejecútalo en el modo de resolución de pantalla 640x480 (haz clic con el botón derecho en Grand Theft Auto.exe > pestaña Compatibilidad > marca "Ejecutar en resolución de pantalla 640x480" > Aplicar > Aceptar).
+
+===
+
+###### **Otras plataformas:**
+
+- [PlayStation 1 + jugar online](https://vimm.net/vault/51094) *Solo en ingles*
+- [PlayStation 2 + jugar online](https://vimm.net/vault/51094) *En español*
+- [Version java - Movil](https://www.java-ware.net/apps/download-grand-theft-auto-for-java-329760.html)
+
+### GTA II
+
+[!button variant="contrast" target="blank" size="xs" text="🚗 Descarga GTA II"](https://pixeldrain.com/u/5FVutmUE)        
+[*Enlace alternativo*](https://gta.com.ua/rockstargames-classics-free-download.phtml)
+
+==- **Guia de instalación**   
+Para instalar lo primero es descomprimir el archivo y ejecutar el instalador.    
+
+- Se iniciará el programa de instalación; sigue las instrucciones de instalación que aparecen en pantalla y elige dónde quieres instalar GTA2.
+
+- GTA2 se instalará y se creará un grupo de programas para ti en "INICIO > PROGRAMAS > Rockstar Games > GTA2".
+
+- Necesitarás ejecutar "AutoDetect" desde el menú de programas ANTES de ejecutar el juego por primera vez.
+
+- En AutoDetect puedes elegir tu motor de renderizado (método de visualización de gráficos). Si tu tarjeta gráfica soporta aceleración 3D, elige "Direct3D"; si no, elige "DirectDraw" o cualquier otra opción que aparezca en el menú desplegable. Si no está seguro, elija "Direct3D" (puedes volver a cambiarlo más tarde). 
+
+- Una vez que hayas terminado con la detección automática, elige "Guardar" para guardar la configuración. Ya puedes ejecutar GTA2.
+
+- Simplemente haz clic en "INICIO > PROGRAMAS > Rockstar Games > GTA2 > GTA2" para empezar. 
+
+
+- ¡Diviértete!
+
+===
+
+###### **Otras plataformas:**
+
+- [PlayStation 1 + jugar online](https://vimm.net/vault/51094) *Solo en ingles*
+- [PlayStation 2 + jugar online](https://vimm.net/vault/51094) *En español*
+- [Version java - Movil](https://www.java-ware.net/apps/download-grand-theft-auto-for-java-329760.html)
+
+## GTA III 
+
+[!button variant="contrast" target="blank" size="xs" text="🚗 Descarga GTA III - Version 10 años HD"](https://0hktc-my.sharepoint.com/personal/s2-dodi_onedrive-a2_cybar_xyz/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fs2-dodi_onedrive-a2_cybar_xyz%2FDocuments%2FDODI12%2FGrand%20Theft%20Auto%20III%20-%20%5BDODI%20Repack%5D&ga=1)      
+
+Instala y sigue los pasos, debes tener instalado DirectX 9. Y recuerda que si tienes problemas solo se da solucion por Discord. 
+
+###### **Otras plataformas:**
+ 
+- [PlayStation 2 ](https://vimm.net/vault/66471) *En español*
+- [Xbox ](https://vimm.net/vault/26251) *En español*
+- [Version android - Movil](https://modyolo.com/grand-theft-auto-iii.html)
+
+## GTA: Vice City
+
+[!button variant="contrast" target="blank" size="xs" text="🚗 Descarga GTA: Vice City - Version 10 años HD"](https://doodrive.com/f/2j0g33)     
+*Descargara un archivo torrent, que recomiendo abrir usando 👉 [FDM](https://www.freedownloadmanager.org/es/).
+
+Instala y sigue los pasos, debes tener instalado DirectX 9. Y recuerda que si tienes problemas solo se da solucion por Discord. 
+
+[Version Stories usando emulador PS2 - Win10](https://archive.org/download/grandtheftautovicecitystorieswindows10compatible/Grand%20Theft%20Auto%20-%20Vice%20City%20Stories%20Installer.exe) *Al abrir escoge la opcion de mantener la configuracion de PS2X y luego configura los controles.
+
+###### **Otras plataformas:**
+ 
+- [PlayStation 2 ](https://vimm.net/vault/66931) *En español* [Version Stories](https://vimm.net/vault/66680)
+- [Xbox ](https://vimm.net/vault/26379) *En español*
+- [Version android - Movil](https://archive.org/download/gta-vice-city.-7z/gta%20vice%20city.7z)
+
+## GTA: San Andreas
+
+
+###### **Otras plataformas:**
+
+- [Play Statio 2](https://vimm.net/vault/66562) *En español*
+- [PlayStation 3 ](https://vimm.net/vault/25035) *En español*
+- [Xbox ](https://vimm.net/vault/26390) *En español*
+- [Xbox 360](https://vimm.net/vault/79450) *ES*
+- [Version android - Movil](https://archive.org/download/gtasa210apk/com.rockstargames.gtasa-2.00-obb-www.apkshub.com.zip)      
+    - [Version MOD](https://modyolo.com/gta-san-andreas.html) *Incluye mods cleo.*
+    
+## GTA IV
+
+[!button variant="contrast" target="blank" size="xs" text="🚗 Descarga GTA IV Edicion Completa"](magnet:?xt=urn:btih:937CEF5D447A785CC8B659134A9D3EFD271706CA&dn=Grand+Theft+Auto+IV%3A+The+Complete+Edition+%28v1.2.0.43+%2B+Radio+Downgrader+%2B+Vanilla+Fixes+Modpack+v1.6.2+%2B+Wrappers%29+%5BFitGirl+Repack%2C+Selective+Download+-+from+13.2+GB%5D&tr=udp%3A%2F%2F46.148.18.250%3A2710&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2730%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2770%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=http%3A%2F%2Fretracker.local%2Fannounce&tr=http%3A%2F%2Fretracker.ip.ncnet.ru%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce)     
+*El link es un magnet, se recomienda usar 👉 [FDM](https://www.freedownloadmanager.org/es/). Una vez instalado, se debe seleccionar como programa predeterminado (Te saldra un aviso la primera vez que lo abras) y luego podras abrir este link.*
+
+Sigue los pasos del instalador en el que te pedira si deseas instalar algunos mods y fixes... luego de eso ya todo deberia funcionar. Tardará un poco la instalacion pues es un repack comprimido.
+
+###### **Otras plataformas:**
+
+- [PlayStation 3 ](https://vimm.net/vault/84389) *En español*
+- [Xbox 360](https://vimm.net/vault/78224) *ES*
+
+
+
+## GTA V
+
+[!button variant="contrast" target="blank" size="xs" text="🚗 Descarga GTA V - Actualizado + Online "](magnet:?xt=urn:btih:E07F5E60A64C96334D4D29339E37A4CDEC8D8E0C&dn=Grand+Theft+Auto+V+%2F+GTA++5+%28v1.0.2802%2F1.64+Online%2C+MULTi13%29+%5BFitGirl+Repack%5D&tr=udp%3A%2F%2Fopentor.net%3A6969&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce). Una vez instalado, se debe seleccionar como programa predeterminado (Te saldra un aviso la primera vez que lo abras) y luego podras abrir este link.*
+
+Sigue los pasos del instalador y luego de eso ya todo deberia funcionar. Tardará un poco la instalacion pues es un repack comprimido.
+
+###### **Otras plataformas:**
+
+- [PlayStation 3 ](https://vimm.net/vault/84640) *En español*
+- [Xbox 360](https://vimm.net/vault/78936) *ES*
