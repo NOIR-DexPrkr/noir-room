@@ -273,7 +273,8 @@ Instala y sigue los pasos, debes tener instalado DirectX 9. Y recuerda que si ti
  
 - [PlayStation 2 ](https://vimm.net/vault/66471) *En español*
 - [Xbox ](https://vimm.net/vault/26251) *En español*
-- [Version android - Movil](https://modyolo.com/grand-theft-auto-iii.html)
+- [Version android - Movil](https://modyolo.com/grand-theft-auto-iii.html)    
+[*tutorial*](https://youtu.be/4ZQRGo3pz7Y)
 
 ### GTA: Vice City
 
@@ -288,7 +289,8 @@ Instala y sigue los pasos, debes tener instalado DirectX 9. Y recuerda que si ti
  
 - [PlayStation 2 ](https://vimm.net/vault/66931) *En español* [Version Stories](https://vimm.net/vault/66680)
 - [Xbox ](https://vimm.net/vault/26379) *En español*
-- [Version android - Movil](https://archive.org/download/gta-vice-city.-7z/gta%20vice%20city.7z)
+- [Version android - Movil](https://archive.org/download/gta-vice-city.-7z/gta%20vice%20city.7z)     
+[*tutorial*](https://youtu.be/4ZQRGo3pz7Y)
 
 ### GTA: San Andreas
 
@@ -300,8 +302,9 @@ Instala y sigue los pasos, debes tener instalado DirectX 9. Y recuerda que si ti
 - [Xbox ](https://vimm.net/vault/26390) *En español*
 - [Xbox 360](https://vimm.net/vault/79450) *ES*
 - [Version android - Movil](https://archive.org/download/gtasa210apk/com.rockstargames.gtasa-2.00-obb-www.apkshub.com.zip)      
-    - [Version MOD](https://modyolo.com/gta-san-andreas.html) *Incluye mods cleo.*
-    
+    - [Version MOD](https://modyolo.com/gta-san-andreas.html) *Incluye mods cleo.*      
+[*tutorial*](https://youtu.be/4ZQRGo3pz7Y)
+
 ### GTA IV
 
 [!button variant="contrast" target="blank" size="xs" text="🚗 Descarga GTA IV Edicion Completa"](magnet:?xt=urn:btih:937CEF5D447A785CC8B659134A9D3EFD271706CA&dn=Grand+Theft+Auto+IV%3A+The+Complete+Edition+%28v1.2.0.43+%2B+Radio+Downgrader+%2B+Vanilla+Fixes+Modpack+v1.6.2+%2B+Wrappers%29+%5BFitGirl+Repack%2C+Selective+Download+-+from+13.2+GB%5D&tr=udp%3A%2F%2F46.148.18.250%3A2710&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2730%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2770%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=http%3A%2F%2Fretracker.local%2Fannounce&tr=http%3A%2F%2Fretracker.ip.ncnet.ru%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce)     
