@@ -24,19 +24,16 @@ Mira Peliculas, series, musica y mas.
 - [!button variant="contrast" size="xs" target="blank" text="⭐ Entre Peliculas y Series"](https://entrepeliculasyseries.pro/)      
   *Audio en español e ingles con subtitulos*
   
-- [!button variant="contrast" size="xs" target="blank" text="🔷 Mira de todo"](https://miradetodo.de/)      
+- [!button variant="contrast" size="xs" target="blank" text="🔷 PelisPlus"](https://www17.pelisplushd.lat/pelicula/the-exorcists)       
   *Audio en español e ingles con subtitulos*
 
-- [!button variant="contrast" size="xs" target="blank" text="🔷 PelisPlus"](https://www2.pelisplus.cx/)       
-  *Audio en español e ingles con subtitulos*
-
-- [!button variant="contrast" size="xs" target="blank" text="⭐ Susflix"](https://susflix.tv/)      
+- [!button variant="contrast" size="xs" target="blank" text="⭐ Seez"](https://seez.su/)      
   *Audio en ingles con subtitulos*
 
 - [!button variant="contrast" size="xs" target="blank" text="🔷 Yaps.cc"](https://yaps.cc/)      
   *Audio en ingles con subtitulos*
 
-- [!button variant="contrast" size="xs" target="blank" text="🔷 VidCorn"](https://ww1.vidcorn.to/series/)      
+- [!button variant="contrast" size="xs" target="blank" text="🔷 GOKU"](https://goku.sx/home)      
   *Audio en español e ingles con subtitulos*
 
 - [!button variant="contrast" size="xs" target="blank" text="🔷 BingeWatch"](https://bingewatch.to/home)      
