@@ -15,7 +15,8 @@ Encuentra aquí las mejores aplicaciones para reproducir musica online y offline
 ## Streaming + Descarga Mp3/Flac
 
 ### Netease    
-[!button variant="contrast" target="blank" size="xs" text="⭐  Descarga Netease"](https://anonfiles.com/F9sfaa66zb/Netease_6_0_0_xpatch_Espa_ol_apk)  
+[!button variant="contrast" target="blank" size="xs" text="⭐  Descarga Netease"](https://doodrive.com/f/9o4zn7)        
+*Usa la opción de descarga "Browser Downloader".*
 
 *Escucha musica en una app con un catalogo de musica inmenso. Contiene de todos los continentes y sin restricciones. Permite descargar pero en la calidad 156Kbs, para mayor calidad necesitas una cuenta enlazada.*
 
