@@ -305,7 +305,7 @@ Instala y sigue los pasos, debes tener instalado DirectX 9. Y recuerda que si ti
 - [PlayStation 3 ](https://vimm.net/vault/25035) *En español*
 - [Xbox ](https://vimm.net/vault/26390) *En español*
 - [Xbox 360](https://vimm.net/vault/79450) *ES*
-- [Version android - apk](https://archive.org/download/gtasa210apk/com.rockstargames.gtasa-2.00-obb-www.apkshub.com.zip) [OBB](com.rockstargames.gtasa-2.10-free-www.apkshub.com.apk)        
+- [Version android - OBB](https://archive.org/download/gtasa210apk/com.rockstargames.gtasa-2.00-obb-www.apkshub.com.zip) [APK](https://archive.org/download/gtasa210apk/com.rockstargames.gtasa-2.10-free-www.apkshub.com.apk)        
     - [Version MOD](https://modyolo.com/gta-san-andreas.html) *Incluye mods cleo.*      
 [*tutorial*](https://youtu.be/4ZQRGo3pz7Y)
 
