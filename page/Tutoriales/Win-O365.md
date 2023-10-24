@@ -22,17 +22,22 @@ Todas traen multi-idiomas.
 
 +++ Win 8.1       
 
-[!badge variant="contrast" target="blank" text="Windows 8.1 x32"](https://files.rg-adguard.net/file/2389a256-18e1-bb2a-5c5a-82b2b816d2d9)      
-[!badge variant="contrast" target="blank" text="Windows 8.1 x64"](https://files.rg-adguard.net/file/da563cd0-f02d-552b-e0ac-8a285b7ebc85)     
+[!badge variant="contrast" target="blank" text="Windows 8.1 x64"](https://drive.massgrave.dev/es_windows_8.1_with_update_x64_dvd_6051503.iso)     
+[!badge variant="contrast" target="blank" text="Windows 8.1 x32"](https://drive.massgrave.dev/es_windows_8.1_with_update_x86_dvd_6051666.iso)   
 
 +++ Windows 10       
 
-[!badge variant="contrast" target="blank" text="Windows 10 x32"](https://files.rg-adguard.net/file/874b32c9-ece3-016b-3ea2-4594c8d2d627)       
-[!badge variant="contrast" target="blank" text="Windows 10 x64"](https://files.rg-adguard.net/file/50dd00e6-a934-85c1-4f8f-ad1f060fc878)     
+[!badge variant="contrast" target="blank" text="Windows 10 x64"](https://drive.massgrave.dev/es-es_windows_10_consumer_editions_version_22h2_updated_oct_2023_x64_dvd_eb811ccc.iso)       
+[!badge variant="contrast" target="blank" text="Windows 10 x32"](https://drive.massgrave.dev/es-es_windows_10_consumer_editions_version_22h2_updated_oct_2023_x86_dvd_eb811ccc.iso)     
+
+*Version LTSC*
+
+[!badge variant="contrast" target="blank" text="Windows 10 LTSC x64"](https://drive.massgrave.dev/es-es_windows_10_enterprise_ltsc_2021_x64_dvd_51d721ea.iso)       
+[!badge variant="contrast" target="blank" text="Windows 10 LTSC x32"](https://drive.massgrave.dev/es-es_windows_10_enterprise_ltsc_2021_x86_dvd_243c83eb.iso)  
 
 +++ Windows 11 
 
-[!badge variant="contrast" target="blank" text="Windows 11 x64 only"](https://files.rg-adguard.net/file/77c49a6a-be3c-5fe0-a208-8e88af629939)      
+[!badge variant="contrast" target="blank" text="Windows 11 x64 only"](https://drive.massgrave.dev/es-es_windows_11_consumer_editions_version_22h2_updated_oct_2023_x64_dvd_0f09f40a.iso)      
 
 +++ Versiones Mini
 
@@ -55,17 +60,25 @@ Nos descargamos cualquiera de los siguientes office365.
 
 El office de siempre con mejores funciones y con funciones extra. Incluso guardado en la nube, como sucede en Google Docs.
 
-[!badge variant="contrast" target="blank" text="Office Personal - Ingles "](http://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/O365ProPlusRetail.img)     
+[!badge variant="contrast" target="blank" text="Office Personal - Ingles "](http://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-us/O365ProPlusRetail.img)     
 
-[!badge variant="contrast" target="blank" text="Office Personal - Español"](http://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/es-ES/O365ProPlusRetail.img)
+[!badge variant="contrast" target="blank" text="Office Personal - Español"](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/es-es/O365ProPlusRetail.img)
 
 +++ Empresas     
 
 Este es el Office que contiene todos los programas de siempre, ademas de microsoft teams y otros programas y funciones para empresas.
 
-[!badge variant="contrast" target="blank" text="Office Empresas- Ingles"](http://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/O365BusinessRetail.img)     
+[!badge variant="contrast" target="blank" text="Office Empresas- Ingles"](http://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-us/O365BusinessRetail.img)     
 
-[!badge variant="contrast" target="blank" text="Office Empresas - Español"](http://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/es-ES/O365BusinessRetail.img)
+[!badge variant="contrast" target="blank" text="Office Empresas - Español"](http://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/es-es/O365BusinessRetail.img)
+
++++ Otras versiones
+
+
+[!badge variant="contrast" target="blank" text="Office 2021"](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/es-es/ProPlus2021Retail.img)        
+[!badge variant="contrast" target="blank" text="Office 2019"](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/es-es/ProPlus2019Retail.img)       
+[!badge variant="contrast" target="blank" text="Office 2016"](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/es-es/ProPlusRetail.img)
+
 
 +++ Para MAC (2019/2021)
 
@@ -108,17 +121,16 @@ Dentro de ella hay un archivo .BAT que debemos ejecutar `como administrador`.
 
 Asi se vera la ventana una vez hayas ejecutado cualquiera de los dos scripts. 
 
-![](https://i.postimg.cc/7hXnwgdD/2023-05-23-19-11-03.png)
+![](https://i.postimg.cc/G3TpBGx6/image-1.png)
 
 ### Activa Windows
 
-Solo debes darle a la opcion 1 del Menu, Y, listo.
+Solo debes darle a la opcion 1 del Menu, **HWID | Windows**. Y listo.
 
 
 ### Activa Office
 
-Solo es cuestión de presionar el número 3, seleccionar office y luego darle a Y para empezar el proceso de activación.
-
+Solo es cuestión de presionar el número 2, **Ohook | Office**. Y listo.   
 Por último, solo deben entrar a cualquier app de office, introducir su correo y listo.
 
 *Tendrán todas las opciones de Office365 activas incluyendo el autoguardado y las opciones administrativas en caso de que descarguen la versión empresa.*
