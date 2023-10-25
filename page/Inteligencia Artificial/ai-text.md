@@ -27,7 +27,7 @@ Todas las inteligencias artificiales para generar texto en un mismo lugar.
 ==- Usalos en Whatsapp
 
 Generales:     
-- [!badge variant="contrast" text="🔷  ChatBling"](https://chatbling.net/)        
+- [!badge variant="contrast" text="🔷  ChatBling - 💀"](https://chatbling.net/)        
 - [!badge variant="contrast" text="🔷  Jinni chat"](https://www.askjinni.ai/)   
 - [!badge variant="contrast" text="🔷  PI chat"](https://wa.me/+13143331111)    
 

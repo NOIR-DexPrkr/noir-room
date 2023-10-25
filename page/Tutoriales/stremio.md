@@ -21,6 +21,7 @@ En palabras simples es una plataforma que:
 - Te provee de susbtitulos y otras funciones.
 - Sincroniza lo que ves en todos los dispositivos en que lo tengas.
 Todo esto a traves de extensiones que la app trae y que puedes instalar y que son creadas por la comunidad.
+Lee esta toda pagina con cuidado, o no te funcionara lo de ver peliculas gratis.   
 
 ## Como la descargo?
 
@@ -29,13 +30,13 @@ Tambien puedes usarlo online desde [!badge corners="pill" target="blank" text="W
 
 > No te vayas aun, debes seguir el siguiente tutorial o no te va a funcionar nada.
 
-## Que sigue? el tutorial
+## Tutorial
 
 Desde aqui, ya todo es simple. Si creaste la cuenta, ahora solo queda añadir las extensiones desde el menu correspondiente y seleccionando el tipo de extension que quieras. Y procura seleccionar las creadas por la comunidad.
 
 Tambien puedes instalar extensiones por medio de links. La app te da esa opcion.
 
-La recomendada es la siguiente [!badge corners="pill" target="blank" text="Torrentio"](https://torrentio.strem.fun/configure)     
+La recomendada es la siguiente [!badge corners="pill" target="blank" text="Extension recomendada"](https://torrentio.strem.fun/configure)     
 Una vez estes en la pagina debes en cada opcion seleccionar lo que deseas ver.
 - Providers: Proveedores o sitios donde se aloja el contenido.
 - Sorting: Orden de muestra de resultados
@@ -51,6 +52,7 @@ https://torrentio.strem.fun/providers=yts,eztv,rarbg,1337x,thepiratebay,kickasst
 
 ```
 
+Este link debes pegarlo en la barra de busqueda que aparece en la seccion de extensiones de stremio.
 Puedes ademas desde los plugins agregar proveedores de subtitulos si prefieres ver en ingles. Todo esta en la app.
 Te permite agregar tambien agregar ciertos sitios de streaming como youtube, sitios 18+, entre otros.  
 

@@ -16,7 +16,10 @@ Todas las inteligencias artificiales para generar imágenes en un mismo lugar.
 ## Generacion de imagenes
 
 - [!badge variant="contrast" text="⭐  Dreamstudio"](https://dreamstudio.ai/generate)    
-*Sitio oficial de Stable Diffusion, gratis y con algunas limitaciones.*
+*Sitio oficial de Stable Diffusion (SDXL), gratis y con algunas limitaciones.*
+
+- [!badge variant="contrast" text="⭐  ClipDrop"](https://clipdrop.co/stable-diffusion)    
+*Usa el modelo de SDXL gratis y con algunas limitaciones.*
 
 - [!badge variant="contrast" text="🔷  Midjourney"](https://discord.gg/midjourney)    
 *Discord oficial de MidJourney, gratis y con algunas limitaciones.  Para empezar debes entrar a los canales "newbies" y usar el comando /imagine.*
