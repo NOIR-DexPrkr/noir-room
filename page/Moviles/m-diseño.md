@@ -15,7 +15,7 @@ Aplicaciones relacionadas al diseño para Móviles.
 
 *Editores de video faciles de usar y con herramientas utiles para casi toda situacion.*      
 
-- [!badge target="blank" variant="contrast" text="⭐  Kinemaster"](https://modyolo.com/kinemaster-pro.html)      
+- [!badge target="blank" variant="contrast" text="⭐  VivaCut"](https://modyolo.com/vivacut.html)      
 *Recomendada.*
 
 - [!badge target="blank" variant="contrast" text="🔷  Filmora Go"](https://liteapks.com/download/filmorago-854)
