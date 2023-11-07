@@ -23,7 +23,8 @@ Todo tipo de tutoriales para tu facilidad aqui en Noir Room.
 6. [Navegación Segura](navega-seguro.md)
 7. [Neo Store](neostore.md)
 9. [Spotify Premium](spotify-premium.md)
-10. [Windows + Office365](Win-O365.md)
+10. [Stremio](stremio.md)
+11. [Windows + Office365](Win-O365.md)
 
 
 ---

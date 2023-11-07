@@ -15,10 +15,10 @@ Mira Peliculas, series, musica y mas.
 
 ### Para ver gratis
 
-- [!button variant="contrast" size="xs" target="blank" text="⭐ Cuevana 3"](https://www.cuevana3.ch/)      
+- [!button variant="contrast" size="xs" target="blank" text="⭐ Cuevana 3"](https://cuevana3.ms/)      
   *Audio en español e ingles con subtitulos*
 
-- [!button variant="contrast" size="xs" target="blank" text="⭐ Cuevana 2"](https://www.cuevana2.icu/)      
+- [!button variant="contrast" size="xs" target="blank" text="⭐ Cuevana 2"](https://www.cuevana2espanol.net/)      
   *Audio en español e ingles con subtitulos*
 
 - [!button variant="contrast" size="xs" target="blank" text="⭐ Entre Peliculas y Series"](https://entrepeliculasyseries.pro/)      
